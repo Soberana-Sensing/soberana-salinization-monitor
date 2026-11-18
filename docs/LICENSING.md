@@ -17,7 +17,13 @@ Third-party data keeps its own licence and is never relicensed by us. Per-source
   Ecosystem terms.
 - Landsat: USGS, public domain.
 - Copernicus DEM: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided
-  under COPERNICUS by ESA and the EU.
+  under COPERNICUS by ESA and the EU. Used as the basis of DeltaDTM; keep the notice if any GLO-30
+  layer ships.
+- DeltaDTM v1.1: Deltares and TU Delft, CC BY 4.0, doi 10.4121/21997565.
+- ERA5-Land: Copernicus Climate Change Service, licence per the CDS terms of use.
+- GSASmap v1.0: FAO Global Soil Partnership, cite the 2024 report; the national raster is supplied
+  under the terms agreed in the data request and is not redistributed beyond those terms.
+- HWSD v2: FAO and ISRIC, licence to be confirmed on fetch.
 - CHIRPS: Climate Hazards Center, UC Santa Barbara, public domain (CC0).
 - JRC Global Surface Water: © European Union, Copernicus.
 - Global Mangrove Watch: CC BY 4.0.

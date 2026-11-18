@@ -1,12 +1,18 @@
 # Soberana Salinization Monitor
 
-Map and monitor soil salinization from free satellite data, and serve the result as a dashboard.
-Area of interest for the first phase: the Casamance, southern Senegal. The estuary and its
-lowlands are the core; the wider Casamance (Ziguinchor, Sédhiou, Kolda regions) is the eventual
-coverage.
+Map soil salinity from free satellite data, and serve the result as a dashboard. The extent is the
+Lower Casamance, southern Senegal: the geoBoundaries ADM2 union of Bignona, Oussouye and Ziguinchor
+departments, which contains the estuary and its lowlands. The wider Casamance (Sédhiou and Kolda
+added) is a later coverage decision, not the first phase.
 
-Status: scaffold, created 2026-11-18. No method validated, no map published, no dashboard beyond
-a placeholder. The plan lives in `docs/PLAN.md` and binds once written.
+The delivered quantity is electrical conductivity of the saturated paste extract, ECe in dS/m, for
+0–30 cm and 30–100 cm, with the 1:5 extract basis declared beside it, because Casamance laboratories
+report 1:5 and the conversion to ECe is texture-dependent.
+
+Status: scaffold, created 2026-11-18. No method validated, no map published, no dashboard beyond a
+placeholder. The product on offer today is a prior-conditioned salinity risk indicator: no accuracy
+number, no trend claim, and the word "monitoring" withheld until a georeferenced ECe observation set
+dated 2021 or later exists. The plan lives in `docs/PLAN.md` and binds once written.
 
 ## Why Casamance
 
@@ -34,14 +40,16 @@ risk.
 
 ## What the tool should do
 
-1. Map salinity state at field-relevant resolution (10 m Sentinel-2 grid, 30 m where Landsat
-   history is needed), as classes rather than a bare continuous index.
-2. Separate saline from acid-sulfate-affected ground, since the management response differs.
-3. Track change over the Sentinel-2 era (2015-06-23 onward) and, at coarser confidence, over the
-   Landsat era (1984 onward).
-4. Show the drivers that make a map actionable: proximity to the estuary and tidal creeks, surface
-   water, mangrove extent, dike infrastructure where data exists, rainfall of the preceding wet
-   season.
+1. Map ECe at the resolution each data source supports: a 1 km static baseline from priors plus
+   covariates, and a 30 m moisture and state layer where the satellite record carries the signal.
+   Classes come with exceedance probabilities, not a bare continuous index.
+2. Separate saline from acid-sulfate-affected ground, since the management response differs. The acid
+   flag stays `potential` until a field pH confirms it.
+3. Track change over the Sentinel-2 era (2015-06-23 onward) only after a 2021-or-later ECe dataset
+   exists to anchor the state; the Landsat record (1984 onward) supports context, not a trend claim.
+4. Show the drivers that make a map actionable: proximity to the estuary and tidal creeks, elevation,
+   surface water, mangrove extent, dike infrastructure where data exists, rainfall of the preceding
+   wet season.
 5. Serve all of it as a dashboard: layer toggles, time slider, class legend, uncertainty, and a
    download for the polygons behind a click.
 
@@ -54,16 +62,34 @@ conductivity is the gate, not an optional extra.
 
 ## Method direction
 
-Sentinel-2 L2A surface reflectance, dry-season and wet-season composites, screened with the scene
-classification layer. Salinity and brightness indices (SI, SI2, NDSI, BSI, NDVI, SAVI), plus
-Sentinel-1 C-band backscatter for surface roughness and moisture, plus a DEM for elevation and
-distance-to-water terms. Classifier candidates: random forest and gradient boosting, with the
-published Saloum result as the reference design (Sentinel-1 alone is weak, around 0.62–0.67
-overall accuracy; the optical stack carries the discrimination).
+Two stages, in this order.
+
+**Static baseline.** A Bayesian ECe field at 1 km: GSASmap v1.0 as the national ECe prior, HWSD v2
+where it carries ECe for Senegal, and iSDAsoil 30 m plus SoilGrids 250 m as covariates (texture, pH,
+drainage). Published salt-affected area for Senegal exists (51 471.8 km² at 0–30 cm, 26.7 % of the
+country, ECe > 2 dS/m, 1953–2020 average), but the 1 km raster is not on an open endpoint, so the
+national raster is requested from FAO GSP and from INP as Senegal's INSII focal point. Output is a
+posterior mean, P(ECe>2), P(ECe>4), P(ECe>8), FAO class, and an uncertainty layer.
+
+**Moisture, then joint state.** Surface salt expression cannot be separated from surface moisture in
+the optical signal, and the literature has not resolved the aliasing. So soil moisture at 30 m comes
+first, driven by Sentinel-1 C-band statistics with tidal stage and ERA5-Land rainfall. The joint
+salt–moisture state is then a mass balance forced by inundation frequency, tide stage, rainfall and
+evapotranspiration, with dry-season Sentinel-2 indices as observations rather than as the state
+variable. Optical indices used: SI, SI2, NDSI, BSI, NDVI, SAVI, MNDWI.
+
+Terrain comes from DeltaDTM v1.1 (30 m, CC BY 4.0, mean absolute error 0.43–0.45 m). Copernicus
+GLO-30 is kept as reference: its vertical error on sub-1 % slopes makes inundation modelling fiction,
+and CoastalDEM's free tier is 90 m, which is worse. DeltaDTM's error is declared as a band term.
 
 SoilGrids and iSDAsoil are not usable as salinity priors: neither product maps electrical
 conductivity or salts, so there is nothing to ingest. They remain useful for texture and drainage
-context.
+context, and texture sets the 1:5 to ECe conversion interval.
+
+Validation stays the gate. No local ECe dataset exists, so the shipped static product is labelled a
+risk indicator, and gates 1–3 of `AGENTS.md` are met as far as they can be without labels. The field
+campaign is designed before it is run: stratified by tidal zone × land cover × class, paired dry and
+wet season, 0–20 and 20–50 cm, ECe plus 1:5 plus pH plus texture.
 
 ## Layout
 

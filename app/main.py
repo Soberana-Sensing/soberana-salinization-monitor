@@ -95,8 +95,9 @@ def main() -> None:
     st.set_page_config(page_title="Soberana Salinization Monitor", layout="wide")
     st.title("Soberana Salinization Monitor")
     st.caption(
-        "Soil salinization mapping and monitoring, Casamance, Senegal. "
-        "Scaffold, 2026-11-18: boundaries only, no map product yet."
+        "Soil salinity risk indicator, Lower Casamance, Senegal. "
+        "Scaffold, 2026-11-18: boundaries only, no map product yet. "
+        "Prior-conditioned risk indicator, no local validation exists."
     )
 
     options = aoi_options()
@@ -142,20 +143,26 @@ def main() -> None:
         st.dataframe(SALINITY_CLASSES, hide_index=True, use_container_width=True)
         st.caption(
             "EC of the saturated paste extract, topsoil 0-30 cm, dS/m at 25 C. "
-            "USDA/NRCS breakpoints, the same ones used in the Senegalese salinity literature."
+            "USDA/NRCS breakpoints, the same ones used in the Senegalese salinity literature. "
+            "Casamance laboratories report 1:5 extract; the 1:5 basis and its conversion interval "
+            "are shown beside every ECe figure."
         )
 
     with tab_method:
         st.markdown(
             """
-**What this will map.** Salinity class per lowland polygon, with an acid sulfate flag kept on a
-separate axis. Sentinel-2 L2A surface reflectance supplies the spectral signal, Sentinel-1 C-band
-adds surface roughness and moisture, Copernicus DEM supplies elevation and distance-to-water terms.
+**What this will map.** ECe in dS/m for 0-30 cm and 30-100 cm, with P(ECe>2), P(ECe>4), P(ECe>8),
+FAO class and an acid sulfate flag on a separate axis. Static baseline at 1 km from GSASmap and
+HWSD priors plus iSDAsoil and SoilGrids covariates. Soil moisture at 30 m from Sentinel-1, tidal
+stage, rainfall and evapotranspiration comes before any salt state layer, because optical indices
+confuse surface salt with surface water. Terrain from DeltaDTM v1.1, 30 m, mean absolute error
+about 0.45 m, declared as a band.
 
-**What it cannot promise.** Optical indices confuse surface salt with dry mudflat and dead
-mangrove. The map is a validated classification or it is not published. Published Senegalese
-work reaches R² 0.73 for EC in the Saloum (Djilor, 300 topsoil samples, Landsat 2017) and
-0.94-0.98 overall accuracy with Sentinel-2 plus Sentinel-1; neither transfers to Casamance
+**What it is not.** A prior-conditioned salinity risk indicator. No accuracy number, no trend
+claim, and the word monitoring is withheld until a georeferenced ECe dataset dated 2021 or later
+exists. Optical indices confuse surface salt with dry mudflat and dead mangrove. Published
+Senegalese work reaches R² 0.73 for EC in the Saloum (Djilor, 300 topsoil samples, Landsat 2017)
+and 0.94-0.98 overall accuracy with Sentinel-2 plus Sentinel-1; neither transfers to Casamance
 without local field labels.
 
 **Change detection.** Same-season epochs, direct class comparison, transition matrix, rainfall
