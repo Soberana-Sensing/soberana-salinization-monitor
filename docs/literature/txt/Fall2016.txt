@@ -1,0 +1,901 @@
+Soil Management for Improved Rice Production in Casamance, Senegal Thioro Fall Thesis submitted to the faculty of the Virginia Polytechnic Institute and State University in partial fulfillment of the requirements for the degree of Master of Science In Department of Crop and Soil Environmental Sciences John Galbraith, co-Chair Thomas Thompson, co-Chair Wade Thomason, member Ozzie Abaye, member (May 2nd, 2016) Blacksburg, Virginia
+Keywords: Senegal, Rice, WAR 1 rice cultivar, planting methods, biochar, oyster shell, soil salinity, soil acidity ii Soil Management for Improved Rice Production in Casamance, Senegal Thioro Fall ABSTRACT
+Rice is a staple crop for many countries, and is one of the top three food crops in the world.
+Environmental stresses such as drought, salinity, diseases, acidity and iron toxicity are likely to
+limit its growth and yield. In southern Senegal (Casamance), rice is mainly cultivated in lowland
+areas near mangrove swamps where salinity, acidity, and infertility constitute the main yield limiting factors. In the Casamance region, average rice yield is 1 to 2 t ha-1. Our objectives were
+to 1) evaluate soil profile physical and chemical characteristics and monitor groundwater height,
+EC and pH throughout the rice growing season; 2) evaluate effects of two planting methods on
+salinity and rice yield, and 3) evaluate the response of soil properties and rice yield to addition of two locally available amendments—biochar and crushed oyster shell. Field experiments were
+conducted during 2014 and 2015 near Ziguinchor in southern Senegal, with the salt-tolerant
+cultivar WAR1. The site has a saline-sodic and acidic acid-sulfate soil. Two planting methods (flat and bedded) and three amendments treatments (18 t ha-1 biochar, 8.2 t ha-1 crushed oyster
+shell, and a combination of biochar+shell) with six replicates were tested in a split-plot design
+for their effect on rice yield and phenology and soil properties. All plots were fertilized. Plant
+tissue was collected at panicle differentiation for elemental analysis. We also measured water
+table height, EC, and pH weekly during 2014. A complete soil profile description and analysis was conducted. The water table was above the surface and very saline (>10 dS m-1) during the
+first half of the growing season in 2014, but began to decrease at panicle initiation, reaching <4 dS m-1 by harvest. Planting methods and amendments did not have a significant effect on yield in
+2014. However, yield was significantly higher in the biochar treatment compared to the control
+in 2015. Overall, yields were higher in 2014 than 2015. In 2014, soil salinity (EC) and sodicity (SAR) decreased to <4 dS m-1 and <13, respectively, in the flat treatment after harvest, but were
+significantly higher in bedded treatments. Soil pH increased from 4.4 to 7.7 in flat treatment where biochar+shell was applied. Rice yield was 3.51 t ha-1 in 2014 and varied between 2.44 to 3.18 t ha-1 in 2015 compared to 1 - 2 t ha-1 average yields in Ziguinchor. Our results show that
+rice should be planted flat (without raised beds) in lowland rice production systems in Senegal.
+Biochar shows promise for increasing rice yield.
+iii Soil Management for Improved Rice Production in Casamance, Senegal Thioro Fall GENERAL AUDIENCE ABSTRACT
+Rice is a staple crop for many countries around the world, and is one of the top three food
+sources globally. Many environments where rice is grown contain stressors likely to limit its
+growth and yield. In southern Senegal (Casamance region), rice is mainly cultivated in lowlands
+near estuaries where drought, salinity, acidity, poor soil fertility, and iron toxicity are the main
+limiting factors. In Casamance, average rice yield for local farmers is 1 to 2 tons per hectare (809
+to 1618 pounds per acre), compared to worldwide average yield of more than 4 tons per hectare.
+The soil where our 2-year experiment (2014 and 2015) was conducted is highly saline-sodic and
+acidic, and the salt tolerant cultivar we grew yielded 3.4 tons per hectare in 2013. Our main
+objective was to increase rice yield. The water table height, salinity, and pH were measured
+weekly during the rice growing season, and the soil was described, sampled, and analyzed to
+better understand the water and soil resources. Two planting methods were tested: flat planting
+and planting on beds. Two soil amendments were compared with each planting method: biochar
+and crushed oyster shells, alone and in combination. An untreated control was included in the
+experiment. All plots were fertilized. Treatment effects on soil properties and yield were
+compared in a split-plot design. Plant tissue was sampled for elemental content. The water table
+was above the surface and was saline during half of the growing season in 2014, and decreased
+after rice grain head emerged. Planting methods and amendments did not have an effect on yield in 2014, but biochar amendment increased yield in 2015. In 2014, soil salinity and sodium
+decreased to below toxic levels late in the growing season in the flat plots but not in the bedded
+plots. Therefore, flat planting is more appropriate in these lowland rice production systems. Soil
+pH increased from 4.4 to 7.7 in flat planting where biochar+shell was applied. Soil available
+nutrients such as P, Mn, and Zn were significantly higher in flat planting compared to beds.
+Toxic levels of Na (> 2000 milligrams per kilogram) were measured in leaves sampled just before flowering. We recommend flat planting and amending soil with biochar in saline-sodic acid-sulfate paddy soils in Casamance to improve rice yield.
+iv Acknowledgements Thank you to the Great, the One God Who Gave me life, health, and strength to start and finish this fruitful journey. On April 24th, I have learned that it is always important to remember where you came from, who brought here, who you were and who you have become.
+I am a Senegalese student brought at Virginia Tech by the USAID/ERA Project which has funded my education and research. This project gave me the opportunity to learn science in my
+favorite language, the chance to test my strength and weakness as an outsider in a new world, the
+ability to see what are missing in my native country, and most importantly the advantage to work
+we wonderful scientists at the CSES Department. For those, I am deeply grateful to USAID/ERA Project.
+Among the brilliant scientists of the CSES Department, I would like to thank Dr. John M.
+Galbraith, Dr. Thomas L. Thompson, Dr. Wade E. Thomason, and Dr. A. Ozzie Abaye my committee member. This team was the best one ever. They have metamorphosed me to the
+student I am today. They made me work very hard but I had the chance to go in the field with
+two of them and they worked hard too. I would like to tell you that you are in the list of teachers
+and professors who have positively affected my life and education. You are my references and thank you will never be enough to express my gratitude to you.
+Our study was facilitated by different partners. I would like to thank Dr. Saliou Djiba the Director of ISRA/Ziguinchor, Simeon Bassene, Boubacar Bamba, Tombon, Lassana, and all the ISRA team. Thank you to Dr. Demba F. Mbaye and his team at USAID/ERA office in Dakar.
+Thank you to Dr. Mike Bertelsen, Dr. Larry Vaughan and Dr. Khaled Hassouna at the OIRED office at Virginia Tech.
+I would like to thank all CSES faculty and staff particularly Dr. Lee Daniels, Dr. Ben Tracy, and
+Dr. Takeshi Fukao for the support. Thank you to Judy Keister, Julia Burger, Rhonda, Shrader,
+Nicole Green, Rachel Saville, Jen Stewart, Patricia Donovan, and the team of the Soil Test Lab for their nice work and their hospitality.
+I appreciate the help of the LISA collaborators in data treatment and thank you so much for that.
+v Thank you to my CSES peers specially Dan Johnson who has helped me a lot when I arrived at
+the department. He spent extra hours answering all my questions and I will never forget that.
+Thank you to my Senegalese fellows Sekouna Diatta and Andre Diatta for their support and understanding during our time living as family.
+vi Table of contents Contents Soil Management for Improved Rice Production in Casamance, Senegal .................................................... i
+ABSTRACT .................................................................................................................................................. ii
+GENERAL AUDIENCE ABSTRACT ........................................................................................................ iii
+Acknowledgements ...................................................................................................................................... iv
+Table of contents .......................................................................................................................................... vi
+List of Tables .............................................................................................................................................. vii
+List of Figures ............................................................................................................................................ viii
+Chapter 1: Introduction ................................................................................................................................. 1
+Chapter 2: Literature Review ........................................................................................................................ 3
+2.1. Lowland Rice Production: Potential and Constraints in Sub-Saharan Africa ............................... 3
+2.2. Hydrology and Geochemistry of Lowland Areas in Casamance .................................................. 4
+2.3. Salt-affected Soils in Agricultural Lands ...................................................................................... 5
+2.4. Acidity in Lowland Rice Paddies .................................................................................................. 8
+2.5. Management of acidic and saline-sodic Soils in Lowland Rice Paddies .................................... 10
+References: .................................................................................................................................................. 15
+Chapter 3: Soil Management for Improved Rice Production in Casamance, Senegal ................................ 23
+Abstract ....................................................................................................................................................... 24
+3.1. Introduction ................................................................................................................................. 25
+3.2. Materials and Methods ................................................................................................................ 27
+3.3. Results ......................................................................................................................................... 31
+3.4. Discussion ................................................................................................................................... 35
+3.5. Summary and Conclusions.......................................................................................................... 39
+List of Tables and Figures ........................................................................................................................... 44 vii List of Tables
+Table 1: Characterization of biochar from Eucalyptus camaldulensis ........................................ 44
+Table 2: Oyster Shell Characterization ........................................................................................ 45
+Table 3: Soil profile description in lowland rice paddy at Djibelor, Southern Senegal, in July 2014. Samples were collected at 12o 34’16.46’’ N, 16o 18’32.43’’ W.......................................... 46
+Table 4: Physical and Chemical Properties of the Soil Profile Djibelor, Southern Senegal, in July 2014. Samples were collected at 12o 34’16.46’’ N, 16o 18’32.43’’ W........................................... 45
+Table 5: ANOVA for WAR 1 rice yield and phenological parameters in 2014 and 2015 ......... 48
+Table 6: Mean separations for WAR1 yield and phenology in 2014 and 2015 .......................... 49
+Table 7: ANOVA for Soil Chemical Properties after 2014 rice growing season (Harvest) ....... 50
+Table 8: Mean differences for soil chemical properties after 2014 rice growing season (Harvest)
+....................................................................................................................................................... 51 viii List of Figures Figure 1: Average Cumulative Rainfall from 2009-2015 and 2014, 2015 in Casamance
+Southern Senegal, ISRA Ziguinchor............................................................................................. 52
+Figure 2: Groundwater depth in deep and shallow piezometers at 3 different positions (lower,
+middle and upper) at Djibelor Research site. Water depth was monitored weekly. The reference
+bars at 0 correspond to the ground level ....................................................................................... 54
+Figure 3: Groundwater depth in wells 3 different positions (lower, middle and upper) at Djibelor
+Research site. Water depth was monitored weekly. The reference bars at 0 correspond to the
+ground level .................................................................................................................................. 55
+Figure 4: Groundwater EC in deep and shallow piezometers 3 different positions (lower, middle
+and upper) at Djibelor Research site. The EC was monitored weekly. The reference bars at 4 dS
+m-1 correspond to the EC threshold ............................................................................................ 56
+Figure 5: Groundwater pH in deep and shallow piezometers 3 different positions (lower, middle
+and upper) at Djibelor Research site. The pH was monitored weekly. The reference bars at 7
+correspond to the pH threshold ..................................................................................................... 57
+Figure 6: Soil pH, EC, and SAR (Saturated paste method) after tillage of the Rice Field (lower
+site) in Djibelor prior to adding amendments and transplanting in 2014 ..................................... 58
+Figure 7: Soil Profile in the lower site (Location of our study plots) .......................................... 59 1 Chapter 1: Introduction
+Rice is the most consumed cereal in Senegal. It is mainly produced in the Northern region (Saint-
+Louis, Matam) in irrigated systems, and in the Southern region (Casamance) in rainfed lowland and upland ecosystems. The increasing population in Senegal from 3 million in 1960 to 14
+million in 2014 (World-Bank 2016) necessitates more food and land to meet demand. From 1960 to 2015, rice consumption in Senegal increased from 163 (1000 t) to 1,500 (1000 t), and
+production increased from 53 (1000 t) to 480 (1000 t). Rice imports increased from 110 (1000 t)
+in 1960 to 1000 (1000 t) in 2015 (IndexMundi 2016). Food security and self-sufficiency rely on cereal supplies in Senegal but rice production encounters increasing challenges such land
+degradation, water scarcity, and rural poverty. In the Southern part of Senegal (Casamance),
+where this study was conducted, salinity, sodicity and acidity as well as low soil organic matter and poor fertility of the soils constitute the main limiting factors for rice production.
+The Government of Senegal has implemented projects with a goal to reduce rice imports by producing more grain. However, these efforts have been unsuccessful. For example, in 2013 the PSE (Senegal Emerging Program) was initiated with PRACAS (Accelerated Program for
+Agriculture in Senegal) as one of its components. The objective of PRACAS is to ensure rice
+self-sufficiency by 2017. With a budget of 64 million USD to provide seeds, fertilizer inputs,
+and machinery, 38 million USD were allocated to the production of 600,000 t of paddy rice in the Northern part of Senegal while 26 million USD were invested in the Southern region to produce 400,000 t of paddy rice in rainfed lowland and upland ecosystems (USDA 2015).
+Despite those efforts, Senegal remains the second largest rice importer in West Africa after Nigeria (IndexMundi 2016).
+In Casamance, rice production in mangrove swamps is mainly practiced by the “Jola” community. Rice is their dominant subsistence crop (Linares 2002). It represents a valuable
+tradition because some rituals are done only with the rice they cultivate themselves. Across
+different ecosystems, the Jola have developed techniques such as diking to control tidal waters as
+well as rainwater storage and distribution. Land management consists of incorporation of animal
+waste and plant residues as compost during the dry season and tillage after the first rain drops.
+Mineral fertilizer is not applied to rice paddies due to their high cost. During the last decade, 2 average rainfall in Casamance has attained > 1200 mm nearly as much as before the 1970s
+drought in the Sahel (Blesgraaf et al. 2006). It had dropped from 1,500 mm to 1,000 mm and the rainy season lasted 3 instead of 5 months (Cormier-Salem 1999). As a consequence, the
+Casamance River became hypersaline and seawater intrusion begun to invade inlands (Savenije
+and Pagès 1992). Hence, rice cultivation in lowland mangrove was abandoned by the Jola due to
+high salinity and acidity (PERACOD 2008). Harvested rice could no longer last until the next
+growing season and imported rice became a vital food source for the Jola. Beside yield reduction
+due to salinity, migrate of the Jola to big cities was another consequence of land salinization. As
+a result, Jola families have seen their labors reduced and buying imported rice was the cheapest
+alternative since land preparation and harvest are done manually and require heavy labor. The
+drying of rice fields drives oxidation of iron sulfides, thus lowering soil pH to critical level for rice production. The model scenarios studied by Blesgraaf et al. (2006) show that the
+hypersalinity of the Casamance River is irreversible. The impact of salinity and acidity on rice
+yield in Senegal and West Africa in general, have prompted Africa Rice to test new rice varieties tolerant to environment stresses.
+Given these major concerns at national and local levels, improved field management practices
+for acidic, salt-affected soils have become crucial. This research aims to identify management practices for increasing rice yield (WAR 1 salt tolerant cultivar) to 6 t ha-1 versus 3.4 t ha-1 in
+2013. It also constitutes a basis for future research and planning for successful rice production in Casamance. The objectives were to (1) evaluate soil profile physical and biochemical
+characteristics and monitor groundwater height, EC and pH throughout the rice growing season,
+(2) evaluate effects of two planting methods on salinity, (3) improve soil chemical properties and
+increase rice yield by addition of two amendments—biochar and crushed oyster shell as a liming material.
+3 Chapter 2: Literature Review 2.1. Lowland Rice Production: Potential and Constraints in Sub-Saharan Africa
+Rice is a semi-aquatic annual grass, a short-day summer crop grown under diverse climatic and
+edaphic conditions. Rice belongs to the genus Oryza which contains about 22 species (Vaughan
+1994). Among them, two species (Oryza sativa and Oryza glaberrima) are cultivated and 20 are
+wild. O. sativa is cultivated worldwide whereas O. glaberrima is grown in West and Central
+Africa (OECD 1999; Sanchez et al. 2013). Rice is photoperiod sensitive, meaning that its growth
+is affected by day length. This sensitivity increases with plant age up to 28 days then decreases
+as plants mature (Vergara and Chang 1985). Rice life cycle can be divided into three agronomic
+growth stages. The vegetative stage is from germination to panicle initiation, the reproduction
+stage from panicle initiation to flowering, and the ripening stage from flowering to full grain development (Moldenhauer 2001; Vergara and Chang 1985). The reproductive and ripening
+phases are more constant and stable than the vegetative phase, which takes longer. The optimum soil pH range for rice is 4.9 to 6.5 (Brady and Weil 2008).
+Rice is a staple crop for many countries around the world. In 2014, paddy rice production worldwide was estimated at about 740 M tons from about 163 M hectares of harvested area (FOASTAT 2016). The contribution of Asia was ~ 90 % of production, America 5.1 %, Africa 4.2 %, and Oceania 0.5 % etc. China (mainland) and India accounted for 49% of Asian
+production. North African countries contributed 47 % of African production with 162,449 ha of harvested areas whereas Western Africa produced 34 % with 460,913 ha harvested, about 3
+times that of North Africa (FOASTAT 2016). In Africa, Sub-Saharan Africa (SSA) particularly,
+land degradation, poor soil fertility management, low farm inputs etc. are the major causes of low rice yield. Average rice yield in Africa was 1.87 t ha-1 in 2000-2003, compared to the world average of 3.84 t ha-1 (Norman and Kebe 2006). In 2014, annual population growth reached 2.7
+% in SSA compared to 2.5 in 2010 (World-Bank 2016). The increasing population across Africa
+results in the need for intensification of crop production. This situation incentivizes farmers in
+SSA to grow crops successively, depleting soil nutrients and therefore lowering their fertility. As
+a result, less fertile soils such as forest and grassland areas are converted to agricultural lands
+(Henao and Baanante 2006), and without fertilizer application. In addition to nutrient mining, the
+occurrence of drought, salt-affected soils, acidified soils, and low OM inputs constitute an obstacle to achieve food security and reduce rice importation in Africa.
+4 During the past decade, the potential of SSA to successfully and economically produce rice to meet local demand has been investigated. Hence, critical decisions need to be made about options relating to sustainable agricultural expansion to cope with demand, poverty, land
+degradation and water scarcity. In Western Africa, rice is cultivated in variety of ecosystems classified as irrigated, rainfed-lowland, rainfed-upland, mangrove swamp and deep-water
+systems (Somado et al. 2008). Lowland rice ecology represents 20 – 50 M ha in West Africa, and a yield of 3 t ha-1 on average in only 2 M ha can reduce West African rice imports (Rice-LRVI
+2006). According to (Bouman et al. 2007): “Rice production under flooded conditions is highly sustainable.” However, increasing threat of salinity associated with climate change (CC)
+consequences is an issue for rice production. Climate change also worsens drought, submergence and heat stresses on rice plants (Wassmann et al. 2009).
+In West Africa, particularly in Casamance/Senegal, salinity, acidity, poor soil fertility and low
+organic C content in soils restrict the yield of lowland rainfed rice to about 1.0 to 2.0 t ha-1
+(Wolfe et al. 2009). As a result, salt-tolerant rice varieties were developed by Africa Rice to
+improve yield. In Senegal, 45 rice varieties are cultivated (ISRA 2012) across the country.
+Among them are 26 varieties are for irrigated upland culture, 8 varieties for rainfed lowland, 7
+varieties for rainfed upland and 4 varieties for mangrove. The latter group belongs to the salt- tolerant varieties (Oryza sativa L.) which are Rok 5, WAR 1, WAR 77-3-2-2 and WAR 81-2-1-
+3-2. In Djibelor, WAR 1 performs better in salt-affected soils. This cultivar was obtained from
+the crossing of IR 4595-4-1-5 / Pa Fant 213. Its life cycle is 135 days, and height 160 cm (ISRA
+2012). Improved varieties require high fertilizer inputs to support plant growth in stressed
+environments. From an economic standpoint, however, rice should be produced at low cost to benefit farmers and consumers because 43 % of the population in Sub-Saharan Africa lived below the poverty line in 2012 compared to 56 % in 1990 (Beegle et al. 2016).
+2.2. Hydrology and Geochemistry of Lowland Areas in Casamance The hydrographic network of the Casamance region as well as its geochemistry are influenced by
+the ocean, estuary and river system. An estuary presents the characteristics of an ocean (sediment
+transport, saline water) and those of a river (sediment transport, fresh water), resulting in the
+creation of brackish water (Blesgraaf et al. 2006; Savenije and Pagès 1992). As a result, its 5 hydraulic system is controlled by tides, fresh water discharge, and evaporation; and the
+deposition of sediments from the seaside is higher than that from the river. The Casamance
+estuary presents multiple stream branches which irrigate parts of the inlands. According to
+Blesgraaf et al. (2006), the lower part of the Casamance estuary is dominated by tidal floodplains with mangrove as the principal vegetation. As for the estuary, mangrove sedimentary and
+geomorphic characteristics in the Casamance, Sine-Saloum and Gambia rivers are mainly due to
+tidal current rather than fresh water discharge from the rivers (Marius 1982). These mangrove
+areas are subject to the semi-diurnal tide which governs the West African Coast. The geology of
+the Casamance estuary by Kalck (1978) cited by (Marius 1982; Marius and Lucas 1991) showed
+the presence of sandstone as the continental bedrock which appears under unconsolidated mud
+clays and sands at about 20 meters deep in mangrove areas. In these areas, the sediments consists
+of fluvio-marine deposits. They are dominated by quartz, clay, halite, and pyrite (Marius 1985).
+The clay fraction is composed of smectite from marine deposit and kaolinite from the upland
+sandstone. In addition, they present shallow soil profile, shallow groundwater table (50 cm),
+potential acid sulfate soil formation, and frequent inundation from saline tides (Cormier-Salem
+1999; Marius 1982). Therefore, rice cultivation, the main agricultural activity in lowland
+mangrove areas of the West African Coast, is exposed to salinity and acidity problems as well as
+fresh water scarcity. Since marine deposits are predominant, the presence of Na and Cl ions as well as sulfates (SO42-) from the sea determine the process of salinization and acidification of
+lowland rice fields. Marius (1982) reported that potential acid sulfate material to be present
+within 40 cm of the soil surface. Potential acid sulfate soils are usually poorly drained, highly
+pyritic, and their pH is nearly neutral or slightly acidic (Van Breemen 1982). The heavy clay layer contains 5% total S whereas the sandy mud has 2%. In submerged conditions, sulfate (SO42-
+) is reduced to sulfide and the soil becomes less acidic, but the pH drops to about 2.0-3.8 when the field is drained and sulfides (S2-) are oxidized to sulfuric acid.
+2.3. Salt-affected Soils in Agricultural Lands Origins of salt-affected soils Salt-affected soils are those where soluble salts have accumulated to a concentration that affects
+soil physical, chemical, and biological properties as well as soil fertility (Rengasamy 2006;
+Szabolcs 1989). Salinization is primarily a natural (geochemical) process which occurs in almost
+all continents, but its result is more pronounced in arid and semi-arid regions where evaporation 6
+exceeds precipitation. The salts or ions responsible for the formation of salt-affected soils are mostly the cations Na+, Ca2+, Mg2+, and K+, the anions Cl-, SO42-, and carbonates, bicarbonates and nitrates (Horneck et al. 2007; Richard 1954). Nearly all these cations are in higher concentration in rocks compared to soils with a ratio of 3:1 for Ca2+, > 3:1 for Mg2+ and Na+, and 2:1 for K+ (Szabolcs 1989). This is due to the sequence of ion extraction from the minerals
+during weathering processes that occur in the earth’s crust (Fersman, 1934 cited by (Szabolcs
+1989). The higher the sequence level of ion extraction (I, II, and III), the lower the mobility of chemical elements during weathering processes. Sodium, Ca, Mg and K belong to the second sequence whereas Cl- and SO42- appear in the first one. Beside primary salinization,
+anthropogenic factors, wind-transported materials, sea water intrusion and rising water tables
+induce salt buildup in soil or secondary salinization. Human activities include use of poor quality irrigation water, and application of fertilizers and soil amendments (Rengasamy 2010).
+Primary salinization occurs in more than 955 M ha worldwide whereas 77 M ha of salt-affected
+soils are due to human activities (Metternicht and Zinck (2003). Globally, 75 countries have
+large areas of salt-affected soils (Amini et al. (2015), but their distribution has not been fully mapped. (Massoud 1976) reported that 765 ha of land in Senegal are affected by saline.
+In the Casamance, sea water intrusion and rising water tables are the major causes of soil
+salinity. Studies from 1987 to 1994 showed that the Casamance estuary has become hypersaline
+since the recurrent Sahelian drought in the late 1970’s. According to (Savenije and Pagès 1992),
+an estuary is hypersaline when the net downstream salinity flux is not sufficient to evacuate salt accumulation due to evaporation. Decreased rainfall from 1,600 mm in 1935 to 1,100 mm in 1980 has induced a deficient water budget (Debenay et al. 1994). During, the last decade,
+average rainfall in Casamance has attained > 1200 mm, nearly as much as before 1970s drought in the Sahelian zone (Blesgraaf et al. 2006). Evaporation being constant, the amount of
+freshwater is no longer enough to evacuate brine and brackish water that accumulate during the
+dry season (Debenay et al. 1994). Salt-affected soils, whether due to primary or secondary
+salinization, are classified into two major groups: saline (high soluble salts), and sodic (high exchangeable sodium) with saline-sodic soils the intermediate. Salinity and sodicity are
+commonly assessed by the saturated paste extract to measure electrical conductivity (ECe), sodium adsorption ratio (SAR), and exchangeable sodium percentage (ESP).
+7 Characteristics of salt-affected soils Salts are ionic compounds formed when an acid is neutralized by a base. They are electrolytes
+because they dissolve in water as free moving ions able to conduct electricity. The concentration
+of these electrolytes defines not only the morphology of the soil profile but also the fertility
+status of salt-affected soils (Szabolcs 1989). The main ions that contribute to salinity in soils are Na+, Ca2+, Mg2+, Cl-, SO42-, HCO3-, and rarely K+ and NO3- (Bernstein 1975). All plants are
+sensitive to salts at a various concentrations depending on the species, development stage and the
+length they are exposed to salt stress. The principal effect of salts in crops is yield reduction.
+Under salt stress, many physiological and metabolic processes are altered by either increased
+osmotic pressure in soil solution (decreased water uptake by roots), or specific-ion effects (nutrient imbalance). Visual symptoms include retarded growth, stunted plants, dark green
+leaves, and sterile spikelets. (Abdullah et al. 2001; Bernstein 1975; Zeng and Shannon 2000).
+Saline soils are dominated by high concentrations of soluble salts in the soil solution. They are characterized by an ECe > 4 dS m-1, SAR < 13 or ESP < 15, and a pH < 8.5 in the saturation
+extract (Brady and Weil 2008; Richard 1954). This soil condition reduces water potential in the
+rhizosphere, forcing plant root cells to lose water and further become dehydrated. Shoot growth
+reduction follows due to limited photosynthesis (Munns 2002a). Tillers and plant height are also
+impaired under osmotic stress (Hasanuzzaman et al. 2013). Beside stomatal closure, osmotic adjustment is a plant response to salinity but it requires energy (ATP production).
+Sodic soils are monopolized by sodium ions on the cation exchange complex. They contain an ECe > 4 dS m-1, SAR > 13 or ESP > 15, and a pH > 8.5 in the saturation extract. They are
+considered as the most problematic of salt-affected soils due to the physical characteristic of the
+soils and their extremely high pH which disperses and/or dissolves soil organic matter (Brady
+and Weil 2008). For most plants, sodium is not an essential element, but for others it stimulates growth at low concentration. When plants accumulate toxic concentrations of Na+ or Cl- in
+leaves, photosynthesis is inhibited due to dehydration, turgor loss and death of leave cells and
+tissues (Flowers et al. 1991; Sudhir and Murthy 2004). Several studies reveal that ion effect causes nutrient disorder and deficiency.
+8 Saline-sodic soils present both osmotic and ionic effects. They are characterized by an ECe > 4 dS m-1, SAR > 13 or ESP > 15, and a pH < 8.5 in the saturation extract. Their management is
+challenging due to a potential shift to sodic conditions if soluble salts are leached from the soil
+(Brady and Weil 2008). In Casamance, particularly in Djibelor, soils are characterized as saline- sodic. The average ECe was 24.4 dS m-1, SAR 30.2, and pH 4.4.
+Impact of salt-affected soils on Rice Growth and Yield In Casamance, rainfed lowland rice is grown over a span of five months. The growing season consists of three primary developmental stages: germination to panicle initiation, the
+reproduction stage from panicle initiation to flowering, and the ripening stage from flowering to full grain development. Nurseries are established Mid-July to August in upland to prevent
+potential drought and salt stress during germination. Young seedlings are then transplanted in
+lowland during mid-August after the rain has leached out part of the salts accumulated during the
+dry season. Thus, rice plants are subject to osmotic and/or specific-ion stress. Many studies have
+shown that rice is more sensitive to salt stress during seedling and grainfill stages than
+germination and vegetative (Carter 1982; Flowers and Yeo 1981). For example, Narale et al.
+(1969) showed that seed germination of O. sativa var. Dular was delayed at ECe of 8.9 to 29.5 dS m-1 and completely inhibited at ECe of 59.5 dS m-1 whereas vegetative growth and grain yield were restricted at ECe 9.8 to 7.2 dS m-1. Conversely, the study of Pearson and Bernstein (1959)
+revealed that salinity affected growth of ‘Caloro’ rice during tillering twice as much as during
+heading. Therefore, rice sensitivity to salt stress at any developmental stage varies between
+species and varieties. The final response of rice to salt stress is yield reduction. It results from the
+delay or absence of growth due to reduction of photosynthesis and vegetative growth, retardation
+and/or inhibition of panicle emergence, and increase in sterile floret or spikelet number. Straw
+weight may not be affected much but grain yield is still reduced at critical salinity level (Maas and Hoffman 1977). Yield reduction can also be due poor plant nutrition in saline-sodic
+conditions. Nutrient toxicity and deficiency occur often in sodic soils because of high Na uptake (toxic to some extent) to the detriment K, Ca, or Mg.
+2.4. Acidity in Lowland Rice Paddies Lowland mangrove areas are valuable agricultural lands for rice production due to their landscape position, microclimate and water availability. However, they provide optimum 9
+conditions for sulfide formation (Bloomﬁeld and Coulter 1973). Acid sulfate soils constitute the predominant acidic condition of lowland mangrove areas. According to USDA (1999), actual
+and potential acid sulfate soils are those containing a sulfuric horizon characterized by the
+presence of sulfidic materials. These materials refer to the oxidizable sulfur compounds such as
+pyrite (FeS2), mostly present in brackish water sediments. Potential acid sulfate soils are usually
+poorly drained, highly pyritic, and their pH is nearly neutral or slightly acidic (Van Breemen 1982). Pyrite is formed from the reaction between elemental sulfide (S0) and iron sulfide (FeS), both generated by different processes (Pyzik and Sommer 1981; Wada and Seisuwan 1986).
+According to (Wada and Seisuwan 1986), pyrite forms between the upper well oxidized and lower well reduced horizons in mangrove areas. The well oxidized part of the substrate provides
+the ferric compounds whereas hydrogen sulfide (H2S) is confined in the reduced parts. In pore
+water sediments, the formation of H2S is due to anaerobic respiration of bacteria which use sulfate (SO42- from sea water) as electron acceptor. Elemental sulfide forms from either the
+oxidation of H2S or the initial reaction between goethite and aqueous sulfide (Pyzik and Sommer
+1981; Yao and Millero 1996). On the other hand, hydrogen sulfide (H2S) reacts with metal ions such as iron (Fe3+) to form iron sulfide (FeS). The end product of the reaction between S0 and
+FeS is the formation of pyrite. In mangrove soils, the level of pyrite is determined by the type of
+vegetation present because microbial decomposition of organic matter accelerates its formation.
+Bloomﬁeld and Coulter (1973) found that areas under Rhizophora racemosa (Red mangrove) developed more acidity upon drainage compared to those of Avicennia africana (Black
+mangrove) due to the difference in root morphology of the two species. In Djibelor, mangrove
+vegetation is dominated by Black mangrove, which are more tolerant to salinity. In submerged environments, the reduction of sulfate to sulfide and H+ consumption during reduction of Fe3+
+drive soil pH toward neutrality (Konsten et al. 1994; Ponnamperuma 1972). However, when the
+soil dries out or is excavated, pyrite is oxidized, lowering soil pH to 3.8 or lower (USDA 1999).
+In lowland rice fields, leaching and reduction of sulfate de-acidify the soils to some extent (Konsten et al. 1994).
+Impact of Acidity on Rice Growth and Yield Low soil pH impacts rice nutrient availability and creates Fe, Al and possibly Mn toxicities as
+well as P deficiency. In wetland rice areas, Fe toxicity is more likely than Al and Mn toxicities (Sahrawat 2005) due to Fe3+ reduction to Fe2+ and the relative increase of soil pH under 10
+submerged conditions (Konsten et al. 1994; Ponnamperuma 1972). In flooded soils, Fe toxicity is more prominent due to the reduction of Fe3+ to Fe2+ by heterotrophic bacteria which use the iron as electron acceptor (energy source). In reduced environments, Fe2+ and Mn2+ becomes more
+available for plant uptake. In youngest fully-emerged leaf blade of rice at panicle initiation, the concentration of Fe and Mn required for adequate rice growth is 74 - 192 mg kg-1 and 252 - 792 mg kg-1 respectively (HAIFA 2010). The dominance of Fe2+ in the root zone induces nutritional
+imbalance in plants because it prevents the uptake of other nutrients, their transport and utilization (Fageria 1990). Excessive amount of Fe2+ uptake becomes lethal to plant cells due to an elevated production of ROS, which occurs when Fe2+ in rice roots is being translocated to the leaves (Becker and Asch 2005). In West Africa, the lowland rice yield gap reaches 45% on average but can range from 10% to 100% (Audebert and Fofana 2009). Manganese toxicity in
+acid soil affects grain yield more than rice vegetative growth due to high sterility (HAIFA 2010).
+Another problem encountered in acid soils is the absorption of phosphorus to Fe and Al oxides
+which makes it unavailable for plants. Phosphorus plays a central role in plant metabolism (ATP,
+ADP production for energy transfer and storage) but is the second nutrient most likely to be
+deficient in soils after N. In acidic soils, P is bound to Fe and Al metal oxides to form iron and aluminum minerals and become unavailable. In youngest fully-emerged leaf blade of rice at
+panicle initiation, the concentration of P required for adequate rice growth is 0.18 % - 0.29 %
+(HAIFA 2010). Deficiency in P is manifested by stunted plants and delayed maturity. In rice
+plants, reduced tillering and small diameter stems are the major effects of P deficiency. The
+flooding of potential acid sulfate soils makes P more soluble and therefore available because
+sorption and release of P is determined by the oxidation and reduction status of the soil (Patrick and Khalid 1974; Ponnamperuma 1972). Phosphorus is released as Fe3+ -P compounds is converted as Fe2+ -P under anaerobic conditions (HAIFA 2010).
+2.5. Management of acidic and saline-sodic Soils in Lowland Rice Paddies According to Khan and Jan (2010), the management of salt-affected soils necessitates a
+combination of agronomic practices based on different aspects of the local environment such as
+chemical amendments, water quality, climate, and existing farm system. Salt-affected soils are
+usually characterized by low fertility caused by their impacts on soil biota and vegetation as well as soil physical structure. They contain low SOC due to low organic material inputs from
+vegetation and low decomposition rate of SOM (Setia et al. 2011a). In sodic soils, dispersion of 11
+soil aggregates facilitates SOC mineralization, hence its potential loss through leaching and
+erosion (Wong et al. 2010). Therefore, soil amendments in salt-affected soils should improve SOC content, nutrient retention through cation exchange, and maintain adequate soil pH to
+provide nutrient availability. In addition to soil amendments, rice production under saline-sodic
+conditions requires the adoption of adequate planting techniques, land preparation as well as
+sufficient Ca supply that reduce salt and Na accumulation in the rhizosphere. In Casamance, organic amendments are widely used compared to chemical fertilizers, and beds are mostly
+adopted in lowland rice fields compared to planting “on the flat”. Rice fields are tilled with
+artisanal tools to facilitate the building of beds and the development of rice roots in soil.
+Biochar and soil fertility Lehmann and Joseph (2015) defined biochar as “ The solid product of pyrolysis, designed to be
+used for environmental management.” The International Biochar Initiative (IBI 2014) adapted
+the definition of biochar from Lehmann and Joseph (2015): “Biochar is a solid material obtained
+from thermochemical conversion of biomass in an oxygen-limited environment. Biochar can be used for a range of applications as an agent for soil improvement, improved resource use
+efficiency, remediation and/or protection against particular environmental pollution and as an avenue for greenhouse gas (GHG) mitigation. In addition, to be recognized as biochar, the
+material has to pass a number of material property definitions that relate both to its value (e.g.,
+H/Corg ratios relate to the degree of charring and therefore mineralization in soil) and its safety
+(e.g., heavy metal content).” Biochar is a carbon-rich by-product used to improve soil fertility,
+increase C sequestration and reduce GHG emission. It is obtained from slow pyrolysis of plant
+materials such as crop residues and wood, poultry litter, wastewater sludge, biosolids and more.
+(Chan et al. 2008; Chan and Xu 2009). High heating rate (To/min) destroys cell structures (melting of cell structure) while slow pyrolysis allows volatile C release without major
+morphological changes (Cetin et al. 2004). Studies on black carbon (BC) in Amazonian forests and biochars have shown that these carbon-rich compounds have long residence time, high
+cation exchange capacity, strong sorption ability, and may increase soil pH (Brookes et al. 2010;
+Chintala et al. 2014; Jeffery et al. 2011; Lehmann et al. 2011).
+Depending on the source materials (softwood, hardwood, leaves etc.) biochars have different nutrient content, physical and chemical properties. However, they are mainly composed of 12
+recalcitrant C, labile C and ash (Lehmann et al. 2011). The C content in biochars form aromatic
+structures, rings of six C atoms linked together without O or H (Lehmann and Joseph 2009),
+which define their stability in soil (Nguyen et al. 2010). Long exposure of biochars in soils
+(incubation time) increases their CEC due to the formation of carboxylic functional groups
+during biotic and/or abiotic oxidation of their outer (surface) and inner core (Cheng et al. 2006)
+which then creates the formation of organo-mineral complexed organic matter (Glaser et al.
+2001). Furthermore, additional surface charge densities are created on biochars when they adsorb
+organic matter on their surface (Liang et al. 2006). In contrast, surface area and pore size
+(sorption ability) may also decrease when adequate heating temperature during pyrolysis is not
+achieved, and/or pores are clogged with soil mineral particles. This aspect infers that biochar
+mixed with organic matter is more beneficial and effective to mitigate low soil CEC and fertility.
+The sorption ability of biochars is an important aspect in nutrient cycling and retention, the fate of toxins and heavy metals in soils. Thus, heating temperature (o C) followed by heating rate (o C min-1) plays a key role in the formation of both surface area and the porosity of biochars (Downie et al. 2011).
+In addition to these physical characteristics, biochar has the ability to increase soil pH mostly in
+acidic soils compared to calcareous soils depending on the source material. Biochar applications
+(mixture of enhanced solids reduction (ESR) sludge, clarifier sludge and waste wood chips at
+different percentages) in acidic soils have increased soil pH by up to 1.73 (Van Zwieten et al.
+2010). Furthermore, application of corn stover biochar at rates of up to 156 t ha-1 in acidic soil
+showed increased soil pH, EC and CEC at all application rates and with increasing incubation
+time (Chintala et al. 2014). Soil fertility of Southeastern Coastal Plain soils was improved by
+pecan-shell based biochar (Novak et al. (2009). They found that the metal oxides (ash), formed
+during pyrolysis from the cations K, Ca, Si, and Mg present in the pecan shell interact with the
+hydrogen ions and monomeric Al in soil to change pH and exchangeable acidity. Therefore, the
+ash content in biochar presents a liming ability as shown by the studies of (Lehmann et al. 2011;
+Nguyen and Lehmann 2009; Novak et al. 2009).
+Oyster shell as liming material 13 Reclamation of acidic soils is accomplished by application of liming materials. Oyster shell has
+96 to 98% CaCO3 equivalent (Hamestera et al. 2012; Lee et al. 2008). In saline-sodic soils, the application of CaCO3 rich-products might help remove the excess Na+ ions by replacing them in the soil exchange sites over time, but the use of gypsum CaSO4 .
+2H2O (Eq. 1) and sulfuric acid is preferred due to high pH and poor soil structure these soils present (Bower 1958; Sadiq et al.
+2007). The reaction of CaSO4 with sodium in soil always forms Na2SO4 which easily leaches out
+of the soil. The alkaline nature of sodic soils does not require addition of lime. Gypsum does not raise soil pH but replace the sodium by calcium and therefore remediates sodicity.
+𝑎𝐶3+𝐶𝑎𝑆4→𝐶𝑎𝐶3+𝑎2𝑆3 (1) In acidic soils with saline-sodic conditions, the application of lime is beneficial for plant
+nutrition. In Djibelor/Casamance, the application of oyster shell is primarily to raise soil pH (Eq.
+2). In addition, farmers generally cannot afford the cost of gypsum or lime. The liming effect of
+oyster shell is more prominent in fine sandy loam soils than silt or clay soils due to their
+buffering capacity. Using different oyster shell rates, Lee et al. (2008) found that a rate of 8.0 t ha-1 has increased pH from 5.6 to 6.6 in sandy loam soils.
+𝐶𝑎𝐶3+𝐻2+𝐻+ → ← 𝐶𝑎2+ +𝐻2𝐶3+𝐻− (2) Planting Methods Many scientists have evaluated the efficacy of bedded versus flat treatment in cropping systems.
+However, most studies were conducted in non-saline and irrigated upland areas. The majority of
+these studies took place in Mexico, Asia, Australia, Pakistan etc. where rice and/or wheat are the
+main crops produced mostly in rotation system. Bedded treatment is adopted to improve soil
+structure and aeration, manage nutrient and water inputs, and reduce cost of tillage and land
+preparation for farmers. However, it is not recommended in soils with low pH, shallow water table, high salinity, and where weed population is maximal (Beecher et al. 2003). In most
+studies, rice compared to wheat shows yield decreases in permanent beds and performs better in
+flat treatment with or without tillage. In each study, yield decrease was affected by different
+properties of the beds. In Punjab/India for example, soil water tension of about 10 kPa at 10 cm
+depth in sandy loam loamy soils (Kukal et al. 2005b) and at 15 cm depth in sodic silt loam 14
+(Sharma et al. 2002) reduces rice yield in permanent beds as soil water declines below saturation.
+This means that there is a minimum moisture requirement to maintain reasonable rice yield.
+Inversely, Kukal et al. (2005a) found that continuous flooding is not necessary for rice because it
+can support a soil tension of 15 to 20 kPa. The decrease in soil tension can be related to high
+percolation from the beds due to their shape and accelerated by the formation of cracking upon
+wetting and drying of the soil (mostly in clayey soils). These aspects of the bed prove its
+efficiency in reclaiming waterlogged land (Bakker et al. 2010) but lead to the questioning of its
+effectiveness in management of salt-affected soils. In field conditions, salt accumulation on
+surface of beds is due not only to salt movement toward the center of the bed but also high
+evapotranspiration on its surface. Roberts et al. (2008) found that in subsurface drip irrigation system salt accumulation was high (ECe 11 dS m1) on the top 3 cm of the bed surface but dropped to below for 4 dS m1 and was constant to 1.05 m. During their second-year experiment,
+the high salt level was recorded at 25 cm depth due to rainfall which have leached salts. Thus,
+under no flooded soil, timing of irrigation water is necessary for seedling survival. Holland et al.
+(2007) investigated the relation between soil structure and solute transport under bed cropping
+and conventional cultivation in South-Western Victoria. In the laboratory, a solute transport
+experiment was done using KCl solution (0.02 M and a pulse concentration of 2 M) applied to
+the soil surface. The first concentration was applied -30 mm tension on pores < 1mm and the
+second one at -5 mm tension on pores < 6 mm diameter. The leached solution was collected and
+EC was measured. They found that after application of the second concentration, solute transport
+(drainage flux) was faster in beds compared to conventional cultivation due to higher porosity
+and surface area (the extend of porosity) of the beds. Fast percolation does not induce rapid salt
+dissolution, therefore its removal. Water transported in preferential flow has lower solute
+concentration compared to the bulk of the soil due to the rapid percolation which does not allow salts to dissolve then leach out of the soil (Scotter 1978).
+15 References:
+Abdullah Z, Khan MA, Flowers TJ (2001) Causes of Sterility in Seed Set of Rice under Salinity Stress. Journal of Agronomy and Crop Science 187: 25-32. doi: 10.1046/j.1439- 037X.2001.00500.x.
+Amini S, Ghadiri H, Chen C, Marschner P (2015) Salt-affected soils, reclamation, carbon dynamics, and biochar: a review. Journal of Soils and Sediments 16: 939-953. doi:
+10.1007/s11368-015-1293-1.
+Audebert A, Fofana M (2009) Rice yield gap due to iron toxicity in West Africa. Journal of Agronomy and Crop Science 195: 66-76.
+Bakker DM, Hamilton GJ, Hetherington R, Spann C (2010) Salinity dynamics and the potential for improvement of waterlogged and saline land in a Mediterranean climate using permanent raised beds. Soil and Tillage Research 110: 8-24. doi:
+http://dx.doi.org/10.1016/j.still.2010.06.004.
+Becker M, Asch F (2005) Iron toxicity in rice—conditions and management concepts. Journal of Plant Nutrition and Soil Science 168: 558-573.
+Beecher HG, Thompson JA, MacCaffery DW, Muir JS (2003) Cropping on Raised Beds in Southern NSW. AgFacts www.agric.nsw.gov.au.
+Beegle K, Christiaensen L., Dabalen A., I. G (2016) Poverty in a Rising Africa: Africa Poverty.
+Report by World Bank: 21 p. https://openknowledge.worldbank.org/handle/10986/22575 License: CC BY 10983.10980 IGO”.
+Bernstein L (1975) Effects of Salinity and Sodicity on Plant Growth. Annual Review of Phytopathology 13: 295-312. doi: doi:10.1146/annurev.py.13.090175.001455.
+Blesgraaf R, Geilvoet A, Hout Cvd, Smoorenburg M, Sotthewes W (2006) Salinity in the Casamnce Estuary: Occurence and Consequences. Delft University of Technology (TUDelft). Final Report MSc Project Casamnce 2006. pp 130.
+Bloomﬁeld C, Coulter J (1973) Genesis and management of acid sulfate soils. Advances in Agronomy 25: 265-336.
+Bouman B, Humphreys E, Tuong T, Barker R (2007) Rice and water. Advances in agronomy 92:
+187-237.
+Bower CA (1958) Chemical amendments for improving sodium soils. U.S. Dept. of Agriculture, Washington, D.C.
+Brady N, Weil R (2008) The Nature and Properties of Soils (14th Edition). Peason Prentice Hall.
+Upper Saddle River, New Jersey 07458.
+Brookes P, Yu L, Lin Q (2010) Effects of biochar on soil chemical and biological properties in high and low pH soils. Proceedings of the International Symposium on Environmental Behavior and Effects of Biomass-Derived Charcoal Cina Agricultural University 41 pp.
+Carter D (1982) Salinity and plant productivity. CRC Handbook of Agricultural Productivity http://eprints.nwisrl.ars.usda.gov/757/1/419.pdf: 16 p.
+Cetin E, Moghtaderi B, Gupta R, Wall TF (2004) Influence of pyrolysis conditions on the structure and gasification reactivity of biomass chars. Fuel 83: 2139-2150. doi:
+http://dx.doi.org/10.1016/j.fuel.2004.05.008.
+Chan K, Van Zwieten L, Meszaros I, Downie A, Joseph S (2008) Using poultry litter biochars as soil amendments. Soil Research 46: 437-444.
+Chan KY, Xu Z (2009) Biochar: nutrient properties and their enhancement. In: Joseph, J, Earthscan, S (Eds), Biochar for environmental management: science and technology: 67- 84.
+16 Cheng C-H, Lehmann J, Thies JE, Burton SD, Engelhard MH (2006) Oxidation of black carbon by biotic and abiotic processes. Organic Geochemistry 37: 1477-1488. doi:
+http://dx.doi.org/10.1016/j.orggeochem.2006.06.022.
+Chintala R, Mollinedo J, Schumacher TE, Malo DD, Julson JL (2014) Effect of biochar on chemical properties of acidic soil. Archives of Agronomy and Soil Science 60: 393-404.
+doi: 10.1080/03650340.2013.789870.
+Cormier-Salem MC (1999) Rivieres du Sud. Societes et Mangroves Ouest-Africaines. IRD (Institut de Recherche pour le Development), Paris. Vol. 1. pp 426.
+Debenay JP, Pages J, Guillou JJ (1994) Transformation of a subtropical river into a hyperhaline estuary: the Casamance River (Senegal)—paleogeographical implications.
+Palaeogeography, Palaeoclimatology, Palaeoecology 107: 103-119. doi:
+http://dx.doi.org/10.1016/0031-0182(94)90167-8.
+Downie A, Crosky A, Munroe P (2011) Physical properties of biochar. In: Biochar Production and Use: Environmental Risks and Rewards (Doctoral thesis). School of Materials Science and Engineeing. University of New South Wales. p 23-42.
+Fageria NK (1990) Iron nutrition of plants: An overview on the chemistry and physiology of its deficiency and toxicity. Pesquisa Agropecuaria Brasileira 25: 553-570.
+Flowers T, Yeo A (1981) Variability in the resistance of sodium chloride salinity within rice (Oryza sativa L.) varieties. New Phytologist 88: 363-373.
+Flowers TJ, Hajibagherp MA, Yeo AR (1991) Ion accumulation in the cell walls of rice plants growing under saline conditions: evidence for the Oertli hypothesis. Plant, Cell & Environment 14: 319-325. doi: 10.1111/j.1365-3040.1991.tb01507.x.
+FOASTAT (2016) Rice Paddy Production, Area Harvested and Yield in 2014. In: FAO (ed).
+Food and Agriculture Organization if the United States Statistics Division (FAOSTAT).
+Date accessed 3/28/2016. http://faostat3.fao.org/download/Q/QC/E.
+Glaser B, Haumaier L, Guggenberger G, Zech W (2001) The'Terra Preta'phenomenon: a model for sustainable agriculture in the humid tropics. Naturwissenschaften 88: 37-41.
+HAIFA (2010) Nutritional Recommendations for Rice. HAIFA Pioneering the Future.
+http://www.haifa-group.com/files/Guides/Rice.pdf. Accessed 4/25/2016.
+Hamestera MRR, Balzera PS, Beckerb D (2012) Characterization of Calcium Carbonate Obtained from Oyster and Mussel Shells and Incorporation in Polypropylene. Materials Research 15: 204-208.
+Hasanuzzaman M, Nahar K, Fujita M (2013) Plant response to salt stress and role of exogenous protectants to mitigate salt-induced damages. Ecophysiology and responses of plants under salt stress. Springer.
+Henao J, Baanante C (2006) Agricultural production and soil nutrient mining in Africa:
+Implication for resource conservation and policy development. IFDC Tech. Bull.
+International Fertilizer Development Center. Muscle Shoals, Al. USA.
+Holland J, White R, Edis R (2007) The relation between soil structure and solute transport under raised bed cropping and conventional cultivation in south-western Victoria. Soil Research 45: 577-585.
+Horneck DA, Ellsworth JW, Hopkins BG, Sullivan DM, Stevens RG (2007) Managing salt- affected soils for crop production. [Covallis, Or.]: Oregon State University Extension Service.
+IBI (2014) Standardized Product Definition and Product Testing Guidelines for Biochar That Is Used in Soil. IBI-STD-V2-1, International Biochar Initiative: 61p.
+17 IndexMundi (2016) Comsumption, Production and Import of Milled Rice in Senegal. Index Mundi. http://www.indexmundi.com/agriculture/?country=sn&commodity=milled- rice&graph=imports. Accessed 4/22/2016.
+ISRA (2012) Catalogue officiel des especes et varietes cultivees au Senegal. Ministere de l'Agriculture et de l'Equipement du Senegal: 192 p.
+Jeffery S, Verheijen F, Van Der Velde M, Bastos A (2011) A quantitative review of the effects of biochar application to soils on crop productivity using meta-analysis. Agriculture, ecosystems & environment 144: 175-187.
+Khan MJ, Jan MT (2010) Management of saline sodic soils through cultural practices and gypsum. Pak J Bot 42: 4143-4155.
+Konsten CJ, van Breemen N, Suping S, Aribawa IB, Groenenberg J (1994) Effects of flooding on pH of rice-producing, acid sulfate soils in Indonesia. Soil Science Society of America Journal 58: 871-883.
+Kukal S, Humphreys E, Yadvinder-Singh TJ, Thaman S (2005b) Performance of raised beds in rice–wheat systems of northwestern India. Evaluation and performance of permanent raised bed cropping systems in Asia, Australia and Mexico ACIAR, Canberra.
+Kukal SS, Hira GS, Sidhu AS (2005a) Soil matric potential-based irrigation scheduling to rice (Oryza sativa). Irrigation Science 23: 153-159. doi: 10.1007/s00271-005-0103-8.
+Lee CH, Lee DK, Ali MA, Kim PJ (2008) Effects of oyster shell on soil chemical and biological properties and cabbage productivity as a liming materials. Waste Management 28: 2702- 2708. doi: http://dx.doi.org/10.1016/j.wasman.2007.12.005.
+Lehmann J, Joseph S (2009) Biochar for Environmental Management: An Introduction.
+ES_BEM_16-2 http://www.biochar- international.org/images/Biochar_book_Chapter_1.pdf.
+Lehmann J, Joseph S (2015) Biochar for environmental management: science, technology and implementation. Routledge.
+Lehmann J, Rillig MC, Thies J, Masiello CA, Hockaday WC, Crowley D (2011) Biochar effects on soil biota – A review. Soil Biology and Biochemistry 43: 1812-1836. doi:
+http://dx.doi.org/10.1016/j.soilbio.2011.04.022.
+Liang B, Lehmann J, Solomon D, Kinyangi J, Grossman J, O'Neill B, Skjemstad JO, Thies J, Luizão FJ, Petersen J, Neves EG (2006) Black Carbon Increases Cation Exchange Capacity in Soils. Soil Science Society of America Journal 70. doi:
+10.2136/sssaj2005.0383.
+Linares OF (2002) African rice (Oryza glaberrima): History and future potential. Proceedings of the National Academy of Sciences 99: 16360-16365. doi: 10.1073/pnas.252604599.
+Maas EV, Hoffman G (1977) Crop salt tolerance\-current assessment. Journal of the irrigation and drainage division 103: 115-134.
+Marius C (1982) Acid sulphate soils of the mangrove area of Senegal and Gambia. Office de la Recherche Scientifique et Technique, Outre-Mer, Paris http://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_04- 05/05247.pdf.
+Marius C (1985) Mangroves du Senegal et de la Gambie ecologie, pedologie, geochimie, mise en valeur et amenagement. ORSTOM, Paris. p. 335.
+Marius C, Lucas J (1991) Holocene mangrove swamps of West Africa sedimentology and soils.
+Journal of African Earth Sciences (and the Middle East) 12: 41-54.
+18 Massoud FI (1976) Soil conservation and management in developing countries. Report of an Expert Consultation, Rome, 22-26 November 1976. Soils Bulletin (FAO), no 33. FAO.
+Metternicht G, Zinck J (2003) Remote sensing of soil salinity: potentials and constraints. Remote sensing of Environment 85: 1-20.
+Moldenhauer K (2001) Rice growth and development. Univerity of Arkansas http://www.uaex.edu/publications/pdf/mp192/chapter-2.pdf. Accessed 02/28/2016.
+Munns R (2002a) Comparative physiology of salt and water stress. Plant, Cell & Environment 25: 239-250. doi: 10.1046/j.0016-8025.2001.00808.x.
+Narale RP, Subramanyam TK, Mukherjee RK (1969) Influence of Salinity on Germination, Vegetative Growth, and Grain Yield of Rice (Oryza sativa var. Dular)1. Agronomy Journal 61. doi: 10.2134/agronj1969.00021962006100030001x.
+Nguyen BT, Lehmann J (2009) Black carbon decomposition under varying water regimes.
+Organic Geochemistry 40: 846-853. doi:
+http://dx.doi.org/10.1016/j.orggeochem.2009.05.004.
+Nguyen BT, Lehmann J, Hockaday WC, Joseph S, Masiello CA (2010) Temperature sensitivity of black carbon decomposition and oxidation. Environmental science & technology 44:
+3324-3331.
+Norman J, Kebe B (2006) African smallholder farmers: Rice production and sustainable livelihoods. University of Ghana, Legon/Accra, FAO Regional Office Accra/Ghana http://www.fao.org/3/a-a0869t/a0869t02.pdf. Accessed 3/5/2015.
+Novak JM, Busscher WJ, Laird DL, Ahmedna M, Watts DW, Niandou MA (2009) Impact of biochar amendment on fertility of a southeastern coastal plain soil. Soil science 174: 105- 112.
+OECD (1999) Consenus document on the biology of Oryza sativa (rice). R. Organization for Economic Co-operation and Development (OECD) Environmental health and Safety Publications. Report No. 14, ENV/JM/MONO(99) 26.
+Patrick WH, Khalid RA (1974) Phosphate Release and Sorption by Soils and Sediments: Effect of Aerobic and Anaerobic Conditions. Science 186: 53-55.
+Pearson GA, Bernstein L (1959) Salinity effects at several growth stages of rice. Agronomy Journal 51: 654-657.
+PERACOD (2008) Plan D’Amenagement et de Gestion Sylvo-pastoral de la FORET Classee des KALOUNAYES. PERACOD (Programme pour la promotion des Energies Renouvelables, de l’électrificationrurale et de l’Approvisionnement durable en Combustibles Domestiques) Final report. 106 pp.
+Ponnamperuma F (1972) The chemistry of submerged soils. Advances in Agronomy, Vol 24 Academic Press New York. http://pdf.usaid.gov/pdf_docs/PNAAA956.pdf.
+Pyzik AJ, Sommer SE (1981) Sedimentary iron monosulfides: Kinetics and mechanism of formation. Geochimica et Cosmochimica Acta 45: 687-698. doi:
+http://dx.doi.org/10.1016/0016-7037(81)90042-9.
+Rengasamy P (2006) World salinization with emphasis on Australia. Journal of Experimental Botany 57: 1017-1023.
+Rengasamy P (2010) Soil processes affecting crop production in salt-affected soils. Functional Plant Biology 37: 613-620. doi: http://dx.doi.org/10.1071/FP09249.
+Rice-LRVI (2006) Rice development in sub-Saharan Africa. Journal of the Science of Food and Agriculture 86: 675-677.
+19 Richard LA (1954) Diagnosis and improvement of saline and alkali soils. United States Salinity Laboratory Staff http://www.ars.usda.gov/sp2UserFiles/Place/20360500/hb60_pdf/hb60complete.pdf.
+Roberts TL, White SA, Warrick AW, Thompson TL (2008) Tape depth and germination method influence patterns of salt accumulation with subsurface drip irrigation. Agricultural Water Management 95: 669-677.
+Sadiq M, Hassan G, Mehdi SM, Hussain N, Jamil M (2007) Amelioration of Saline-Sodic Soils with Tillage Implements and Sulfuric Acid Application. Pedosphere 17: 182-190. doi:
+http://dx.doi.org/10.1016/S1002-0160(07)60024-1.
+Sahrawat K (2005) Iron toxicity in wetland rice and the role of other nutrients. Journal of Plant Nutrition 27: 1471-1504.
+Sanchez PL, Wing RA, Brar DS (2013) The wild relative of rice: genomes and genomics.
+Genetics and Genomics of Rice. Springer.
+Savenije HHG, Pagès J (1992) Hypersalinity: a dramatic change in the hydrology of Sahelian estuaries. Journal of Hydrology 135: 157-174. doi: http://dx.doi.org/10.1016/0022- 1694(92)90087-C.
+Scotter D (1978) Preferential solute movement through larger soil voids. I. Some computations using simple theory. Soil Research 16: 257-267. doi:
+http://dx.doi.org/10.1071/SR9780257.
+Setia R, Marschner P, Baldock J, Chittleborough D, Smith P, Smith J (2011a) Salinity effects on carbon mineralization in soils of varying texture. Soil Biology and Biochemistry 43:
+1908-1916. doi: http://dx.doi.org/10.1016/j.soilbio.2011.05.013.
+Sharma P, Bhushan L, Ladha J, Naresh R, Gupta R, Balasubramanian B, Bouman B (2002) Crop-water relations in rice-wheat cropping under different tillage systems and water- management practices in a marginally sodic, medium-textured soil. Water-wise rice production. International Rice Research Institute (IRRI), Los Banos, Phillippines: p 223- 235 Somado EA, Guei RG, Nguyen N (2008) Overview: Rice in Africa. Africa Rice Center Bouake http://www.africaricecenter.org/publications/nerica-comp/module%201_Low.pdf.
+Accessed 3/14/2016.
+Sudhir P, Murthy S (2004) Effects of salt stress on basic processes of photosynthesis.
+Photosynthetica 42: 481-486.
+Szabolcs I (1989) Salt-Affected Soils. Boca Raton, FL (USA) Book ISBN 0-8493-4818-8.
+USDA (1999) Soil Taxonomy: A Basic System of Soil Classification for Making and Interpreting Soil Surveys. USAD-NRCS.
+USDA (2015) Grain and Feed Annual: 2015 Update West Africa Rice Annual. USDA Foreign Agricultural Service (United States Department of Agriclture). Gain Report, Global Agricultural Network. 18 pp.
+Van Breemen N (1982) Genesis, Morphology, and Classification of Acid Sulfate Soils in Coastal Plains1. In: JA Kittrick, DS Fanning, LR Hossner (eds) Acid Sulfate Weathering. Soil Science Society of America, Madison, WI.
+Van Zwieten L, Kimber S, Morris S, Chan K, Downie A, Rust J, Joseph S, Cowie A (2010) Effects of biochar from slow pyrolysis of papermill waste on agronomic performance and soil fertility. Plant and soil 327: 235-246.
+Vaughan DA (1994) The wild relatives of rice: a genetic resources handbook. International Rice Research Institute (IRRI), Manila 137 p.
+20 Vergara BS, Chang T-T (1985) The flowering response of the rice plant to photoperiod: a review of the literature. Int. Rice Res. Inst.
+Wada H, Seisuwan B (1986) The process of pyrite formation in mangrove soils. In Selected papers of the Dakar Symposium on Acid Sulphate Soils, Dakar pp 24-27.
+http://content.alterra.wur.nl/Internet/webdocs/ilri-publicaties/publicaties/Pub44/pub44- h3.pdf.
+Wassmann R, Jagadish SVK, Heuer S, Ismail A, Redona E, Serraj R, Singh RK, Howell G, Pathak H, Sumfleth K (2009) Chapter 2 Climate Change Affecting Rice Production: The Physiological and Agronomic Basis for Possible Adaptation Strategies. Advances in Agronomy. Academic Press.
+Wolfe J, Jones C, Jain S, Diack A (2009) Global Food Security Response Senegal Rice Study.
+MicroReport #160. USAID/EGAT/PR/MD, Accelerate Microenterprise Advancement Project, USAID/SAGIC Project. 45 p.
+Wong VNL, Greene RSB, Dalal RC, Murphy BW (2010) Soil carbon dynamics in saline and sodic soils: a review. Soil Use and Management 26: 2-11. doi: 10.1111/j.1475- 2743.2009.00251.x.
+World-Bank (2016) Population Total. World Bank.
+http://data.worldbank.org/indicator/SP.POP.TOTL/countries/SN?display=graph Accessed 4/20/16.
+Yao W, Millero FJ (1996) Oxidation of hydrogen sulfide by hydrous Fe(III) oxides in seawater.
+Marine Chemistry 52: 1-16. doi: http://dx.doi.org/10.1016/0304-4203(95)00072-0.
+Zeng L, Shannon MC (2000) Salinity effects on seedling growth and yield components of rice.
+23 Chapter 3: Soil Management for Improved Rice Production in Casamance, Senegal Thioro Fall; John Galbraith, Wade Thomason, Simeon Bassene, Thomas Thompson 24 Abstract Rice is the most consumed cereal in Senegal. Rice producers encounter several challenges,
+particularly in rainfed lowland agroecosystems of southern Senegal (Casamance region). High consumption of rice and low yield (<2.0 t ha-1 in Casamance) result in Senegal importing most
+of its rice. Environmental stresses such as acidity, salinity, sodicity, low soil fertility and
+organic C are the major causes of low rice yields in Casamance. This 2-year experiment (2014
+and 2015) was conducted in Casamance to assess field management practices to increase rice
+yield by addressing the main edaphic constraints to yield. The objectives were to 1) evaluate
+soil profile physical and biochemical characteristics and monitor groundwater height, EC and
+pH throughout the rice growing season, 2) evaluate effects of two planting methods on salinity, and 3) improve soil chemical properties and increase rice yield by addition of two
+amendments—biochar and crushed oyster shell as a liming material. The yield of ‘WAR1’ rice,
+its growth parameters, and leaf and grain analysis, and soil chemical properties were evaluated in a split-plot design. The treatments consisted of two planting methods (flat and bedded treatments), biochar (18 t ha-1), shell (8.2 t ha-1), biochar + shell, and an untreated control.
+Amendments were applied once before planting in 2014. The groundwater regime and its EC and pH were monitored during the rice growing season, Aug. to Dec. 2014. The height of the
+water in the monitoring well showed that the water table was above the soil surface during the entire growing season, and water EC values > 10 dS m-1 were common until panicle
+differentiation, when salinity began to decrease. Rice yield was not affected by any treatment in 2014, and the average yield was 4.29 t ha-1. Yield was significantly affected by amendments in 2015, with yield of plots receiving biochar (3.18 t ha-1) significantly higher than the control (2.44 t ha-1). The observed yield reduction during 2015 may have resulted from 32% sterile
+spikelets, possibly because of salinity. Most plant nutrient concentrations, except Na in leaves
+and Fe in grains were within normal ranges. The reduction of soil EC was more pronounced in
+flat treatment and soil pH was higher in flat treatments where shell or biochar+shell were applied. Soil C was increased with biochar application. Our results show that management
+practices that minimize salinity stress are crucial for achieving acceptable rice yield in acid, saline-sodic lowland production systems.
+Keywords: WAR 1 rice cultivar, planting methods, biochar, shell, salinity, acidity 25 3.1. Introduction
+Increasing rice yield in lowland areas constitutes a promising option to increase production and
+thus decrease rice imports in West Africa. Lowland rice production represents about 20 M to 50
+M ha in West Africa (Rice-LRVI 2006). In Senegal, rice is cultivated mainly in river valleys (St. Louis, Matam, and Tambacounda regions) with irrigation, and in southern Senegal
+(Casamance region) under rainfed lowland and upland conditions. Average rice yield in 2008 was 6.0 t ha-1 in irrigated production systems compared to 1.0 to 2.0 t ha-1 in rainfed systems in
+Senegal (Wolfe et al. 2009). Average annual rainfall in Casamance has recently been > 1200 mm, nearly as much as before 1970s drought in the Sahel (Blesgraaf et al. 2006). It had
+dropped from 1,500 mm to 1,000 mm and the rainy season lasted 3 instead of 5 months during the drought events in the 1970s (Cormier-Salem 1999). As a consequence, the Casamance River became hypersaline and seawater intrusion became a serious problem (Savenije and
+Pagès 1992). Irrigated rice represents 70% of the national production, with 30% from rainfed systems. Rainfed lowland rice experiences a great diversity of growing conditions. These
+systems can be characterized by their topography, the amount and duration of rainfall, the depth and duration of standing water, and soil type (Nguyen 2016).
+In Casamance the principal rice yield limiting factors are salinity, sodicity, acidity, poor soil fertility, and low soil OC. In rice-growing areas in the Casamance River delta, seawater intrusion in this tidal river system is the main source of salts and sulfate which induce salinization and acidification of rice paddies (Marius and Lucas 1991). In Casamance,
+particularly Djibelor, soils are characterized as saline-sodic. The range of rice yield loss due to
+salinity is estimated between 30 % to 50 % worldwide (Eynard et al. 2005). This yield loss
+results from the delay or absence of growth due to reduction of photosynthesis (Abdullah et al.
+2001; Munns 2002a), retardation and/or inhibition of panicle emergence, and increase in sterile
+floret or spikelet number (Narale et al. 1969). Straw weight may not be affected much but grain
+yield is still reduced at critical salinity level (Maas and Hoffman 1977). Yield reduction can
+also be due poor plant nutrition in saline-sodic conditions. Nutrient toxicity and deficiency
+occur often in sodic soils because of high Na uptake, which may reduce uptake of K, Ca, and
+Mg. Soil pH < 4 impacts rice nutrient availability and creates Fe, Al and possibly Mn toxicities
+as well as P deficiency. In wetland rice areas, iron toxicity is more likely than Al and Mn 26 toxicities (Sahrawat 2005) due to Fe3+ reduction to Fe2+ which tends to raise soil pH to near neutrality under submerged conditions (Konsten et al. 1994; Ponnamperuma 1972). Excessive Fe2+ uptake becomes lethal to plant cells due to elevated production of ROS when Fe2+ is
+translocated to the leaves (Becker and Asch 2005). In West Africa, the lowland rice yield gap
+reaches 45 % on average but can range from 10 % to 100 % (Audebert and Fofana 2009). Soils in Casamance are well weathered and therefore low in nutrient and carbon content. Animal
+manure constitutes the main organic inputs (Linares 2002) but are not enough to compensate low nutrient and carbon of the soil and thus improve rice yield.
+According to (Rice-LRVI 2006), an average yield of 3.0 t ha-1 from only 2 M ha of the West African lowland rice ecologies would reduce rice import. In Ziguinchor, 52,950 ha of rice paddies only yield 2.0 t ha-1 on average (Wolfe et al. 2009). There is an urgent need for research into ways to increase rice yield in these ecosystems. We conducted a two-year
+experiment near Djibelor Senegal with the following objectives: (1) to evaluate soil profile physical and biochemical characteristics and monitor groundwater height, EC and pH
+throughout the rice growing season; (2) evaluate effects of two planting methods on salinity
+and rice yield, and (3) evaluate the response of soil properties and rice yield to addition of two amendments—biochar and crushed oyster shell as a liming material.
+27 3.2. Materials and Methods Site Characteristics The present study was conducted in the lower Casamance region of Senegal near Ziguinchor.
+The experimental field (in Djibelor) is located at 12o 34’16.46’’ N, 16o 18’32.43’’ W and corresponds to the lowland mangrove area influenced by semi-diurnal tide consisting of two
+high tides and two low tides during a period of 24 hours and 50 minutes (Blesgraaf et al. 2006).
+The amplitude of the tide reaches 1 m on average and salinity is maximum in June and minimum in October (Posner 1988). At Pointe of Diogue (mouth of the Casamance estuary),
+the tide amplitude varies between 1.5 and 1.6 m during spring tide and 0.4 to 0.5 m during neap tide (Blesgraaf et al. 2006). The distance between Pointe of Diogue and Djibelor is
+approximately 94.8 km. Djibelor is approximately 90 m from the mangrove forest and 2.93 km
+from the main channel of the Casamance River, which has become hypersaline since the 1970s
+drought events (Savenije and Pagès 1992). According to Posner (1988), the saline part of the Casamance River extend to 220 km upstream from the mouth and saline water rises as far as 130 km inland.
+In Casamance, the area of mangrove in Ziguinchor and Bignona was estimated at 120,000 ha at the beginning of 1980, and 70,000 ha in 1993 when Ziguinchor accounted for 40,000 ha (PERACOD (2008). The vegetation is composed of Rhizophora racemosa (Red mangrove) and Avicennia africana (Black mangrove). The Union Mondial pour la Nation or UICN estimated 65,000 ha of mangrove in 2004 for the two regions (UICN 2016). According to PERACOD
+(2008) this decrease is due to salinization which has led to the destruction of mangrove forest in
+Casamance, and their intensive exploitation by the population who could no longer grow rice.
+In Djibelor, soils are fine sandy loam and black mangrove represents the dominant vegetation.
+Prior to our experiment, a full soil profile description was done in the research field which
+corresponded to the nearest plot to the mangrove (90 m). We dug a hole to the depth of the groundwater (130 cm). Soil samples of the profile were taken by horizons and each one was
+described based on textural classes determined from the pipette method. The structure (grade,
+size, and shape) of the aggregates was estimated visually. The redoximorphic features (Fe and
+Mn concentrations, and depletions) were determined based on visual observations and using a Munsell soil color book. Soil chemical analysis was performed for each horizon.
+28 Since 2009, rainfall has been recorded using a rain gauge at the Djibelor research center. The Casamance region, within the 1000 to 1200 mm yr-1 isohyet, is characterized by a monomodal rainfall regime with a single peak during the year. Annual rainfall exceeds 1200 mm. The rainiest months are July, August and September (Figure 1). Delayed rainfall in 2014 rainy
+season has limited the amount of precipitation in July to 66 mm compared to 413 mm in 2015 season. In 2014 growing season, heavy rainfall was recorded in August with 626.5 mm.
+Average rainfall in 2014 and 2015 was 1365 mm and 1442 mm respectively within a 73-day period during each season.
+Piezometer installation Nine sets of piezometers and 3 monitoring wells were installed around the experimental site to
+monitor the watertable and its properties (pH, EC and height) on a weekly basis. The locations
+were selected based on the distance to the mangrove area. Thus, the lower site was distant 90 cm form the mangrove, the middle site 333 cm, and the upper site 499 cm. Our study plots were located in the lower site. Shallow and deep piezometers (30 cm apart) were installed based on the method proposed by WRAP (2000) to provide information about groundwater
+recharge or discharge, as well as water quality. The depth of each piezometer varies based on
+the soil profile depth of the location they were installed. In our experiment plots, piezometers were placed at 45 cm (2Btng2 horizon) and 115 cm (3Cgz2 horizon). Piezometers were
+perforated PVC pipe at the bottom only and placed into the ground to collect water. They were
+sealed with bentonite above the perforated zone to prevent down flow of water. Thus, water did
+not come from the layer (s) above the zone of perforation but underneath it by pressure. Unlike
+piezometers, monitoring wells were perforated from below ground to the bottom of the pipe.
+They give the best estimate of water table height in soil because water does not enter in the well under pressure.
+Experimental Design In Senegal, 45 rice varieties are cultivated (ISRA 2012) across the country. Among them 26
+varieties are for irrigated upland culture, 8 varieties for rainfed lowland, 7 varieties for rainfed
+upland and 4 varieties for mangrove. The latter group belongs to the salt-tolerant varieties (specie Oryza sativa L.) which are Rok 5, WAR 1, WAR 77-3-2-2 and WAR 81-2-1-3-2. In Djibelor, WAR 1 cultivar performs better in salt-affected soils based on ISRA unpublished 29
+results in 2013. This cultivar was obtained from the crossing of IR 4595-4-1-5 / Pa Fant 213. Its life cycle is 135 days, and height 160 cm.
+The field was tilled (disked and harrowed) with a tractor prior to implementation of the experiment in 2014 and no tillage was performed in 2015. Soil properties, rice yield, and
+phenological parameters were evaluated in a split-plot design with six (6) replicates. Two
+planting methods and two soil amendments were tested. The experimental area for this study
+was divided into six blocks. The planting methods consisted of beds (R) with 20 cm height and
+flat (F) treatment randomly assigned to the main-plots which were each subdivided into four sub-plots where soil amendments were randomly applied. The sub-plot size was 1m width ×5m long. Those amendments included biochar at 18.0 t ha-1, crushed oyster shell at 7.2 t ha-1, biochar and shell in combination (18.0 t ha-1 of biochar + 7.2 t ha-1 of shell), and an untreated
+control. Biochar and shell were applied before planting only in 2014. In addition, all subplots received the same amount of NPK fertilizer as 15-15-15, 13-00-50, and urea during both seasons. The resulting NPK rates were 373 kg ha-1, 110 kg ha-1, and 134 kg ha-1 respectively. In
+both growing seasons, NPK fertilizer was applied at transplanting. The NPK rate was selected based on Arkansas recommendation for a target yield of 6 t ha-1 and also ensure that fertilizer will not be a limiting factor. Urea was split in two applications, one half 20 days after
+transplanting (start tillering) and the other 45 days after transplanting (panicle initiation). Rice was transplanted on August 22nd 2014 and August 19th 2015.
+The wood biochar used in this experiment corresponded the residue of charcoal not qualified as high energy source (size and softness) by “Bois Energie du Senegal” (Wood Energy for
+Senegal). Standard production for charcoal is a slow pyrolysis of Eucalyptus camaldulensis principally in an Adam kiln at temperatures of 600o and 750o C for 26 to 30 hours. The biochar
+was passed through a 5 mm sieve for field application. The characterization of the biochar (Table 1) was performed based on Standards and Guidelines of the International Biochar
+Initiative (IBI 2014). The measured parameters were pH, EC in a 1:20 ratio, ash and moisture using ASTM (2013) method. Total mineral content was determined by strong acid digest method using MARS Xpress microwave. However, 8% acid concentration was obtained by adding 8 mL nitric acid (HNO3) into vessels containing 0.5 g of biochar compared to the proposed method by (Rajkovich et al. 2011). Exchangeable cations and CEC were determined 30 using (1M NH4OAc) at pH 7. Rayment and Higginson (1992) method was used to determine available nitrate (NO3- -N) and ammonium (NH4+ -N) using 2M KCl extraction. The CN ratio as for the soil was determined using the Elementar vario Max CN Analyzer. However, biochar was analyzed as soil containing > 40% C whereas the soil samples in this study were are analyzed as mineral with < 40% C in the vario Max.
+Oyster shells were burned for about 10 min in open air using traditional methods. The heating
+temperature was not controlled and the goal was to burn the shells so that they were easy to crush with a mortar and pestle. The crushed shell was passed through a 1 mm sieve. The
+chemical analysis of the shell was based on the AOAC (1998) method for both effective CaCO3 equivalent and lime equivalent (Table 2).
+In 2014 and 2015 rice was transplanted (Aug. 22nd and Aug. 19th respectively) into plots at a density of 25 plants m-2. The plants were 20 cm apart. Rice phenological properties on the dates of 50% panicle differentiation (Nov 3rd to 9th in 2014 and Nov. 5th in 2015) and 50 % anthesis (Nov 7th to 15th in 2014 and Nov. 10th in 2015) were measured. Tillers and panicles were counted on three random one-meter rows excluding border rows. Between the vegetative and reproductive stages, fifty (50) Y-leaves – most recent, and fully expanded leaves – were
+harvested in each subplot for nutrient analysis. Plant height was measured at two locations in each subplot, and rice grain yield and straw weight were obtained at harvest on Dec. 15th 2104 and Dec. 21st 2015. Plants in the border rows (edges) were removed before harvest, so were not
+included in the yield measurement. In our experiment, the intended harvested area was 3.83 m2,
+which corresponded to the area occupied by 96 plants. At harvest, 50% of the plants died in the
+beds and 40% in the flat treatment, resulting in a high variability in yield. Due to the generally
+vigorous appearance of the surviving plants within the plot, we considered mortality to be a random rather than a treatment effect. Hence, yield was normalized by considering the
+harvested area for each subplot as the one occupied by the number of harvested plants (not the expected 3.83 m2). The covariate (percent live plants) was accounted in the model to better
+explain yield response. The same method was applied in 2015 to measure yield. At harvest, 17
+% of the plants died in the beds whereas 25 % were lost in the flat treatment. In addition, the
+percent of sterile spikelets was measured by randomly selecting three piles of 100 grains and counting the number of sterile grains.
+31 Soil samples were collected within each subplot before amendment application in 2014 (initial)
+and after harvest in 2014 and 2015. We collected a composite of three random subsamples at
+15 cm depth in each subplot. The samples were air-dried, ground, and sieved to <2 mm. Soil
+pH was measured in a 1:1 (vol:vol) soil to water ratio. Soil exchangeable nutrients (P, K, Ca, Mg, Fe, Mn, Zn and B) were extracted using Mehlich 1 solution and analyzed by ICP-AES
+(Mehlich 1953) after the samples were shaken for 5 min and filtered. The CN ratio and soil total C and total N were measured with an Elementar vario Max CN Analyzer. Each sample was ground for three minutes with a Retsch mortar grinder and sieved through an 80-mesh sieve (0.18 mm opening). The temperature in the combustion tube was 850o to 1150 o C.
+Salinity (ECe) and sodicity (SAR) were measured in a saturated paste extract (Richard 1954).
+The SAR was calculated after Richard (1954), and ESP was estimated from the SAR. In addition to the above soil analyses, the seven soil profile horizons were tested for CEC using 1M ammonium acetate (1M NH4OAc) at pH 7 (Chapman 1965). Exchangeable aluminum (Al3+) was determined in a 1N KCl extract (McLean (1965), and exchangeable acidity (H+) was measured in a BaCl2-TEA extract (Peech (1965). Particle size analysis was done using the
+pipette method (Gee and Bauder (1986). Plant tissue samples (leaves and grains) were ground
+using a Wiley mill with a 1 mm sieve. The samples were analyzed for nutrient analysis using nitric/HCl microwave digestion and ICP (Chen and Ma 1998). The nitrogen was measured with a LECO nitrogen analyzer (Kowalenko 2001).
+Data Analysis Data were subjected to statistical analysis following ANOVA and treatments were
+differentiated using Tukey’s HSD test p = 0.05. JMP software (SAS Institute Inc. Cary, NC,
+USA) was used to perform the analyses, and Minitab 17 (Minitab Inc. State College, PA, USA) was used for outlier diagnostics and regression analysis.
+3.3. Results Soil Profile Description and Hydrology Soil profile characterization (Tables 3 and 4) shows the presence of three parent materials and
+seven horizons to 130 cm depth. The soil textural size classes for these horizons are fine sandy loam (FSL), sandy clay loam (SCL), and loamy fine sand (LFS) from the surface to 130 cm.
+The soil profile is saline-sodic and acid throughout. Gleying—due to oxidation-reduction of Fe- -was evident throughout the profile below 22 cm depth. Carbon and N concentrations were 32
+highest in the Apnz1 horizon, due to decreasing amounts of organic matter with depth. Sodium
+and Mg concentrations were highest in the surface horizon and K concentrations were lowest
+with depth; otherwise available nutrient concentrations were relatively uniform within the
+profile. Sulfur concentrations were highest near the bottom of the profile, presumably reflecting
+the accumulation of Fe sulfides. During groundwater discharge, dissolved salts, reduced Fe, and sulfur are brought to the soil surface. During the dry season, evaporation exceeds
+precipitation and therefore salts are left behind. The supply of oxygen in aerated conditions induces the oxidation of iron to Fe3+ and sulfate is oxidized to sulfuric acid, lowering soil pH during the dry season.
+Experimental Results for 2014 Water level During 2014, the higher level of the water table in the shallow piezometers compared to the
+deep ones showed a net drop or downward flux of the water table (Figure 2) for all 3 locations.
+This trend was observed from the 2nd to 9th August 2014, a week after they were installed.
+During the same period, water height in the monitoring wells indicated that the water table was
+below soil surface. A week later, an upward flux was observed in both piezometers and wells,
+and lasted for the remainder of the growing season. In the lowland monitoring well, two peaks of water height were noticed on 23rd August and 7th October 2014 with respectively 44 cm and 36 cm above surface. The water level in the monitoring well confirmed that the field was submerged during almost the entire growing season (Figure 3).
+Water EC and pH The EC of the water in the piezometers was < 4.0 dS m-1 in upland (Figure 4) but increased toward the estuary to 10 dS m-1 to 14 dS m-1 in midland and lowland positions, respectively. By the end of the growing season, it dropped to < 4.0 dS m-1 in the midland and lowland on 13th and 27th October respectively. At the lowland position, where the experimental plots were located, water EC was >10 dS m-1 from transplanting until panicle initiation; then decreased steadily until harvest. Overall, EC was higher in deep piezometers, which indicates the
+influence of brackish river water. Cumulative rainfall from June to September 2014 was 1277 33 mm, with only 88 mm in October. Groundwater pH was > 4 at the 3 locations during the growing season (Figure 5), with no apparent trends due to landscape position.
+Rice yield and yield components Rice yield in 2014 was not affected by treatment main effects or interactions (Table 5), but was
+affected by percent live plants (the covariate). The average yield across treatments was 4.39 t ha-1
+, much higher than the average for this area, despite highly saline conditions during the first part of the growing season. Tillers and panicles m-2 were significantly affected by planting method and amendments (Table 5). The number of tillers and panicles was higher in beds
+compared to flats. Between amendments, tillers and panicles were lower in the biochar+shell
+compared to other amendments (Table 6). As for yield, straw weight and plant height were not significantly affected by the treatments.
+In 2015, rice yield was significantly affected by amendments and the covariate percent of live plant (Table 5). The highest yields were recorded in the biochar treatment at 3.18 t ha-1 which
+was significantly different from the control (Table 6). From 2014 to 2015, we observed a yield decrease in yield of 20 % in the treatments receiving shell, 32 % in treatments receiving
+biochar, and 39 % in treatments receiving biochar plus shell. Yield in the control treatments was 48% below that in 2014. There is no clear explanation for the yield decrease in 2015 compared to 2014. Unfortunately, EC was not measured in water in piezometers in 2015. In 2015, we noted 32% sterile spikelets, which may partly explain the decreased yield. The
+percent sterile spikelets was not statistically different among treatments. In 2015, plant height
+was significantly affected by the interaction between planting methods and amendments. In flat
+treatment where biochar+shell was applied, plant height was at its maximum (160 cm for the
+WAR 1 cultivar). Plant lowest heights were recorded on bedded treatment where biochar+shell and shell amendments were supplied.
+Tissue nutrient analyses in 2014 (data not shown) revealed few significant differences in nutrient concentrations among treatments. Across all treatments, average leaf Na concentration was 3,560 mg kg-1, compared with the toxic concentration of >2,000 mg kg-1 (SAAESD 2009).
+Leaf iron concentrations were also not significantly different among treatments, with an 34 average concentration of 99 mg kg-1. HAIFA (2010) reported that >192 mg Fe kg-1 are toxic to rice.
+Soil pH, EC, SAR, and exchangeable nutrients Soils in the lowland area are saline-sodic because of a pH < 4, an EC > 4 dS m-1, and SAR >13 (Figure 6). Before any treatment application, soil pH, EC and SAR were 4.4, 24.4 dS m-1 and 30.2 respectively (Figure 6). The EC and SAR measured after harvest in 2014 were significantly affected by planting methods (Table 7) and were lower in the flat treatment compared to beds (Table 7). At harvest, the EC was 5.2 dS m-1 in the flat treatment compared to 14.6 dS m-1 in beds while the SAR was 10.6 in flats and 21.3 in beds (Table 8).
+Soil pH and exchangeable Ca were significantly affected by the interaction of planting method and amendment (Table 7). The highest soil pH and exchangeable Ca were obtained in flat
+treatments with biochar plus shell. In addition, the biochar applied was rich in mineral elements
+and Ca principally (Table 3). The result of the shell analysis shows its CaCO3 equivalent is 102
+% but the effective CaCO3 equivalent was 60.9% due to its finesse. Calcium is the dominant
+exchangeable cations in most soils. As a result, the highest CEC values were recorded in flat
+treatment where shell and biochar+shell were applied. Most soil nutrients (P, K, Mg, Mn, Z, B, and C) were significantly affected by main effects of planting method and/or amendments (Table 7). Potassium and Mg were higher in beds compared to flat treatments but the Mg: K
+ratio was not significantly different among planting methods. Given the ratios Ca: Mg (4.1) and Ca: K (13.4) in the flats, low K and Mg levels were due to potential leaching with the
+downward flux of the water table. The micronutrients Zn and Mn were higher in flat treatments
+compared to beds (Table 8). The availability of Zn and Mn was enhanced by soil pH in the flats at the exception of Mn which tends to be more available at low pH. Manganese was also
+affected by addition of amendments which as well had significant impact on P, B and C in soil.
+Manganese was higher in biochar+shell treatment compared to shell and control. Phosphorus and boron were higher in shell treatment which presents a mean difference with the control
+treatment. Although the biochar has low carbon content, soil C was significantly higher in biochar and biochar+shell amended plots.
+35 3.4. Discussion Soil profile description and hydrology The lower site (study plots) is characterized by the existence salinity, sodicity, and acidity are the predominant conditions as shown in figure 6. The soil profile in this lower site was
+classified as Fine-loamy, kaolinitic, isohyperthermic family of Typic Kandiaqualfs (Figure 7).
+The soil has an argillic horizon between 22 and 55 cm. The soil contained high levels of salinity, being moderately to strongly saline throughout (Table 1 and 2). EC > 30 dS m-1 was
+found in the surface layer and the lower profile, with lowest values between 10 and 40 cm.
+Sodium levels are high, indicated by SAR > 27 throughout. Salinity is mainly caused by water intrusion and inundation from the estuary, as well as groundwater discharge which carried
+dissolved salts. The sandy texture of the soils allows dissolved soluble salts to infiltrate to
+deeper horizons following the rainy season. As the soil dries further, however, evaporation
+draws saline soil solution to the surface where the salt precipitates. After the start of the next
+rainy season, the rising groundwater builds in salinity as it rises through the soil profile during
+groundwater discharge. In the upland, the level of salinity is very low because the groundwater
+is diluted by rainfall. Soil pH is < 3.7 throughout, except in the layer between 55 and 79 cm
+where it is 4.9. The total sulfur is more than 0.2% in the three horizons below 55 cm, indicating
+the presence of sulfidic materials. The soil samples were not tested to see if the pH dropped
+rapidly upon oxidation, so the presence of a sulfuric horizon cannot be confirmed. However,
+the soil has very low pH (<2.7) and very high levels of Mehlich-1 extractable Fe in the lowest
+two horizons, in a deposit that is sandier and different parent material than the horizons above.
+It is unclear how deep the water table drops and allows oxidation. Water from the estuary is a
+source of sulfides that may later oxidize into sulfates, increasing acidity and making even more Fe soluble.
+Precipitation controls the dynamics of groundwater levels (Figures 1 and 3). In Djibelor, the
+amount of rainfall during the 2014 rainy season increased water table level in the piezometers
+as well as monitoring wells to above the soil surface during almost the entire rice growing
+season (Figure 2). However, fresh water discharge was not sufficient to dilute salinity in
+groundwater for the first two months of the growing season (Figure 4). In the Cgz horizon, the EC was 55.3 and 62.4 dS m-1 in the lower site. When the groundwater rises under pressure, it
+dissolves salts contained in lower horizons and increases water salinity. By the end of the rainy 36 season (October), salinity in both shallow and deep piezometers dropped to < 4.0 dS m-1,
+similar to the salinity level of the tide in October (Posner 1988). The pH of the groundwater in
+the piezometers was near neutrality even though the acidity in the deep horizons was extremely low.
+Rice yield and yield components in 2014 In 2014, there was no treatment effect on rice yield. For more than two weeks after
+transplanting in 22 August 2014, seedlings died, resulting in a reduction of the number of
+plants by 50 % in the bed versus 40 % in flat treatments. The height of the water table (Figure
+4) and water EC values confirm that rice was transplanted in saline conditions and therefore seedlings were exposed to osmotic stress during transplanting when rice plants were
+translocated from a non-saline nursery to a saline-sodic soil. The reduction of seedling density
+was observed during the first half of the growing season (Figure 5). Osmotic stress is due to a
+high concentration of soluble salts in the soil solution and induces seedling wilting and death
+(Läuchli and Grattan 2007). At panicle differentiation, Na concentration in leaves was 3,560 mg kg-1, and was above the critical level (> 2000 mg kg-1) for Na injury in rice leaves (SAAESD 2009). Some salt-tolerant varieties tend to concentrate Na or Cl in old leaves to
+prevent their potential toxicity (build-up in cytoplasm or cell wall) by compartmentalizing them
+in the vacuoles (Eynard et al. 2005; Munns 2002a). Toxic level of Na in leaves causes chlorosis
+and death (Läuchli and Grattan 2007), inhibits photosynthesis due to dehydration, turgor loss and death of leave cells and tissues (Flowers et al. 1991; Sudhir and Murthy 2004). As a consequence, photosynthesis is reduced at the whole plant level impacting yield and yield
+components. Seedling reduction and high Na concentration in leave did not impact average rice yield of 3.51 t ha-1 compared to the average rice yield as reported by Wolfe et al. (2009) for Ziguinchor region (1 to 2 t ha-1).
+Soil pH, EC, SAR, and exchangeable nutrients The flat treatment was more favorable to salt leaching or dilution of salts than the bedded
+treatment, as shown by the lower EC and SAR in soil samples collected after harvest (Tables 7
+and 8). The decrease in soluble salt concentration after harvest was likely due to the fact that
+salt leaching was more likely in the flat treatments, compared to the bedded treatment. In 37
+addition, the effect of tillage in salt redistribution in the soil was very important. After tillage, the average Na concentration in the top 15 cm was one-fourth that in the top 10 cm before
+tillage. As mentioned by Bakker et al. (2010), the shape of the beds does not allow effective
+leaching of salts. Evaporation and resulting precipitation of salts results in more salt retention
+in beds as the paddy dries. In the flat treatments, better infiltration of water induced leaching of excess salts when the water table dropped. Neither he main effect of amendments nor the interaction of planting methods and amendments had significant effects on soil salinity.
+However, Chintala et al. (2014) found that biochar from corn stover and switchgrass, and lime
+applied at different rates increased soil EC compared to the control. The increase of soil EC followed by biochar application was due to its ash content which is primarily composed of
+mineral nutrients or salts. In acid-sulfate, saline-sodic soils, the application of lime or
+equivalent results in the formation of gypsum (Sylla 1994). Given the total sulfur content in the soil surface, if any gypsum has been formed, it may have reacted with sodium carbonate to
+produce readily leachable sodium sulfite anion, thus reducing content of Na ions in soil surface in the flat treatment.
+The addition of liming materials in flat treatments increased exchangeable soil Ca and pH.
+Brookes et al. (2010) found that Mycanthus biochar processed at 700o C increased soil pH from 4 to more than 5 compared to that at 350o C (4.0 to 4.5). Biochar has the ability to hold
+nutrients through its sorption property and therefore improve soil CEC. In addition, the biochar
+source used in this experiment is rich in mineral nutrients such as Ca, K, and Mg. The ability of
+biochar to increase soil pH reside in its ash content which is determined by the temperature at
+which biochar was produced. In addition, the char may present the alkalinity effect of the
+source material. For example, Yuan and Xu (2011) tested the liming ability of nine biochar sources composed of legume and non-legume materials. They found that the liming effect of
+legumes based biochar to be greater than that of non-legumes and attributed these differences to
+the accumulation of more alkali in legume plants. Using different biochar sources at 3 pyrolysis
+temperatures, Lehmann et al. (2011); Nguyen and Lehmann (2009); Nguyen et al. (2010) found
+that the higher the temperature, the higher the ash content and therefore the higher the pH. As a
+result, biochar liming ability increases as its pH gets higher. Van Zwieten et al. (2010) obtained increase in soil pH at 2 units biochars with 30 % CaCO3. Yuan and Xu (2011) found a correlation of 0.95 between soil pH and biochar alkalinity.
+38 The increase in soil pH in flat treatments has resulted to a higher availability of nutrients such
+as Mn, and Zn whereas K and Mg was higher in beds. Likewise, nutrient concentration in plant
+tissues (P, Zn, and Mn) was more pronounced in flats. Shell and biochar+shell application has
+improved P and B availability whereas biochar increased soil C. Biochar plays both the role of
+nutrient addition and retention (Lehmann et al. 2003). The application of Ca-rich material has improved soil pH and therefore nutrient availability.
+Rice yield and yield components in 2015 In 2015, the effect of soil amendments has significantly affected yield. However, yield has decreased by 35% compared to 2014. We measured 32% sterile spikelets. Yield components
+such as panicle number and length and grain fertility are the major factors that reduce rice yield
+with more than 50 Mm NaCl in soil solution (Shereen et al. 2005). High salt concentration can
+induce up to 77 % yield reduction, depending on the cultivar. Ologundudu et al. (2014) found a
+decrease in root (20 % to 100 %) and shoot dry weight (13 % to 90 %) with increasing salinity level from 0 to 15 dS m-1. In our study, tillers and panicles m-2 were higher in beds in 2015
+compared to flats in 2014 statistically. The more tillers in beds can be due to lower plant
+density when rice plants were lost after transplanting resulting in less competition for nutrients
+and light. The biochar+shell amendment had the lowest tillers and panicles in both years. In
+2014, rice plants did not suffer from nutritional disorder. Despite the excessive sodium content
+in leaves and Fe content in grains, the most essential nutrients were in adequate ranges in leave tissues.
+39 Summary and Conclusions In the Casamance region of southern Senegal, lowland rice is cultivated in highly saline
+conditions near the tidal Casamance river. Groundwater is saline and during the early part of
+the growing season, dominates the water balance of rice paddies near the river. As the rainy
+season increases in intensity, salinity may decrease as rainwater dominates the water balance.
+Avoiding salt stress is one key to successful rice production in these systems. We conducted
+field experiments during two seasons near Djibelor in southern Senegal to evaluate the effects
+of planting method and soil amendments on rice yield. In 2014, water salinity was >10 dS m-1
+from transplanting and for the following seven weeks until 50% anthesis. Flat treatments were
+under water most of the time, while bedded treatments were sometimes above water. Seedling mortality in bedded treatments may have resulted from salt accumulation toward the center
+rows increased by evapotranspiration on surface. Water salinity dropped by the beginning of the reproductive stage (7e week) which is one of the most sensitive phase of rice to salinity.
+Thus, water management is necessary to control evaporation during early seedling stage to reduce soil concentration therefore plant lost if rice is cultivated in beds.
+Planting method did not significantly effect on rice yield despite their effects on soil chemical
+properties and plant nutrient uptake. In saline-sodic environment flat treatment would be more
+appropriate unless beds are under water to minimized salt concentration and therefore yield reduction. The effect of planting methods was more pronounced on soil EC and SAR which decrease respectively to below 4 dS m-1 and 13 in flat treatments after harvest. In addition, the
+higher availability of P, Mn and Zn in flat compared to bedded treatments resulted in high leaf P, Mn and Zn concentrations of plants in flat treatments. Phosphorus and Zn in particular become more available with increasing pH while Mn tend to increase at low pH. Biochar and shell amendments did not affect rice yield in 2014 even though soil CEC, C and pH were increased. However, we see significant differences among amendments in 2015 with biochar
+treatment having a higher yield compared to the control (25 % higher). Our results show that
+management practices that minimize salinity stress are crucial for achieving acceptable rice yield in acid, saline-sodic lowland production systems.
+40 References Abdullah Z, Khan MA, Flowers TJ (2001) Causes of Sterility in Seed Set of Rice under Salinity Stress. Journal of Agronomy and Crop Science 187: 25-32. doi:
+10.1046/j.1439-037X.2001.00500.x.
+AOAC (1998) Official Methods of Analysis. AOAC (Association of Official Analytical Chemists). 771 pp.
+ASTM (2013) Standard Test Method for Chemical Analysis of Wood Charcoal. American Society for Testing and Materials (ASTM Internaltional; West Conshohochen, PA).
+Designation: D1762-84 (Reapproved 2007). pp 2.
+Audebert A, Fofana M (2009) Rice yield gap due to iron toxicity in West Africa. Journal of Agronomy and Crop Science 195: 66-76.
+Bakker DM, Hamilton GJ, Hetherington R, Spann C (2010) Salinity dynamics and the potential for improvement of waterlogged and saline land in a Mediterranean climate using permanent raised beds. Soil and Tillage Research 110: 8-24. doi:
+http://dx.doi.org/10.1016/j.still.2010.06.004.
+Becker M, Asch F (2005) Iron toxicity in rice—conditions and management concepts. Journal of Plant Nutrition and Soil Science 168: 558-573.
+Blesgraaf R, Geilvoet A, Hout Cvd, Smoorenburg M, Sotthewes W (2006) Salinity in the Casamnce Estuary: Occurence and Consequences. Delft University of Technology (TUDelft). Final Report MSc Project Casamnce 2006. pp 130.
+Brookes P, Yu L, Lin Q (2010) Effects of biochar on soil chemical and biological properties in high and low pH soils. Proceedings of the International Symposium on Environmental Behavior and Effects of Biomass-Derived Charcoal Cina Agricultural University 41 pp.
+Chapman HD (1965) Cation exchange capacity. In C.A. Black, L.E Ensminger amd F.E. Clark (Eds). Methods of soil analysis Part Agronomy 9. ASA Wisconson, Madison. P. 891- 901.
+Chen M, Ma LQ (1998) Comparison of four USEPA digestion methods for trace metal analysis using certified and Florida soils. Journal of Environmental Quality 27: 1294-1300.
+Chintala R, Mollinedo J, Schumacher TE, Malo DD, Julson JL (2014) Effect of biochar on chemical properties of acidic soil. Archives of Agronomy and Soil Science 60: 393-404.
+doi: 10.1080/03650340.2013.789870.
+Cormier-Salem MC (1999) Rivieres du Sud. Societes et Mangroves Ouest-Africaines. IRD (Institut de Recherche pour le Development), Paris. Vol. 1. pp 426.
+Eynard A, Lal R, Wiebe K (2005) Crop Response in Salt-Affected Soils. Journal of Sustainable Agriculture 27: 5-50. doi: 10.1300/J064v27n01_03.
+Flowers TJ, Hajibagherp MA, Yeo AR (1991) Ion accumulation in the cell walls of rice plants growing under saline conditions: evidence for the Oertli hypothesis. Plant, Cell & Environment 14: 319-325. doi: 10.1111/j.1365-3040.1991.tb01507.x.
+Gee GW, Bauder JW (1986) Particle size analysis. In: A. Klute (Ed). Method of Soil Analysis Part 1 Physical and mineralogical methods 2nd Edition. ASA, Madison Wisconsin, USA. P. 399-404.
+HAIFA (2010) Nutritional Recommendations for Rice. HAIFA Pioneering the Future.
+http://www.haifa-group.com/files/Guides/Rice.pdf. Accessed 4/25/2016.
+41 IBI (2014) Standardized Product Definition and Product Testing Guidelines for Biochar That Is Used in Soil. IBI-STD-V2-1, International Biochar Initiative: 61p.
+ISRA (2012) Catalogue officiel des especes et varietes cultivees au Senegal. Ministere de l'Agriculture et de l'Equipement du Senegal: 192 p.
+Konsten CJ, van Breemen N, Suping S, Aribawa IB, Groenenberg J (1994) Effects of flooding on pH of rice-producing, acid sulfate soils in Indonesia. Soil Science Society of America Journal 58: 871-883.
+Kowalenko CG (2001) Assessment of Leco CNS-2000 analyzer for simultaneously measuring total carbon, nitrogen, and sulphur in soil. Communications in Soil Science and Plant Analysis 32: 2065-2078.
+Läuchli A, Grattan SR (2007) Plant Growth And Development Under Salinity Stress. In: MA Jenks, PM Hasegawa, SM Jain (eds) Advances in Molecular Breeding Toward Drought and Salt Tolerant Crops. Springer Netherlands, Dordrecht.
+Lehmann J, da Silva Jr JP, Steiner C, Nehls T, Zech W, Glaser B (2003) Nutrient availability and leaching in an archaeological Anthrosol and a Ferralsol of the Central Amazon basin: fertilizer, manure and charcoal amendments. Plant and soil 249: 343-357.
+Lehmann J, Rillig MC, Thies J, Masiello CA, Hockaday WC, Crowley D (2011) Biochar effects on soil biota – A review. Soil Biology and Biochemistry 43: 1812-1836. doi:
+http://dx.doi.org/10.1016/j.soilbio.2011.04.022.
+Linares OF (2002) African rice (Oryza glaberrima): History and future potential. Proceedings of the National Academy of Sciences 99: 16360-16365. doi: 10.1073/pnas.252604599.
+Maas EV, Hoffman G (1977) Crop salt tolerance\-current assessment. Journal of the irrigation and drainage division 103: 115-134.
+Marius C, Lucas J (1991) Holocene mangrove swamps of West Africa sedimentology and soils.
+Journal of African Earth Sciences (and the Middle East) 12: 41-54.
+McLean EO (1965) Aluminum. In C.A. Black, L.E Ensminger amd F.E. Clark (Eds). Method of Soil Analysis Part Agronomy 9. ASA, Madison Wisconsin, USA. P. 927-932.
+Mehlich A (1953) Determination of P, Ca, Mg, K, Na and NH4. North Carolina Soil Test Division (Mimeo 1953) 1-53.
+Munns R (2002a) Comparative physiology of salt and water stress. Plant, Cell & Environment 25: 239-250. doi: 10.1046/j.0016-8025.2001.00808.x.
+Narale RP, Subramanyam TK, Mukherjee RK (1969) Influence of Salinity on Germination, Vegetative Growth, and Grain Yield of Rice (Oryza sativa var. Dular)1. Agronomy Journal 61. doi: 10.2134/agronj1969.00021962006100030001x.
+Nguyen BT, Lehmann J (2009) Black carbon decomposition under varying water regimes.
+Organic Geochemistry 40: 846-853. doi:
+http://dx.doi.org/10.1016/j.orggeochem.2009.05.004.
+Nguyen BT, Lehmann J, Hockaday WC, Joseph S, Masiello CA (2010) Temperature sensitivity of black carbon decomposition and oxidation. Environmental science & technology 44:
+3324-3331.
+Nguyen VN (2016) Factors affecting wetland rice production and the classification of wetlands for agricultural production. In: RhwfodxexechA Crop and Grassland Services (AGPC) FAO (ed).
+Ologundudu AF, ADELUSI AA, AKINWALE RO (2014) Effect of Salt Stress on Germination and Growth Parameters of Rice. Notulae Scientia Biologicae 6: 237.
+42 Peech M (1965) Hydrogen ion acidity. In C.A. Black, L.E Ensminger amd F.E. Clark (Eds).
+Method of Soil Analysis Part Agronomy 9. ASA, Madison Wisconsin, USA. P. 912- 926.
+PERACOD (2008) Plan D’Amenagement et de Gestion Sylvo-pastoral de la FORET Classee des KALOUNAYES. PERACOD (Programme pour la promotion des Energies Renouvelables, de l’électrificationrurale et de l’Approvisionnement durable en Combustibles Domestiques) Final report. 106 pp.
+Ponnamperuma F (1972) The chemistry of submerged soils. Advances in Agronomy, Vol 24 Academic Press New York. http://pdf.usaid.gov/pdf_docs/PNAAA956.pdf.
+Posner JL (1988) A Contribution to Agronomic Knowledge of the Lower Casamance (Bibliographical Synthesis). By The Department of Agriculture Economics, Michigan State University.
+Rajkovich S, Enders A, Hanley K, Hyland C, Zimmerman AR, Lehmann J (2011) Corn growth and nitrogen nutrition after additions of biochars with varying properties to a temperate soil. Biology and Fertility of Soils 48: 271-284.
+Rayment G, Higginson FR (1992) Australian laboratory handbook of soil and water chemical methods. Inkata Press Pty Ltd.
+Rice-LRVI (2006) Rice development in sub-Saharan Africa. Journal of the Science of Food and Agriculture 86: 675-677.
+Richard LA (1954) Diagnosis and improvement of saline and alkali soils. United States Salinity Laboratory Staff http://www.ars.usda.gov/sp2UserFiles/Place/20360500/hb60_pdf/hb60complete.pdf.
+SAAESD (2009) Reference Sufficiency Ranges for Plant Analysis in Southern Region of the United States. In: SAAESD (ed) Southern Cooperation Series Bulletin #394. SAAESD.
+http://www.clemson.edu/sera6/scsb394notoc.pdf.
+Sahrawat K (2005) Iron toxicity in wetland rice and the role of other nutrients. Journal of Plant Nutrition 27: 1471-1504.
+Savenije HHG, Pagès J (1992) Hypersalinity: a dramatic change in the hydrology of Sahelian estuaries. Journal of Hydrology 135: 157-174. doi: http://dx.doi.org/10.1016/0022- 1694(92)90087-C.
+Shereen A, Mumtaz S, Raza S, Khan M, Solangi S (2005) Salinity effects on seedling growth and yield components of different inbred rice lines. Pak J Bot 37: 131-139.
+Sudhir P, Murthy S (2004) Effects of salt stress on basic processes of photosynthesis.
+Photosynthetica 42: 481-486.
+Sylla M (1994) Soil salinity and acidity: spatial variability and effects on rice production in West Africa's mangrove zone. Agricultural and Environmental Sciences. Agricultural University of Wageningen. 173 p.
+UICN (2016) PLes Mangroves du Sénégal : Situation actuelle des ressources, leur exploitation et leur conservation. UICN (Union Mondial pour la Nation) Final report. 61 pp Dowload on 4/18/16 at 10:30 PM.
+Van Zwieten L, Kimber S, Morris S, Chan K, Downie A, Rust J, Joseph S, Cowie A (2010) Effects of biochar from slow pyrolysis of papermill waste on agronomic performance and soil fertility. Plant and soil 327: 235-246.
+Wolfe J, Jones C, Jain S, Diack A (2009) Global Food Security Response Senegal Rice Study.
+MicroReport #160. USAID/EGAT/PR/MD, Accelerate Microenterprise Advancement Project, USAID/SAGIC Project. 45 p.
+43 WRAP (2000) Installing Monitoring Wells/Piezometers in Wetlands. ERDC TN-WRAP (Wetlands Regulatory Assistance Program. 17 pp.
+Yuan JH, Xu RK (2011) The amelioration effects of low temperature biochar generated from nine crop residues on an acidic Ultisol. Soil Use and Management 27: 110-115. doi:
+10.1111/j.1475-2743.2010.00317.x.
+44 List of Tables and Figures Table 1: Characterization of biochar from Eucalyptus camaldulensis Moisture Ash C N C/N ratio NO3--N NH4+-N CEC
+--------------------------------%-------------------------------- ------------µg g-1------------ meq 100g-1 4.29 67.68 16.24 0.16 104.42 1.55 0.13 44.32 Ca K Mg Na Total P Total Ca Total K Total Mg Total Na
+----------------------cmol+ kg-1------------------------- --------------------------------mg kg-1-------------------------------- 133.67 4 8.94 1.27 1730 9043 9089 2275 458 45 Table 2: Oyster Shell Characterization Tests Value (%) Percent Passing 20 mesh 83.6 Percent Passing 60 mesh 48.7 Percent Passing 100 mesh 38.8 Effective CaCO3 Equivalent 61.89 Moisture (Oven 105 o C) 0.23 CaCO3 Equivalent 102 Moisture (Oven 105 o C) 0.42 46
+Table 3: Soil profile description in lowland rice paddy at Djibelor, Southern Senegal, in July 2014. Samples were collected at 12o 34’16.46’’ N, 16o 18’32.43’’ W.
+Horizons Upper depth Lower depth Boundary distinctness Texture class Hue V/C Structure Moist consistence Redoximorphic Features cm grade size shape concentrations depletions Apnz 0 10 abrupt
+smooth FSL 10YR 4/1 structureless massive very friable 1% 2.5YR 4/6 Fe pore linings and soft masses ---- Apnz 10 22 abrupt smooth FSL 10YR 4/1 weak thick platy very friable 3% 2.5YR 4/6 Fe pore linings and soft masses 2% N 4/0 and 5Y 4/1 depletion zones 2Btng1 22 40 clear wavy SCL 10YR 5/1 moderate medium sub angular blocky firm 5% 7.5YR 5/6 and 5% 5YR 5/6 soft Fe masses, 5% 2.5YR 4/6 and 10R 3/6 soft Fe masses and pore linings 12% 2.5Y 8/1, 3% N 4/0 and 2% 5Y 4/1 depletion zones 2Btng2 40 55 clear wavy SCL 2.5Y 5/2 moderate medium sub angular blocky friable 5% 7.5YR 5/6 and 5YR 5/6 soft Fe masses, 15% 2.5YR 3/6 and 10R 4/6 soft Fe masses and pore linings 12% 2.5Y 8/1 and 5% 2.5Y 6/1 depletion zones 2BCngz 55 79 clear smooth FSL 2.5Y 4/2 weak medium sub angular blocky friable 15% 7.5YR 5/6, 5YR 5/6, and 2.5YR 3/6 soft Fe masses and pore linings 5% 2.5Y 8/1 and 5% N 4/0 depletion zones
+3Cgz1 79 99 clear smooth LFS N 4/0 structureless massive very friable 5% 10YR 4/4, 5% 10YR 5/3, 5% 10YR and 2.5Y 6/6, and 5% 7.5YR 5/4 soft Fe masses and pore linings 10% N 6/0 depletion zones
+3Cgz2 99 130 -- LFS N 4/0 structureless massive very friable 55% 10YR 4/4, 5% 10YR 5/3, 5% 10YR and 2.5Y 6/6, and 5% 7.5YR 5/4 soft Fe masses and pore linings 10% N 6/0 depletion zones 45
+Table 4: Physical and Chemical Properties of the Soil Profile Djibelor, Southern Senegal, in July 2014. Samples were collected at 12o 34’16.46’’ N, 16o 18’32.43’’ W.
+Horizons pH† SAR† ECe† Na† C N‡ P K Ca Mg Fe Mn Zn B CEC Al H S dS m-1 mg L-1 g kg-1 ------------------------------------mg kg-1---------------------------------------- -------cmol+ kg-1------- %
+Apnz 3.47 43.3 55.54 14171.2 70.9 5543.15 2 95 275 1018 55.5 2.2 2.2 0.4 12.6 0.7485 6.6 0.12
+Apnz 3.68 31.7 15.31 3447.73 37.6 4059.49 2 67 94 231 26.7 0.5 1.3 0.4 3.8 0.4491 1.4 0.07
+2Btng1 3.63 30.2 16.7 3427.44 29.5 4230.12 1 123 200 392 18.2 0.8 5.3 0.8 7.2 0.4491 5 0.09
+2Btng2 3.45 33.3 27.7 5336.47 23.4 3427.76 1 125 230 415 23.3 0.8 5.7 0.8 7.1 0.7485 9.4 0.05
+2BCngz 4.9 34.7 33.35 6591.25 26.8 3330.81 1 125 407 475 26.1 0.8 6.8 0.9 7.4 0.1497 6.6 0.24
+3Cgz1 2.73 32.4 55.3 7155.69 36.2 3403.50 6 10 716 702 245.4 1.3 14.7 0.2 14.9 3.7425 15.2 0.25 3Cgz2 2.39 27.2 62.4 4869.13 36.5 3000.10 5 8 297 885 934.7 2 9 0.1 17.8 8.2335 10.2 0.58 † Soil pH, ECe, SAR, and Na were analyzed based on the saturated paste extract
+‡ N, P, K, Ca, Mg, Fe, Mn, Zn, and B were analyzed in a Mehlich 1 extract; Al in a KCl extract, H in a BaCl2 extract, and S by high temperature dry combustion using LECO S analyzer 48 Table 5: ANOVA for WAR 1 rice yield and phenological parameters in 2014 and 2015 Sources 2014 2015 df Yield Tillers Panicles Straw Height Yield Tillers Panicles Height Straw t ha-1 m-2 g m-2 cm t ha-1 m-2 cm g m-2 Planting Methods (PMs) 1 NS ** ** NS NS NS NS NS ** NS Amendments (AMDs) 3 NS ** ** NS NS * NS NS NS NS PMs×AMDs 3 NS NS NS NS NS NS NS NS * NS Reps 5 NS NS NS NS NS * NS NS NS NS WP Error 5 NS NS NS NS NS NS NS NS NS NS Covariate 1 ** * SP Error 30 *Significant difference at p = 0.05 **Significant difference at p = 0.01 ***Significant difference at p = 0.001 NS, not significant 49 Table 6: Mean separations for WAR1 yield and phenology in 2014 and 2015 Source 2014 2015 Yield Tillers Panicles Straw Height Yield Tillers Panicles Straw Height t ha-1 m-2 g m-2 cm t ha-1 m-2 g m-2 cm Planting Methods Flat (F) 5.03 a 219 b 177 b 489 a 104.6 a 2.85 a 244 a 198 a 1706 a 152.1 a Bed (Bd) 3.75 a 292 a 228 a 534 a 100.6 a 2.82 a 270 a 216 a 1856 a 133.8 b Amendments Control (C) 4.71 a 279 a 214 ab 531 a 104.1 a 2.4 b 256 a 205 a 1971 a 141.7 a Biochar (B) 4.67 a 246 ab 196 ab 453 a 101.8 a 3.18 a 272 a 223 a 1616 a 142.2 a Shell (S) 3.78 a 276 a 229 a 568 a 102.4 a 3.01 ab 241 a 195 a 1592 a 143.3 a Bioch+Sh (BS) 4.40 a 223 b 170 b 495 a 102.0 a 2.7 ab 272 a 205 a 1946 a 144.6 a PMs×AMDs F×C 4.79 a 246 a 180 a 518 a 107.7 a 2.23 a 232 a 193 a 1892 a 147.8 abc F×B 5.71 a 207 a 171 a 372 a 102.8 a 3.17 a 273 a 217 a 1233 a 144.6 abc F×S 4.53 a 242 a 204 a 576 a 104.7 a 3.00 a 233 a 217 a 1608 a 155.9 ab F×BS 5.20 a 182 a 151 a 491 a 103.3 a 2.99 a 238 a 193 a 2092 a 160.0 a Bd×C 4.63 a 311 a 249 a 545 a 100.7 a 2.65 a 281 a 216 a 2050 a 135.6 bc Bd×B 3.63 a 285 a 221 a 533 a 100.9 a 3.19 a 271 a 229 a 2000 a 139.8 abc Bd×S 3.12 a 310 a 255 a 560 a 100.1 a 3.01 a 249 a 203 a 1575 a 130.7 c Bd×BS 3.61 a 263 a 190 a 500 a 100.8 a 2.41 a 278 a 217 a 1800 a 129.1 c Pairwise comparison of means with columns, according to Tukey HSD test (p=0.05) Means with different letters are significant at (p=0.05) 50 Table 7: ANOVA for Soil Chemical Properties after 2014 rice growing season (Harvest) Sources df pH ECe SAR C N P K Ca Mg Fe Mn Zn B CEC dS m-1 g kg-1 mg kg-1 Planting Methods (PMs) 1 ** * ** NS NS NS * ** * NS * * NS NS Amendments (AMDs) 3 *** NS NS *** NS * NS *** NS NS *** NS *** *** PMs*AMDs 3 ** NS NS NS NS NS NS ** NS NS NS NS NS ** Reps 5 NS NS NS NS NS NS NS NS NS NS NS NS NS NS WP Error 5 NS NS NS NS NS NS NS NS NS NS NS NS NS NS SP Error 30 *Significant differences at p = 0.05 **Significant differences at p = 0.01 ***Significant differences at p = 0.001 NS, not significant 51
+Table 8: Mean differences for soil chemical properties after 2014 rice growing season (Harvest) Source pH ECe SAR C N P K Ca Mg Fe Mn Zn B CEC dS m-1 g kg-1 mg kg-1 Planting Methods
+Flat (F) 5.9 a 5.2 b 10.6 b 6.13 a 487.50 a 3.2 a 54.21 b 724.21 a 178.62 b 91 7 a 1.42 a 0.69 a 0.5 a 6.08 a
+Bed (Bd) 5.0 b 14.6 a 21.3 a 5.38 a 479.16 a 2.6 a 64.92 a 399.67 b 275.33 a 74.9 a 1.1 b 0.53 b 0.6 a 5.50 a Amendments
+Biochar (B) 4.5 b 10.9 a 18.1 a 6.65a 516.67 a 3.1 ab 62 a 208.67 b 244 a 80.2 a 1.42 ab 0.6 a 0.50 ab 4.67 b
+Bioch+Sh (BS) 6.8 a 8.9 a 14.3 a 6.65 a 466.67 a 2.7 ab 60 a 983.08 a 205 a 83.7 a 1.76 a 0.6 a 0.59 a 7.00 a
+Control (C) 4.1 b 9.9 a 16.3 a 4.83 b 466.67 a 2.3 b 53 a 150.17 b 219 a 71.5 a 0.84 c 0.5 a 0.40 b 4.33 b
+Shell (S) 6.4 a 9.8 a 15.2 a 5.24 b 483.33 a 3.5 a 64 a 905.83 a 240 a 97.8 a 1.02 bc 0.8 a 0.61 a 7.16 a PMs*AMDs
+F - B 4.7 cd 5.8 a 13.8 a 7.05 a 533.33 a 3.5 a 60 a 203.67 b 190 a 86.9 a 1.6 a 0.7 a 0.5 a 4.10 c
+F - BS 7.7 a 3.7 a 7.0 a 7.30 a 483.33 a 3.0 a 54 a 1311.67 a 164 a 87.9 a 2.1 a 0.6 a 0.5 a 8.10 ab
+F - C 4.1 d 4.1 a 11.1 a 4.62 a 450.00 a 2.3 a 45 a 132.00 b 151 a 73.4 a 0.8 a 0.4 a 0.3 a 3.70 c
+F - S 7.1 ab 7.0 a 10.6 a 5.53 a 483.33 a 4.0 a 58 a 1249.5 a 210 a 118.7 a 1.2 a 1.1 a 0.6 a 8.42 a
+Bd - B 4.3 d 16.1 a 22.2 a 5.88 a 500.00 a 2.7 a 63 a 213.67 b 298 a 73.4 a 1.3 a 0.6 a 0.5 a 5.23 bc
+Bd - BS 5.9 bc 14.0 a 21.6 a 5.63 a 450.00 a 2.5 a 66 a 654.5 b 247 a 79.5 a 1.4 a 0.5 a 0.6 a 5.90 abc
+Bd - C 4.2 d 15.7 a 19.9 a 5.03 a 483.00 a 2.2 a 62 a 168.33 b 288 a 69.6 a 0.9 a 0.5 a 0.5 a 4.97 c
+Bd - S 5.7 c 12.5 a 21.5 a 4.95 a 483.33 a 3.0 a 69 a 562.17 b 269 a 76.9 a 0.9 a 0.5 a 0.6 a 5.90 abc Pairwise comparison of means with columns, according to Tukey HSD test (p=0.05) Means with different letters are significant at (p=0.05) 52
+Figure 1: Average Cumulative Rainfall 2009-2015 and rainfall during 2014 and 2015 growing seasons at the experimental site near Djibelor, Senegal. 02004006008001000120014001600 MayJuneJulyAugustSeptOctNovRainfall (mm) MonthsAverage Cumulative (2009-2014)Cumulative 2014Cumulative 2015 54
+Figure 2: Groundwater depth in deep and shallow piezometers at 3 different positions (lower, middle and upper) at Djibelor Research
+site. Water depth was monitored weekly. The reference bars at 0 correspond to the ground level.
+55 Figure 3: Groundwater depth in wells 3 different positions (lower, middle and upper) at Djibelor Research site. Water depth was monitored weekly. The reference bars at 0 correspond to the ground level 56
+Figure 4: Groundwater EC in deep and shallow piezometers 3 different positions (lower, middle and upper) at Djibelor Research site.
+The EC was monitored weekly. The reference bars at 4 dS m-1 correspond to the EC threshold Transplanting V3-V4 Date 50% Anthesis 57
+Figure 5: Groundwater pH in deep and shallow piezometers 3 different positions (lower, middle and upper) at Djibelor Research site.
+The pH was monitored weekly. The reference bars at 7 correspond to the pH threshold 58 Figure 6: Soil pH, EC, and SAR (Saturated paste method) after tillage of the Rice Field (lower site) in Djibelor prior to adding amendments and transplanting in 2014 59 Figure 7: Soil Profile in the lower site (Location of our study plots) 58 Appendices:
+Appendix 1: Rice tissues (Y-leaves and grains) nutrient analysis Source (Leaves) df N P K Mg Ca S Na B Zn Mn Fe Cu Al ------------------%------------------ ----------mg kg-1 ---------- PMs 1 NS ** NS NS NS NS NS NS * * NS NS NS AMDs 3 NS NS NS NS NS NS NS NS NS NS NS NS NS PMs*AMDs 3 NS NS NS NS NS NS NS NS NS NS NS NS NS Reps 2 NS NS NS NS NS NS NS NS NS * NS NS NS WP Error 2 NS NS NS NS NS NS NS NS NS NS NS NS NS SP Error 12 Source (Grains) PMs 1 NS NS NS NS NS * NS NS * NS NS NS ** AMDs 3 NS NS * NS NS NS NS NS NS NS NS NS NS PMs*AMDs 3 NS NS NS NS NS NS NS NS NS NS NS NS NS Reps 2 NS NS NS NS NS NS NS NS NS NS NS NS NS WP Error 2 NS NS NS NS NS NS NS NS NS NS NS NS NS SP Error 12 Y-leaves were sampled at panicle differentiation 50 g grains were weighted at harvest 58 Appendix 2:
+In 2014, rice yield was not significant across planting method and amendment treatments. This
+lack of statistical difference led us to conduct a follow up experiment in 2015. That experiment
+was initiated to identify yield-maximizing rates of biochar, shell, and biochar+shell. Therefore, 5 rates of biochar (0, 15, 30 and 45 t ha-1), 10 rates of shell (0 to 9 t ha-1) and 10 rates of biochar+shell (18 t biochar ha-1 + 0 to 9 t shell ha-1) were studied separately and were randomly
+applied. The relationship between yield and amendment rates follow a quadratic fit as shown in figures A and B. In figure A, the R2 is 26.7 % and biochar rate 15 t ha-1 has the maximum yield 4.83 t ha-1 compared to the control which has the lowest yield of 2.83 t ha-1. Yield declined after the 15 t of biochar ha-1 but was not as low as in control. In figure B, there is not a strong relationship between yield and shell or biochar+shell rates and the R2 of both treatment rates were 10 %. From these results, were conclude that biochar application at 15 t ha-1 will give better yield compared to other biochar rates (0, 30 and 45 t ha-1), shell and biochar+shell treatment
+rates. In addition, rice yield in main experiment in 2015 showed that yield was 24.5 % higher in biochar amended plots compared to control.
+Figure A: Relationship between rice yield and biochar rates 59 Figure B: Relationship between rice yield and shell, biochar+shell rates 58 Appendix 3: Soil data at harvest (1) Plots_ID Reps PMs AMDs PMs×AMDs pH EC SAR Est. ESP C N P K dS m-1% g kg-1 mg kg-1 FB1 4 F B F×B 4.77 3.51 15.47 17.74 6.39 503.37 3.00 55.00 FB2 6 F B F×B 4.45 8.83 16.74 18.98 6.35 447.12 3.00 59.00 FB3 1 F B F×B 4.60 5.83 14.85 17.11 5.95 470.49 3.00 59.00 FB4 2 F B F×B 5.58 4.73 13.70 15.93 6.52 527.62 5.00 67.00 FB5 5 F B F×B 4.63 9.30 16.16 18.42 8.89 623.80 4.00 66.00 FB6 3 F B F×B 4.29 2.50 6.41 7.57 8.25 660.27 3.00 53.00 FBS1 4 F BS F×BS 7.72 8.87 15.07 17.33 6.28 446.20 4.00 69.00 FBS2 3 F BS F×BS 7.44 2.53 4.86 5.58 6.85 513.14 3.00 54.00 FBS3 5 F BS F×BS 7.60 1.51 3.31 3.49 7.01 496.95 2.00 46.00 FBS4 6 F BS F×BS 7.99 3.52 7.21 8.58 9.61 613.62 3.00 59.00 FBS5 2 F BS F×BS 7.51 3.34 8.59 10.24 7.97 496.27 3.00 59.00 FBS6 1 F BS F×BS 8.04 2.56 3.01 3.08 5.97 393.57 3.00 35.00 FC1 4 F C F×C 4.09 6.00 18.22 20.39 4.62 437.10 2.00 58.00 FC2 6 F C F×C 4.20 0.67 4.37 4.93 4.01 365.18 2.00 25.00 FC3 3 F C F×C 4.13 1.24 8.07 9.62 5.53 537.63 2.00 52.00 FC4 2 F C F×C 4.21 6.96 10.93 12.94 4.67 466.60 3.00 43.00 FC5 5 F C F×C 3.92 1.52 6.01 7.07 5.14 458.47 3.00 36.00 FC6 1 F C F×C 4.05 8.32 18.82 20.95 3.82 399.90 2.00 56.00 FS1 6 F S F×S 6.67 8.41 11.89 14.00 5.49 519.22 3.00 56.00 FS2 4 F S F×S 6.95 1.46 6.87 8.15 5.06 487.66 2.00 51.00 FS3 1 F S F×S 6.99 10.35 11.67 13.76 6.42 542.49 3.00 68.00 FS4 5 F S F×S 7.50 8.23 15.26 17.53 5.01 385.15 7.00 61.00 FS5 2 F S F×S 7.76 1.51 3.06 3.16 4.78 435.53 3.00 32.00 FS6 3 F S F×S 6.70 12.14 14.59 16.85 6.39 594.94 6.00 82.00 59 Appendix 4: Soil data at harvest (2) Plots_I D Rep s PM s AMD s PMs×AMD s pH EC SAR Est. ESP C N P K dS m-1% g kg-1 mg kg-1 RdB1 6 Bd B Bd×B 4.23 8.97 15.92 18.18 8.75 680.89 2.00 51.00 RdB2 3 Bd B Bd×B 4.05 38.10 34.08 32.89 5.84 451.60 3.00 65.00 RdB3 1 Bd B Bd×B 4.22 23.80 27.67 28.34 4.95 447.07 3.00 82.00 RdB4 5 Bd B Bd×B 4.31 12.19 20.98 22.89 4.55 434.22 2.00 64.00 RdB5 4 Bd B Bd×B 4.46 3.94 11.24 13.28 6.13 465.38 3.00 52.00 RdB6 2 Bd B Bd×B 4.30 9.55 23.54 25.07 5.09 495.64 3.00 65.00 RdBS1 6 Bd BS Bd×BS 6.96 28.00 31.67 31.25 5.94 482.60 3.00 86.00 RdBS2 2 Bd BS Bd×BS 6.42 17.33 24.57 25.92 5.28 447.51 2.00 70.00 RdBS3 5 Bd BS Bd×BS 5.23 10.41 18.11 20.29 4.78 423.61 2.00 64.00 RdBS4 3 Bd BS Bd×BS 4.40 7.80 20.33 22.32 4.52 425.51 2.00 59.00 RdBS5 4 Bd BS Bd×BS 4.62 7.28 18.96 21.08 6.69 565.42 3.00 59.00 RdBS6 1 Bd BS Bd×BS 7.55 13.41 16.05 18.31 6.56 431.65 3.00 57.00 RdC1 5 Bd C Bd×C 4.29 8.05 19.48 21.55 4.42 413.61 2.00 57.00 RdC2 3 Bd C Bd×C 4.08 14.98 22.78 24.44 5.46 533.75 2.00 71.00 RdC3 2 Bd C Bd×C 4.19 15.91 21.59 23.42 5.76 588.28 2.00 73.00 RdC4 6 Bd C Bd×C 4.04 11.07 21.31 23.18 4.21 387.93 2.00 48.00 RdC5 4 Bd C Bd×C 4.04 1.46 6.90 8.18 5.01 489.95 2.00 50.00 RdC6 1 Bd C Bd×C 4.34 43.00 36.61 34.53 5.27 537.88 3.00 71.00 RdS1 5 Bd S Bd×S 6.13 17.61 23.98 25.44 4.63 485.04 3.00 75.00 RdS2 1 Bd S Bd×S 7.00 12.56 17.89 20.09 5.30 528.84 2.00 73.00 RdS3 3 Bd S Bd×S 7.29 18.24 22.49 24.19 4.54 422.67 2.00 74.00 RdS4 6 Bd S Bd×S 4.47 17.07 27.24 28.02 5.87 577.53 3.00 82.00 RdS5 4 Bd S Bd×S 4.44 3.12 13.74 15.97 5.03 448.29 6.00 49.00 RdS6 2 Bd S Bd×S 5.18 6.45 13.97 16.21 4.43 452.53 2.00 61.00 60 Appendix 5: Soil data at harvest (3) Plots_ID Reps PMs AMDs PMs×AMDs Ca Mg Fe Mn Zn Cu B Est. CEC Mg:K Ca:Mg K:Mn mg kg-1 Ratio FB1 4 F B F×B 169.00 168.00 91.90 1.30 0.50 0.20 0.50 3.40 3.05 1.01 42.31 FB2 6 F B F×B 192.00 229.00 69.70 2.10 0.50 0.30 0.40 4.20 3.88 0.84 28.10 FB3 1 F B F×B 172.00 199.00 93.50 1.00 0.80 0.30 0.50 3.70 3.37 0.86 59.00 FB4 2 F B F×B 157.00 195.00 77.70 0.70 0.80 0.20 0.50 4.10 2.91 0.81 95.71 FB5 5 F B F×B 285.00 207.00 99.90 2.30 1.00 0.60 0.60 4.60 3.14 1.38 28.70 FB6 3 F B F×B 247.00 143.00 88.60 1.90 0.40 0.30 0.40 4.60 2.70 1.73 27.89 FBS1 4 F BS F×BS 1,680.00 253.00 84.60 2.30 0.80 0.30 0.70 10.70 3.67 6.64 30.00 FBS2 3 F BS F×BS 1,286.00 154.00 82.80 1.90 0.50 0.30 0.50 8.00 2.85 8.35 28.42 FBS3 5 F BS F×BS 1,197.00 121.00 86.70 1.70 0.50 0.30 0.50 7.10 2.63 9.89 27.06 FBS4 6 F BS F×BS 1,478.00 185.00 99.40 2.50 0.70 0.30 0.60 9.10 3.14 7.99 23.60 FBS5 2 F BS F×BS 980.00 162.00 91.60 1.70 0.70 0.30 0.60 6.50 2.75 6.05 34.71 FBS6 1 F BS F×BS 1,249.00 106.00 82.30 2.70 0.40 0.30 0.40 7.20 3.03 11.78 12.96 FC1 4 F C F×C 98.00 188.00 75.50 0.60 0.60 0.20 0.40 3.70 3.24 0.52 96.67 FC2 6 F C F×C 140.00 89.00 76.40 0.90 0.20 0.30 0.20 3.30 3.56 1.57 27.78 FC3 3 F C F×C 118.00 134.00 78.10 0.80 0.30 0.30 0.30 3.80 2.58 0.88 65.00 FC4 2 F C F×C 171.00 196.00 84.40 1.00 0.60 0.20 0.40 3.90 4.56 0.87 43.00 FC5 5 F C F×C 162.00 97.00 70.90 1.00 0.30 0.30 0.20 3.90 2.69 1.67 36.00 FC6 1 F C F×C 103.00 200.00 55.00 0.70 0.40 0.20 0.40 3.60 3.57 0.52 80.00 FS1 6 F S F×S 840.00 246.00 110.80 1.40 1.00 0.30 0.60 7.00 4.39 3.41 40.00 FS2 4 F S F×S 660.00 141.00 77.30 0.80 0.60 0.60 0.50 5.20 2.76 4.68 63.75 FS3 1 F S F×S 1,549.00 282.00 158.60 1.60 1.40 0.30 0.80 10.30 4.15 5.49 42.50 FS4 5 F S F×S 1,589.00 217.00 69.70 1.10 0.50 0.30 0.60 9.90 3.56 7.32 55.45 FS5 2 F S F×S 1,931.00 104.00 89.30 0.90 0.50 0.30 0.50 10.60 3.25 18.57 35.56 FS6 3 F S F×S 928.00 271.00 206.30 1.30 2.50 0.30 0.80 7.50 3.30 3.42 63.08 61 Appendix 6: Soil data at harvest (4) Plots_ID Reps PMs AMDs PMs×AMDs Ca Mg Fe Mn Zn Cu B Est. CEC Mg:K Ca:Mg K:Mn mg kg-1 Ratio RdB1 6 Bd B Bd×B 289.00 227.00 122.20 1.90 0.70 0.40 0.60 5.50 4.45 1.27 26.84 RdB2 3 Bd B Bd×B 288.00 476.00 78.30 1.90 0.80 0.20 0.60 7.20 7.32 0.61 34.21 RdB3 1 Bd B Bd×B 178.00 421.00 48.10 1.00 0.60 0.30 0.60 6.10 5.13 0.42 82.00 RdB4 5 Bd B Bd×B 134.00 282.00 42.30 0.70 0.50 0.30 0.40 4.40 4.41 0.48 91.43 RdB5 4 Bd B Bd×B 249.00 169.00 76.30 1.60 0.30 0.30 0.40 4.20 3.25 1.47 32.50 RdB6 2 Bd B Bd×B 144.00 211.00 73.30 0.70 0.50 0.30 0.50 4.00 3.25 0.68 92.86 RdBS1 6 Bd BS Bd×BS 768.00 385.00 123.40 1.20 0.60 0.30 1.00 7.30 4.48 1.99 71.67 RdBS2 2 Bd BS Bd×BS 672.00 280.00 62.50 1.20 0.50 0.30 0.60 5.90 4.00 2.40 58.33 RdBS3 5 Bd BS Bd×BS 446.00 215.00 71.80 1.20 0.50 0.30 0.60 4.40 3.36 2.07 53.33 RdBS4 3 Bd BS Bd×BS 143.00 181.00 52.80 0.60 0.40 0.30 0.40 3.40 3.07 0.79 98.33 RdBS5 4 Bd BS Bd×BS 180.00 177.00 80.90 1.30 0.40 0.30 0.50 3.70 3.00 1.02 45.38 RdBS6 1 Bd BS Bd×BS 1,718.00 245.00 85.70 2.80 0.70 0.20 0.70 10.70 4.30 7.01 20.36 RdC1 5 Bd C Bd×C 136.00 210.00 44.10 0.60 0.50 0.30 0.40 3.70 3.68 0.65 95.00 RdC2 3 Bd C Bd×C 175.00 330.00 66.40 0.80 0.60 0.30 0.50 5.60 4.65 0.53 88.75 RdC3 2 Bd C Bd×C 216.00 376.00 77.10 1.20 0.70 0.30 0.60 6.20 5.15 0.57 60.83 RdC4 6 Bd C Bd×C 144.00 202.00 57.70 0.70 0.40 0.20 0.40 3.90 4.21 0.71 68.57 RdC5 4 Bd C Bd×C 126.00 123.00 72.20 0.80 0.30 0.30 0.30 3.90 2.46 1.02 62.50 RdC6 1 Bd C Bd×C 213.00 484.00 100.30 1.00 0.70 0.20 0.70 6.50 6.82 0.44 71.00 RdS1 5 Bd S Bd×S 687.00 347.00 62.60 0.80 0.60 0.30 0.60 6.80 4.63 1.98 93.75 RdS2 1 Bd S Bd×S 784.00 327.00 65.80 0.90 0.50 0.30 0.60 7.10 4.48 2.40 81.11 RdS3 3 Bd S Bd×S 853.00 339.00 73.50 0.90 0.60 0.30 0.70 7.30 4.58 2.52 82.22 RdS4 6 Bd S Bd×S 377.00 293.00 76.60 0.70 0.70 0.20 0.80 6.20 3.57 1.29 117.14 RdS5 4 Bd S Bd×S 214.00 131.00 82.00 1.10 0.30 0.30 0.30 3.40 2.67 1.63 44.55 RdS6 2 Bd S Bd×S 458.00 177.00 100.90 0.80 0.40 0.30 0.50 4.60 2.90 2.59 76.25 62 Appendix 7: Soil data at harvest (5) Plots_ID Reps PMs AMDs PMs×AMDs P_Rating K_Rating Ca_Rating Mg_Rating SS_Rating OM_Rating FB1 4 F B F×B L M L VH L L FB2 6 F B F×B L M L VH H L FB3 1 F B F×B L M L VH M L FB4 2 F B F×B L+ M L VH M L FB5 5 F B F×B L M L+ VH H M FB6 3 F B F×B L M L+ VH L M FBS1 4 F BS F×BS L M VH VH H L FBS2 3 F BS F×BS L M VH VH L M FBS3 5 F BS F×BS L M- VH VH L M FBS4 6 F BS F×BS L M VH VH M M FBS5 2 F BS F×BS L M H+ VH M M FBS6 1 F BS F×BS L L+ VH H+ L L FC1 4 F C F×C L M L- VH H L FC2 6 F C F×C L- L L H L L FC3 3 F C F×C L M L- VH L L FC4 2 F C F×C L M- L VH H L FC5 5 F C F×C L L+ L H+ L L FC6 1 F C F×C L M L- VH H L FS1 6 F S F×S L M H- VH H L FS2 4 F S F×S L- M M+ VH L L FS3 1 F S F×S L M VH VH H L FS4 5 F S F×S M- M VH VH H L FS5 2 F S F×S L L+ VH H+ L L FS6 3 F S F×S M- M+ H VH H M 63 Appendix 8: Soil data at harvest (6) Plots_ID Reps PMs AMDs PMs×AMDs P_Rating K_Rating Ca_Rating Mg_Rating SS_Rating OM_Rating RdB1 6 Bd B Bd×B L M L+ VH H M RdB2 3 Bd B Bd×B L M L+ VH EH M RdB3 1 Bd B Bd×B L M+ L VH EH M RdB4 5 Bd B Bd×B L M L VH H L RdB5 4 Bd B Bd×B L M L+ VH M L RdB6 2 Bd B Bd×B L M L VH H M RdBS1 6 Bd BS Bd×BS L M+ H- VH EH M RdBS2 2 Bd BS Bd×BS L M M+ VH VH L RdBS3 5 Bd BS Bd×BS L M M- VH H L RdBS4 3 Bd BS Bd×BS L M L VH H L RdBS5 4 Bd BS Bd×BS L M L VH H L RdBS6 1 Bd BS Bd×BS L M VH VH H L RdC1 5 Bd C Bd×C L M L VH H L RdC2 3 Bd C Bd×C L M L VH VH M RdC3 2 Bd C Bd×C L M L VH VH M RdC4 6 Bd C Bd×C L- M- L VH H L RdC5 4 Bd C Bd×C L M- L VH L L RdC6 1 Bd C Bd×C L M L VH EH L RdS1 5 Bd S Bd×S L M M+ VH VH L RdS2 1 Bd S Bd×S L M H- VH H L RdS3 3 Bd S Bd×S L M H VH VH L RdS4 6 Bd S Bd×S L M+ M- VH VH M RdS5 4 Bd S Bd×S L+ M- L VH M L RdS6 2 Bd S Bd×S L M M- VH H L 58 Appendix 9: Rice Yield Components in 2014 Years Plots_ID WP PMs AMDs PMs × AMDs Panicle Emergence Anthesis Tillers Panicles Date 50 % m-2 2014 FB1 4 F B F×B 11/6/14 11/11/14 165 163 2014 FB2 6 F B F×B 11/9/14 11/14/14 153 118 2014 FB3 1 F B F×B 11/6/14 11/11/14 190 178 2014 FB4 2 F B F×B 11/6/14 11/12/14 288 220 2014 FB5 5 F B F×B 11/9/14 11/14/14 255 195 2014 FB6 3 F B F×B 11/6/14 11/10/14 193 150 2014 FBS1 4 F BS F×BS 11/6/14 11/11/14 180 160 2014 FBS2 3 F BS F×BS 11/9/14 11/15/14 213 162 2014 FBS3 5 F BS F×BS 11/6/14 11/10/14 150 122 2014 FBS4 6 F BS F×BS 11/6/14 11/12/14 215 183 2014 FBS5 2 F BS F×BS 11/6/14 11/10/14 163 137 2014 FBS6 1 F BS F×BS 11/6/14 11/10/14 170 143 2014 FC1 4 F C F×C 11/9/14 11/14/14 190 158 2014 FC2 6 F C F×C 11/6/14 11/10/14 235 178 2014 FC3 3 F C F×C 11/6/14 11/10/14 285 178 2014 FC4 2 F C F×C 11/6/14 11/10/14 257 212 2014 FC5 5 F C F×C 11/6/14 11/11/14 278 207 2014 FC6 1 F C F×C 11/3/14 11/7/14 233 147 2014 FS1 6 F S F×S 11/6/14 11/12/14 238 193 2014 FS2 4 F S F×S 11/6/14 11/10/14 240 180 2014 FS3 1 F S F×S 11/6/14 11/11/14 280 242 2014 FS4 5 F S F×S 11/3/14 11/7/14 193 170 2014 FS5 2 F S F×S 11/6/14 11/11/14 218 173 2014 FS6 3 F S F×S 11/9/14 11/15/14 285 268 2014 BdB1 6 Rd B Rd×B 11/3/14 11/10/14 338 260 2014 BdB2 3 Rd B Rd×B 11/6/14 11/10/14 292 233 2014 BdB3 1 Rd B Rd×B 11/9/14 11/14/14 292 222 2014 BdB4 5 Rd B Rd×B 11/6/14 11/10/14 280 228 2014 BdB5 4 Rd B Rd×B 11/11/14 11/14/14 248 180 2014 BdB6 2 Rd B Rd×B 11/6/14 11/10/14 257 203 2014 BdBS1 6 Rd BS Rd×BS 11/6/14 11/11/14 273 207 2014 BdBS2 2 Rd BS Rd×BS 11/9/14 11/13/14 250 182 2014 BdBS3 5 Rd BS Rd×BS 11/6/14 11/13/14 233 170 2014 BdBS4 3 Rd BS Rd-BS 11/3/14 11/8/14 233 187 2014 BdBS5 4 Rd BS Rd×BS 11/3/14 11/7/14 290 237 2014 BdBS6 1 Rd BS Rd×BS 11/6/14 11/11/14 302 155 2014 BdC1 5 Rd C Rd×C 11/6/14 11/11/14 253 202 2014 BdC2 3 Rd C Rd×C 11/9/14 11/14/14 355 277 2014 BdC3 2 Rd C Rd×C 11/9/14 11/14/14 275 225 2014 BdC4 6 Rd C Rd×C 11/3/14 11/8/14 375 317 2014 BdC5 4 Rd C Rd×C 11/3/14 11/8/14 258 168 2014 BdC6 1 Rd C Rd×C 11/6/14 11/12/14 352 302 2014 BdS1 5 Rd S Rd×S 11/9/14 11/14/14 417 340 2014 BdS2 1 Rd S Rd×S 11/9/14 11/13/14 262 220 2014 BdS3 3 Rd S Rd×S 11/9/14 11/14/14 310 243 2014 BdS4 6 Rd S Rd×S 11/6/14 11/12/14 355 315 2014 BdS5 4 Rd S Rd×S 11/6/14 11/11/14 295 247 2014 BdS6 2 Rd S Rd×S 11/3/14 11/7/14 223 162 59 Appendix 10: Rice Yield Components and Yield in 2014 Years Plots_ID WP PMs AMDs PMs × AMDs Straw Height Live Plants Yield g m-2 cm % t ha-1 2014 FB1 4 F B F×B 260 117.5 29 8.93 2014 FB2 6 F B F×B 330 88.5 69 3.79 2014 FB3 1 F B F×B 340 97.5 50 4.17 2014 FB4 2 F B F×B 510 115.5 52 3.50 2014 FB5 5 F B F×B 475 95.5 33 4.69 2014 FB6 3 F B F×B 315 102 25 .
+2014 FBS1 4 F BS F×BS 545 111 51 5.10 2014 FBS2 3 F BS F×BS 595 103.5 55 5.66 2014 FBS3 5 F BS F×BS 365 107 68 4.62 2014 FBS4 6 F BS F×BS 540 98.5 78 4.67 2014 FBS5 2 F BS F×BS 345 106 80 2.92 2014 FBS6 1 F BS F×BS 555 94 70 3.73 2014 FC1 4 F C F×C 485 96.5 79 2.96 2014 FC2 6 F C F×C 535 101 69 5.30 2014 FC3 3 F C F×C 505 109.5 90 3.20 2014 FC4 2 F C F×C 610 115 32 4.03 2014 FC5 5 F C F×C 430 120.5 71 4.41 2014 FC6 1 F C F×C 540 103.5 84 3.09 2014 FS1 6 F S F×S 435 108.5 36 4.29 2014 FS2 4 F S F×S 700 101.5 73 4.64 2014 FS3 1 F S F×S 540 113 38 3.47 2014 FS4 5 F S F×S 550 102.5 80 3.90 2014 FS5 2 F S F×S 640 107.5 71 4.78 2014 FS6 3 F S F×S 590 95 56 4.17 2014 BdB1 6 Rd B Rd×B 840 102.5 44 5.56 2014 BdB2 3 Rd B Rd×B 375 116 35 3.92 2014 BdB3 1 Rd B Rd×B 530 83.5 44 1.98 2014 BdB4 5 Rd B Rd×B 510 103 57 2.74 2014 BdB5 4 Rd B Rd×B 475 96.5 69 5.00 2014 BdB6 2 Rd B Rd×B 470 104 53 4.22 2014 BdBS1 6 Rd BS Rd×BS 660 96.5 31 4.55 2014 BdBS2 2 Rd BS Rd×BS 390 98.5 53 2.63 2014 BdBS3 5 Rd BS Rd×BS 555 100 58 2.11 2014 BdBS4 3 Rd BS Rd-BS 400 99 63 3.57 2014 BdBS5 4 Rd BS Rd×BS 750 101 69 5.56 2014 BdBS6 1 Rd BS Rd×BS 245 109.5 69 2.50 2014 BdC1 5 Rd C Rd×C 275 95 49 2.11 2014 BdC2 3 Rd C Rd×C 440 93 12 10.29 2014 BdC3 2 Rd C Rd×C 775 91.5 68 2.04 2014 BdC4 6 Rd C Rd×C 640 111.5 44 6.64 2014 BdC5 4 Rd C Rd×C 600 102.5 51 6.85 2014 BdC6 1 Rd C Rd×C 540 110.5 26 4.73 2014 BdS1 5 Rd S Rd×S 690 96.5 33 3.13 2014 BdS2 1 Rd S Rd×S 665 91 59 2.06 2014 BdS3 3 Rd S Rd×S 500 93 63 1.11 2014 BdS4 6 Rd S Rd×S 660 99.5 38 5.91 2014 BdS5 4 Rd S Rd×S 405 111 68 4.08 2014 BdS6 2 Rd S Rd×S 440 109.5 44 3.97 60 Appendix 11: Rice Yield Components in 2015 Years Plots_ID WP PMs AMDs PMs × AMDs Panicle Emergence Anthesis Tillers Panicles Date 50 % m-2 2015 FB1 4 F B F×B 11/5/15 11/10/15 270 212 2015 FB2 6 F B F×B 11/5/15 11/10/15 322 248 2015 FB3 1 F B F×B 11/5/15 11/10/15 298 245 2015 FB4 2 F B F×B 11/5/15 11/10/15 247 183 2015 FB5 5 F B F×B 11/5/15 11/10/15 233 190 2015 FB6 3 F B F×B 11/5/15 11/10/15 268 223 2015 FBS1 4 F BS F×BS 11/5/15 11/10/15 195 167 2015 FBS2 3 F BS F×BS 11/5/15 11/10/15 280 230 2015 FBS3 5 F BS F×BS 11/5/15 11/10/15 207 167 2015 FBS4 6 F BS F×BS 11/5/15 11/10/15 258 200 2015 FBS5 2 F BS F×BS 11/5/15 11/10/15 247 215 2015 FBS6 1 F BS F×BS 11/5/15 11/10/15 243 178 2015 FC1 4 F C F×C 11/5/15 11/10/15 220 192 2015 FC2 6 F C F×C 11/5/15 11/10/15 188 160 2015 FC3 3 F C F×C 11/5/15 11/10/15 272 238 2015 FC4 2 F C F×C 11/5/15 11/10/15 257 228 2015 FC5 5 F C F×C 11/5/15 11/10/15 243 168 2015 FC6 1 F C F×C 11/5/15 11/10/15 210 173 2015 FS1 6 F S F×S 11/5/15 11/10/15 255 205 2015 FS2 4 F S F×S 11/5/15 11/10/15 260 208 2015 FS3 1 F S F×S 11/5/15 11/10/15 193 158 2015 FS4 5 F S F×S 11/5/15 11/10/15 265 203 2015 FS5 2 F S F×S 11/5/15 11/10/15 220 188 2015 FS6 3 F S F×S 11/5/15 11/10/15 205 167 2015 BdB1 6 Rd B Rd×B 11/5/15 11/10/15 280 233 2015 BdB2 3 Rd B Rd×B 11/5/15 11/10/15 265 210 2015 BdB3 1 Rd B Rd×B 11/5/15 11/10/15 252 208 2015 BdB4 5 Rd B Rd×B 11/5/15 11/10/15 260 227 2015 BdB5 4 Rd B Rd×B 11/5/15 11/10/15 263 228 2015 BdB6 2 Rd B Rd×B 11/5/15 11/10/15 305 268 2015 BdBS1 6 Rd BS Rd×BS 11/5/15 11/10/15 283 185 2015 BdBS2 2 Rd BS Rd×BS 11/5/15 11/10/15 320 257 2015 BdBS3 5 Rd BS Rd×BS 11/5/15 11/10/15 292 223 2015 BdBS4 3 Rd BS Rd-BS 11/5/15 11/10/15 200 147 2015 BdBS5 4 Rd BS Rd×BS 11/5/15 11/10/15 305 247 2015 BdBS6 1 Rd BS Rd×BS 11/5/15 11/10/15 267 242 2015 BdC1 5 Rd C Rd×C 11/5/15 11/10/15 247 190 2015 BdC2 3 Rd C Rd×C 11/5/15 11/10/15 238 162 2015 BdC3 2 Rd C Rd×C 11/5/15 11/10/15 322 250 2015 BdC4 6 Rd C Rd×C 11/5/15 11/10/15 178 153 2015 BdC5 4 Rd C Rd×C 11/5/15 11/10/15 323 255 2015 BdC6 1 Rd C Rd×C 11/5/15 11/10/15 377 287 2015 BdS1 5 Rd S Rd×S 11/5/15 11/10/15 240 205 2015 BdS2 1 Rd S Rd×S 11/5/15 11/10/15 272 207 2015 BdS3 3 Rd S Rd×S 11/5/15 11/10/15 225 187 2015 BdS4 6 Rd S Rd×S 11/5/15 11/10/15 292 230 2015 BdS5 4 Rd S Rd×S 11/5/15 11/10/15 233 202 2015 BdS6 2 Rd S Rd×S 11/5/15 11/10/15 230 185 61 Appendix 12: Rice Yield Components and Yield in 2015 Years Plots_ID WP PMs AMDs PMs × AMDs Straw Height Live Plants Yield g m-2 cm % t ha-1 2015 FB1 4 F B F×B 1000 136.5 33 2.34 2015 FB2 6 F B F×B 1900 154 80 3.25 2015 FB3 1 F B F×B 800 134.5 38 2.08 2015 FB4 2 F B F×B 800 143 51 2.81 2015 FB5 5 F B F×B 700 145 44 2.98 2015 FB6 3 F B F×B 2200 154.5 88 3.27 2015 FBS1 4 F BS F×BS 2200 157.5 85 3.05 2015 FBS2 3 F BS F×BS 2300 167.5 90 2.62 2015 FBS3 5 F BS F×BS 1500 160 96 3.53 2015 FBS4 6 F BS F×BS 2200 167.5 92 3.41 2015 FBS5 2 F BS F×BS 2350 157 93 4.07 2015 FBS6 1 F BS F×BS 2000 150.5 100 2.60 2015 FC1 4 F C F×C 1500 118.5 67 2.54 2015 FC2 6 F C F×C 2200 144 103 2.53 2015 FC3 3 F C F×C 1950 153.5 72 0.72 2015 FC4 2 F C F×C 750 140 51 1.53 2015 FC5 5 F C F×C 2250 170 96 3.53 2015 FC6 1 F C F×C 2700 160.5 100 2.73 2015 FS1 6 F S F×S 1000 145 50 2.08 2015 FS2 4 F S F×S 2500 167 95 3.43 2015 FS3 1 F S F×S 1300 148.5 52 1.50 2015 FS4 5 F S F×S 2300 155 91 3.16 2015 FS5 2 F S F×S 1900 175 84 3.70 2015 FS6 3 F S F×S 650 145 48 3.26 2015 BdB1 6 Rd B Rd×B 2100 142 80 2.92 2015 BdB2 3 Rd B Rd×B 2000 139.5 65 3.43 2015 BdB3 1 Rd B Rd×B 1500 110.5 46 3.41 2015 BdB4 5 Rd B Rd×B 2200 138.5 95 2.61 2015 BdB5 4 Rd B Rd×B 2400 156.5 99 4.21 2015 BdB6 2 Rd B Rd×B 1800 152 74 2.29 2015 BdBS1 6 Rd BS Rd×BS 1000 113 60 2.16 2015 BdBS2 2 Rd BS Rd×BS 1800 130.5 97 2.15 2015 BdBS3 5 Rd BS Rd×BS 1700 130 91 2.01 2015 BdBS4 3 Rd BS Rd-BS 1600 133 95 2.20 2015 BdBS5 4 Rd BS Rd×BS 2500 137 98 3.72 2015 BdBS6 1 Rd BS Rd×BS 2200 131.5 97 3.23 2015 BdC1 5 Rd C Rd×C 2400 142.5 96 3.53 2015 BdC2 3 Rd C Rd×C 1900 124.5 92 2.13 2015 BdC3 2 Rd C Rd×C 2600 133 83 1.88 2015 BdC4 6 Rd C Rd×C 1900 129 83 2.66 2015 BdC5 4 Rd C Rd×C 2300 150 98 3.99 2015 BdC6 1 Rd C Rd×C 1200 134.5 49 2.13 2015 BdS1 5 Rd S Rd×S 550 110.5 81 3.53 2015 BdS2 1 Rd S Rd×S 1900 135 97 2.69 2015 BdS3 3 Rd S Rd×S 1800 132 80 2.27 2015 BdS4 6 Rd S Rd×S 1300 133.5 78 3.67 2015 BdS5 4 Rd S Rd×S 2100 148 96 3.26 2015 BdS6 2 Rd S Rd×S 1800 125 74 3.17 58
+Appendix 13: Tissue chemical analysis of Y-leaves sampled at panicle differentiation in 2014 (1) Plant Tissues in 2014 Plots_ID Reps PMs AMDs PMs×AMDs Na N P K Mg Ca S Fe Mn Zn B Cu Al% mg kg-1 Leaves FB1 1 F B F×B 0.46 3.21 0.2 1.64 0.25 0.33 0.25 98 106 29 22 10 3 Leaves FB4 3 F B F×B 0.4 3.26 0.2 1.78 0.28 0.36 0.26 117 135 26 15 7 18 Leaves FB6 2 F B F×B 0.2 2.79 0.18 1.81 0.22 0.34 0.23 83 125 26 13 7 9 Leaves FBS2 1 F BS F×BS 0.35 2.9 0.15 2.09 0.23 0.38 0.24 98 125 27 14 8 21 Leaves FBS3 2 F BS F×BS 0.24 2.42 0.20 2.14 0.20 0.34 0.23 80 135 27 12 7 6 Leaves FBS5 3 F BS F×BS 0.14 2.32 0.19 2.09 0.19 0.33 0.20 82 108 22 12 7 2 Leaves FC1 3 F C F×C 0.53 3.04 0.17 1.81 0.26 0.36 0.26 102 95 28 14 7 1 Leaves FC2 2 F C F×C 0.15 2.69 0.16 2.19 0.19 0.36 0.23 80 127 26 11 8 7 Leaves FC4 1 F C F×C 0.35 2.91 0.18 1.80 0.22 0.35 0.22 94 111 28 11 8 8 Leaves FS4 2 F S F×S 0.28 2.70 0.14 1.85 0.23 0.37 0.23 84 110 22 14 8 19 Leaves FS5 3 F S F×S 0.27 2.83 0.17 1.97 0.22 0.37 0.25 86 134 26 18 7 9 Leaves FS6 1 F S F×S 0.48 3.41 0.21 1.56 0.27 0.30 0.25 103 106 25 15 7 5 Leaves RdB1 1 R B R×B 0.30 3.02 0.16 1.79 0.22 0.33 0.24 98 120 23 12 7 1 Leaves RdB2 3 R B R×B 0.37 2.68 0.12 1.86 0.21 0.36 0.20 107 109 20 10 8 5 Leaves RdB3 2 R B R×B 0.57 2.89 0.12 1.34 0.24 0.36 0.25 111 190 21 15 7 3 Leaves RdBS1 2 R BS R×BS 0.44 3.15 0.14 1.71 0.23 0.41 0.23 102 94 22 15 8 2 Leaves RdBS3 1 R BS R×BS 0.45 2.91 0.11 1.65 0.23 0.38 0.23 114 105 22 13 6 6 Leaves RdBS5 3 R BS R×BS 0.24 2.92 0.13 1.98 0.19 0.36 0.23 87 132 20 13 7 1 Leaves RdC2 3 R C R×C 0.46 3.55 0.12 1.31 0.20 0.30 0.25 111 100 26 16 7 7 Leaves RdC3 2 R C R×C 0.57 3.19 0.11 1.47 0.23 0.38 0.25 148 85 23 17 7 1 Leaves RdC4 1 R C R×C 0.24 2.76 0.13 1.88 0.19 0.32 0.20 83 92 23 12 8 9 Leaves RdS3 1 R S R×S 0.48 2.88 0.10 1.45 0.23 0.39 0.25 107 106 23 15 7 22 Leaves RdS4 3 R S R×S 0.26 3.31 0.12 1.93 0.21 0.44 0.22 103 91 22 13 8 14 Leaves RdS6 2 R S R×S 0.32 2.76 0.13 1.63 0.21 0.36 0.21 98 102 23 13 8 1 59
+Appendix 14: Tissue chemical analysis of Y-leaves sampled at panicle differentiation in 2014 (2) Plant Tissues in 2014 Plots_ID Reps PMs AMDs PMs×AMDs N/S N/K P/S P/Zn K/Mg K/Mn Ca/b Fe/Mn Ratio Leaves FB1 1 F B F×B 12.8 2 0.8 69 6.6 154.7 150 0.9 Leaves FB4 3 F B F×B 12.5 1.8 0.8 76.9 6.4 131.9 240 0.9 Leaves FB6 2 F B F×B 12.1 1.5 0.8 69.2 8.2 144.8 261.5 0.7 Leaves FBS2 1 F BS F×BS 12.1 1.4 0.6 55.6 9.1 167.2 271.4 0.8 Leaves FBS3 2 F BS F×BS 10.5 1.1 0.9 74.1 10.7 158.5 283.3 0.6 Leaves FBS5 3 F BS F×BS 11.6 1.1 1.0 86.4 11.0 193.5 275.0 0.8 Leaves FC1 3 F C F×C 11.7 1.7 0.7 60.7 7.0 190.5 257.1 1.1 Leaves FC2 2 F C F×C 11.7 1.2 0.7 61.5 11.5 172.4 327.3 0.6 Leaves FC4 1 F C F×C 13.2 1.6 0.8 64.3 8.2 162.2 318.2 0.8 Leaves FS4 2 F S F×S 11.7 1.5 0.6 63.6 8.0 168.2 264.3 0.8 Leaves FS5 3 F S F×S 11.3 1.4 0.7 65.4 9.0 147.0 205.6 0.6 Leaves FS6 1 F S F×S 13.6 2.2 0.8 84.0 5.8 147.2 200.0 1.0 Leaves RdB1 1 R B R×B 12.6 1.7 0.7 69.6 8.1 149.2 275.0 0.8 Leaves RdB2 3 R B R×B 13.4 1.4 0.6 60.0 8.9 170.6 360.0 1.0 Leaves RdB3 2 R B R×B 11.6 2.2 0.5 57.1 5.6 70.5 240.0 0.6 Leaves RdBS1 2 R BS R×BS 13.7 1.8 0.6 63.6 7.4 181.9 273.3 1.1 Leaves RdBS3 1 R BS R×BS 12.7 1.8 0.5 50 7.2 157.1 292.3 1.1 Leaves RdBS5 3 R BS R×BS 12.7 1.5 0.6 65.0 10.4 150.0 276.9 0.7 Leaves RdC2 3 R C R×C 14.2 2.7 0.5 46.2 6.6 131.0 187.5 1.1 Leaves RdC3 2 R C R×C 12.8 2.2 0.4 47.8 6.4 172.9 223.5 1.7 Leaves RdC4 1 R C R×C 13.8 1.5 0.7 56.5 9.9 204.3 266.7 0.9 Leaves RdS3 1 R S R×S 11.5 2.0 0.4 43.5 6.3 136.8 260.0 1.0 Leaves RdS4 3 R S R×S 15.0 1.7 0.5 54.5 9.2 212.1 338.5 1.1 Leaves RdS6 2 R S R×S 13.1 1.7 0.6 56.5 7.8 159.8 276.9 1.0 60 Appendix 15: Tissue chemical analysis of grains sampled at harvest in 2014 (1) Plant Tissues in 2014 Plots_ID Reps PMs AMDs PMs×AMDs Na N P K Mg Ca S Fe Mn Zn B Cu Al% mg kg-1 Grains FB1 1 F B F×B 0.07 8.93 0.13 0.25 0.28 0.11 1.25 22 25 3 0.03 24 7 Grains FB4 3 F B F×B 0.04 3.50 0.13 0.26 0.24 0.11 1.14 29 22 2 0.02 13 9 Grains FB6 2 F B F×B 0.05 4.22 0.12 0.30 0.27 0.13 1.24 27 27 2 0.02 18 6 Grains FBS2 1 F BS F×BS 0.11 5.66 0.16 0.30 0.36 0.12 1.31 42 26 4 0.03 38 10 Grains FBS3 2 F BS F×BS 0.04 4.62 0.12 0.26 0.23 0.11 1.23 24 24 3 0.02 16 7 Grains FBS5 3 F BS F×BS 0.05 2.92 0.12 0.32 0.27 0.14 1.17 28 29 2 0.02 16 6 Grains FC1 3 F C F×C 0.05 2.96 0.13 0.24 0.23 0.10 1.27 20 30 2 0.02 21 7 Grains FC2 2 F C F×C 0.05 5.30 0.13 0.28 0.25 0.12 1.23 33 26 2 0.02 19 6 Grains FC4 1 F C F×C 0.05 4.03 0.12 0.24 0.22 0.10 1.23 22 26 1 0.02 19 7 Grains FS4 2 F S F×S 0.06 3.90 0.13 0.24 0.24 0.11 1.21 24 25 2 0.03 21 7 Grains FS5 3 F S F×S 0.05 4.78 0.11 0.28 0.24 0.12 1.22 27 28 2 0.02 12 6 Grains FS6 1 F S F×S 0.05 4.17 0.11 0.25 0.22 0.10 1.08 22 22 1 0.02 14 5 Grains RdB1 1 R B R×B 0.05 5.56 0.13 0.26 0.24 0.12 1.27 19 24 2 0.03 21 6 Grains RdB2 3 R B R×B 0.05 3.92 0.12 0.22 0.22 0.10 1.38 14 23 2 0.04 20 6 Grains RdB3 2 R B R×B 0.04 1.98 0.13 0.23 0.20 0.10 1.37 16 23 1 0.05 17 5 Grains RdBS1 2 R BS R×BS 0.04 4.55 0.11 0.26 0.25 0.12 1.32 16 23 2 0.02 15 6 Grains RdBS3 1 R BS R×BS 0.05 2.11 0.12 0.26 0.23 0.11 1.26 17 22 2 0.03 21 6 Grains RdBS5 3 R BS R×BS 0.05 5.56 0.12 0.24 0.23 0.11 1.20 16 23 1 0.03 24 7 Grains RdC2 3 R C R×C 0.05 10.29 0.13 0.18 0.20 0.08 1.78 15 22 2 0.05 19 6 Grains RdC3 2 R C R×C 0.04 2.04 0.13 0.20 0.20 0.09 1.32 19 21 1 0.03 15 5 Grains RdC4 1 R C R×C 0.12 6.64 0.17 0.25 0.37 0.11 1.44 19 21 3 0.04 43 9 Grains RdS3 1 R S R×S 0.04 1.11 0.13 0.18 0.19 0.09 1.46 37 27 1 0.03 22 5 Grains RdS4 3 R S R×S 0.05 5.91 0.12 0.23 0.22 0.11 1.34 16 22 1 0.03 13 5 Grains RdS6 2 R S R×S 0.04 3.97 0.13 0.19 0.18 0.09 1.35 19 25 3 0.02 22 6 61 Appendix 16: Tissue chemical analysis of grains sampled at harvest in 2014 (2) Plant Tissues in 2014 Plots_ID Reps PMs AMDs PMs×AMDs N/S N/K P/S P/Zn K/Mg K/Mn Ca/b Fe/Mn Ratio Grains FB1 1 F B F×B 1 9.6 4.5 1.9 100.0 2.5 127.3 233.3 Grains FB4 3 F B F×B 6 8.8 4.8 2.0 118.2 2.2 82.8 200.0 Grains FB6 2 F B F×B 1 10.3 4.6 2.5 111.1 2.1 100.0 250.0 Grains FBS2 1 F BS F×BS 7 8.2 3.6 1.9 115.4 3.0 85.7 275.0 Grains FBS3 2 F BS F×BS 1 10.3 5.3 2.2 108.3 2.1 95.8 133.3 Grains FBS5 3 F BS F×BS 1 9.8 4.3 2.7 110.3 1.9 96.4 250.0 Grains FC1 3 F C F×C 10 9.8 5.5 1.8 80.0 2.3 115.0 250.0 Grains FC2 2 F C F×C 21 9.5 4.9 2.2 107.7 2.1 75.8 250.0 Grains FC4 1 F C F×C 8 10.3 5.6 2.0 92.3 2.2 100.0 500.0 Grains FS4 2 F S F×S 1 9.3 5.0 1.8 96.0 2.2 100.0 300.0 Grains FS5 3 F S F×S 1 11.1 5.1 2.5 100.0 2.0 88.9 250.0 Grains FS6 1 F S F×S 1 9.8 4.9 2.3 113.6 2.2 100.0 500.0 Grains RdB1 1 R B R×B 3 9.8 5.3 2.0 108.3 2.0 126.3 250.0 Grains RdB2 3 R B R×B 1 11.5 6.3 1.8 95.7 2.2 157.1 250.0 Grains RdB3 2 R B R×B 4 10.5 6.9 1.8 100.0 2.0 125.0 400.0 Grains RdBS1 2 R BS R×BS 4 12.0 5.3 2.4 113.0 2.1 156.3 200.0 Grains RdBS3 1 R BS R×BS 1 10.5 5.5 2.2 118.2 2.1 135.3 250.0 Grains RdBS5 3 R BS R×BS 16 10.0 5.2 2.0 104.3 2.1 143.8 500.0 Grains RdC2 3 R C R×C 1 13.7 8.9 1.4 81.8 2.5 133.3 250.0 Grains RdC3 2 R C R×C 1 10.2 6.6 1.5 95.2 2.2 105.3 400.0 Grains RdC4 1 R C R×C 7 8.5 3.9 1.5 119.0 3.4 194.7 400.0 Grains RdS3 1 R S R×S 14 11.2 7.7 1.4 66.7 2.1 51.4 400.0 Grains RdS4 3 R S R×S 3 11.2 6.1 1.9 104.5 2.0 137.5 500.0 Grains RdS6 2 R S R×S 1 10.4 7.5 1.5 76.0 2.0 94.7 133.3 58
+Appendix 17: Water EC, pH, and Height of shallow and deep piezometers in the Upper Site in 2014 (1) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P7 Upper 8/2/2014 1 Shallow . . -35.50 P7 Upper 8/9/2014 2 Shallow . . -35.50 P7 Upper 8/16/2014 3 Shallow 0.68 6.20 25.00 P7 Upper 8/23/2014 4 Shallow 0.37 6.40 22.00 P7 Upper 9/1/2014 5 Shallow 0.49 6.20 12.00 P7 Upper 9/8/2014 6 Shallow 0.54 6.90 18.50 P7 Upper 9/15/2014 7 Shallow 0.63 7.00 22.50 P7 Upper 9/22/2014 8 Shallow 0.51 7.30 24.50 P7 Upper 9/29/2014 9 Shallow 0.30 7.40 11.50 P7 Upper 10/7/2014 10 Shallow 0.38 7.50 18.50 P7 Upper 10/13/2014 11 Shallow 0.45 8.00 14.50 P7 Upper 10/20/2014 12 Shallow 0.21 5.20 15.00 P7 Upper 10/27/2014 13 Shallow 0.33 6.90 16.00 P7 Upper 11/3/2014 14 Shallow 0.24 7.10 12.50 P7 Upper 11/10/2014 15 Shallow 0.21 6.60 11.50 P7 Upper 11/17/2014 16 Shallow 0.19 5.30 9.50 P7 Upper 11/24/2014 17 Shallow 0.20 4.20 5.50 P8 Upper 8/2/2014 1 Shallow . . -33.00 P8 Upper 8/9/2014 2 Shallow . . -33.00 P8 Upper 8/16/2014 3 Shallow 0.59 5.50 8.50 P8 Upper 8/23/2014 4 Shallow 0.46 4.00 8.50 P8 Upper 9/1/2014 5 Shallow 0.48 4.00 2.00 P8 Upper 9/8/2014 6 Shallow 0.54 4.60 5.00 P8 Upper 9/15/2014 7 Shallow 0.51 4.40 9.00 P8 Upper 9/22/2014 8 Shallow 0.46 4.50 8.00 P8 Upper 9/29/2014 9 Shallow 0.27 5.10 6.00 P8 Upper 10/7/2014 10 Shallow 0.38 4.80 4.00 P8 Upper 10/13/2014 11 Shallow 0.36 5.60 1.50 P8 Upper 10/20/2014 12 Shallow 0.21 3.80 1.00 P8 Upper 10/27/2014 13 Shallow 0.23 4.10 2.50 P8 Upper 11/3/2014 14 Shallow 0.21 4.90 1.00 P8 Upper 11/10/2014 15 Shallow 0.19 5.00 2.50 P8 Upper 11/17/2014 16 Shallow 0.19 4.10 0.00 P8 Upper 11/24/2014 17 Shallow 0.16 4.00 -5.00 59
+Appendix 17: Water EC, pH, and Height of shallow and deep piezometers in the Upper Site in 2014 (2) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P9 Upper 8/2/2014 1 Shallow . . -29.00 P9 Upper 8/9/2014 2 Shallow . . -29.00 P9 Upper 8/16/2014 3 Shallow 0.97 5.60 11.00 P9 Upper 8/23/2014 4 Shallow 0.67 5.20 9.00 P9 Upper 9/1/2014 5 Shallow 0.74 5.60 14.00 P9 Upper 9/8/2014 6 Shallow 0.82 6.20 14.50 P9 Upper 9/15/2014 7 Shallow 0.66 6.00 20.00 P9 Upper 9/22/2014 8 Shallow 0.73 7.00 16.00 P9 Upper 9/29/2014 9 Shallow 0.51 8.30 15.00 P9 Upper 10/7/2014 10 Shallow 0.60 7.00 18.00 P9 Upper 10/13/2014 11 Shallow 0.76 7.80 13.00 P9 Upper 10/20/2014 12 Shallow 0.29 6.40 15.00 P9 Upper 10/27/2014 13 Shallow 0.43 6.80 20.00 P9 Upper 11/3/2014 14 Shallow 0.27 5.80 15.00 P9 Upper 11/10/2014 15 Shallow 0.23 5.50 15.50 P9 Upper 11/17/2014 16 Shallow 0.18 4.70 13.00 P9 Upper 11/24/2014 17 Shallow 0.19 4.50 12.00 P7 Upper 8/2/2014 1 Deep . . -116.00 P7 Upper 8/9/2014 2 Deep 0.67 6.10 -100.50 P7 Upper 8/16/2014 3 Deep 0.58 6.50 23.00 P7 Upper 8/23/2014 4 Deep 0.39 6.60 29.00 P7 Upper 9/1/2014 5 Deep 0.42 6.50 16.00 P7 Upper 9/8/2014 6 Deep 0.59 7.10 24.00 P7 Upper 9/15/2014 7 Deep 0.69 8.00 29.00 P7 Upper 9/22/2014 8 Deep 0.76 7.40 22.00 P7 Upper 9/29/2014 9 Deep 0.47 8.00 27.00 P7 Upper 10/7/2014 10 Deep 0.48 7.50 19.00 P7 Upper 10/13/2014 11 Deep 0.46 7.20 12.00 P7 Upper 10/20/2014 12 Deep 0.25 6.20 17.00 P7 Upper 10/27/2014 13 Deep 0.34 6.80 18.00 P7 Upper 11/3/2014 14 Deep 0.24 7.00 13.00 P7 Upper 11/10/2014 15 Deep 0.21 6.70 12.00 P7 Upper 11/17/2014 16 Deep 0.18 5.50 8.00 P7 Upper 11/24/2014 17 Deep 0.19 4.90 5.00 60
+Appendix 18: Water EC, pH, and Height of shallow and deep piezometers in the Upper Site in 2014 (3) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P8 Upper 8/9/2014 2 Deep 0.45 3.80 -106.50 P8 Upper 8/16/2014 3 Deep 0.51 3.30 16.00 P8 Upper 8/23/2014 4 Deep 0.48 3.30 27.00 P8 Upper 9/1/2014 5 Deep 0.51 3.30 8.00 P8 Upper 9/8/2014 6 Deep 0.58 3.70 12.00 P8 Upper 9/15/2014 7 Deep 0.63 4.20 17.00 P8 Upper 9/22/2014 8 Deep 0.42 4.40 18.00 P8 Upper 9/29/2014 9 Deep 0.27 4.90 16.00 P8 Upper 10/7/2014 10 Deep 0.41 4.50 12.00 P8 Upper 10/13/2014 11 Deep 0.33 4.70 10.00 P8 Upper 10/20/2014 12 Deep 0.21 3.70 10.00 P8 Upper 10/27/2014 13 Deep 0.22 3.80 12.00 P8 Upper 11/3/2014 14 Deep 0.19 4.50 -2.00 P8 Upper 11/10/2014 15 Deep 0.18 4.60 13.00 P8 Upper 11/17/2014 16 Deep 0.18 3.70 9.00 P8 Upper 11/24/2014 17 Deep 0.16 3.30 3.00 P9 Upper 8/2/2014 1 Deep 0.21 6.20 -51.00 P9 Upper 8/9/2014 2 Deep 1.20 6.60 -77.50 P9 Upper 8/16/2014 3 Deep 0.83 6.00 32.00 P9 Upper 8/23/2014 4 Deep 0.70 5.90 37.00 P9 Upper 9/1/2014 5 Deep 0.71 6.10 30.00 P9 Upper 9/8/2014 6 Deep 0.86 6.50 37.00 P9 Upper 9/15/2014 7 Deep 0.76 8.00 32.00 P9 Upper 9/22/2014 8 Deep 0.71 7.20 34.00 P9 Upper 9/29/2014 9 Deep 0.50 7.60 29.00 P9 Upper 10/7/2014 10 Deep 0.60 7.20 33.00 P9 Upper 10/13/2014 11 Deep 0.51 6.70 26.00 P9 Upper 10/20/2014 12 Deep 0.31 6.40 25.00 P9 Upper 10/27/2014 13 Deep 0.44 6.50 34.00 P9 Upper 11/3/2014 14 Deep 0.25 5.20 31.00 P9 Upper 11/10/2014 15 Deep 0.22 5.50 30.00 P9 Upper 11/17/2014 16 Deep 0.18 4.50 29.00 P9 Upper 11/24/2014 17 Deep 0.19 4.90 25.00 61
+Appendix 19: Water EC, pH, and Height of shallow and deep piezometers in the Middle Site in 2014 (4) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P16 Middle 8/9/2014 2 Shallow . . -35.50 P16 Middle 8/16/2014 3 Shallow 6.95 7.30 14.50 P16 Middle 8/23/2014 4 Shallow 9.06 7.00 14.50 P16 Middle 9/1/2014 5 Shallow 10.09 6.00 12.50 P16 Middle 9/8/2014 6 Shallow 10.30 5.80 14.50 P16 Middle 9/15/2014 7 Shallow 9.83 5.90 15.50 P16 Middle 9/22/2014 8 Shallow 10.08 5.80 21.50 P16 Middle 9/29/2014 9 Shallow 7.12 8.00 18.50 P16 Middle 10/7/2014 10 Shallow 7.57 7.70 15.00 P16 Middle 10/13/2014 11 Shallow 3.55 7.30 15.50 P16 Middle 10/20/2014 12 Shallow 1.93 6.50 4.50 P16 Middle 10/27/2014 13 Shallow 1.22 6.60 0.00 P16 Middle 11/3/2014 14 Shallow 0.79 6.70 16.50 P16 Middle 11/10/2014 15 Shallow 0.85 6.90 13.00 P16 Middle 11/17/2014 16 Shallow 0.58 6.90 7.50 P16 Middle 11/24/2014 17 Shallow 1.12 6.70 4.00 P17 Middle 8/2/2014 1 Shallow . . -41.00 P17 Middle 8/9/2014 2 Shallow . . -41.00 P17 Middle 8/16/2014 3 Shallow 8.23 7.00 21.00 P17 Middle 8/23/2014 4 Shallow 8.69 6.90 17.00 P17 Middle 9/1/2014 5 Shallow 9.12 6.70 11.00 P17 Middle 9/8/2014 6 Shallow 9.22 6.80 10.00 P17 Middle 9/15/2014 7 Shallow 8.65 7.30 11.00 P17 Middle 9/22/2014 8 Shallow 9.28 7.10 15.50 P17 Middle 9/29/2014 9 Shallow 6.43 8.50 15.00 P17 Middle 10/7/2014 10 Shallow 7.53 6.60 11.00 P17 Middle 10/13/2014 11 Shallow 3.28 6.50 -6.00 P17 Middle 10/20/2014 12 Shallow 2.06 6.60 12.00 P17 Middle 10/27/2014 13 Shallow 1.25 6.50 17.00 P17 Middle 11/3/2014 14 Shallow 0.83 6.70 14.00 P17 Middle 11/10/2014 15 Shallow 0.80 6.90 6.00 P17 Middle 11/17/2014 16 Shallow 0.51 6.70 -1.50 P17 Middle 11/24/2014 17 Shallow 1.03 6.50 -2.00 62
+Appendix 20: Water EC, pH, and Height of shallow and deep piezometers in the Middle Site in 2014 (5) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P18 Middle 8/9/2014 2 Shallow 12.99 7.00 -14.00 P18 Middle 8/16/2014 3 Shallow 12.38 7.00 18.50 P18 Middle 8/23/2014 4 Shallow 11.91 6.50 16.50 P18 Middle 9/1/2014 5 Shallow 11.83 5.80 8.50 P18 Middle 9/8/2014 6 Shallow 11.50 4.10 6.50 P18 Middle 9/15/2014 7 Shallow 10.72 4.60 9.50 P18 Middle 9/22/2014 8 Shallow 8.59 5.00 9.50 P18 Middle 9/29/2014 9 Shallow 6.96 5.10 9.00 P18 Middle 10/7/2014 10 Shallow 6.00 5.60 6.50 P18 Middle 10/13/2014 11 Shallow 1.95 6.80 5.00 P18 Middle 10/20/2014 12 Shallow 1.58 3.20 5.00 P18 Middle 10/27/2014 13 Shallow 0.74 6.70 6.50 P18 Middle 11/3/2014 14 Shallow 0.52 7.10 5.50 P18 Middle 11/10/2014 15 Shallow 0.52 7.30 3.50 P18 Middle 11/17/2014 16 Shallow 0.33 7.00 2.50 P18 Middle 11/24/2014 17 Shallow 0.49 6.80 1.50 P16 Middle 8/2/2014 1 Deep 9.70 6.50 -87.00 P16 Middle 8/9/2014 2 Deep 11.50 6.60 -31.00 P16 Middle 8/16/2014 3 Deep 11.50 6.70 7.00 P16 Middle 8/23/2014 4 Deep 11.36 6.90 18.00 P16 Middle 9/1/2014 5 Deep 11.12 7.00 8.00 P16 Middle 9/8/2014 6 Deep 10.97 7.10 27.00 P16 Middle 9/15/2014 7 Deep 10.22 7.70 11.00 P16 Middle 9/22/2014 8 Deep 10.24 7.30 17.00 P16 Middle 9/29/2014 9 Deep 7.52 8.40 15.00 P16 Middle 10/7/2014 10 Deep 8.44 7.30 11.00 P16 Middle 10/13/2014 11 Deep 3.74 6.40 13.00 P16 Middle 10/20/2014 12 Deep 2.21 5.80 12.00 P16 Middle 10/27/2014 13 Deep 1.54 6.50 13.00 P16 Middle 11/3/2014 14 Deep 0.85 6.50 12.00 P16 Middle 11/10/2014 15 Deep 0.89 6.70 9.00 P16 Middle 11/17/2014 16 Deep 0.61 6.80 2.00 P16 Middle 11/24/2014 17 Deep 1.30 6.30 -5.00 63
+Appendix 21: Water EC, pH, and Height of shallow and deep piezometers in the Middle Site in 2014 (5) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P17 Middle 8/9/2014 2 Deep 12.70 6.70 -14.00 P17 Middle 8/16/2014 3 Deep 12.44 6.50 -80.50 P17 Middle 8/23/2014 4 Deep 12.31 6.50 23.00 P17 Middle 9/1/2014 5 Deep 11.95 6.70 14.00 P17 Middle 9/8/2014 6 Deep 11.75 7.00 16.00 P17 Middle 9/15/2014 7 Deep 11.13 6.90 16.00 P17 Middle 9/22/2014 8 Deep 11.23 7.50 18.00 P17 Middle 9/29/2014 9 Deep 9.12 8.00 19.00 P17 Middle 10/7/2014 10 Deep 9.71 7.50 16.00 P17 Middle 10/13/2014 11 Deep 5.28 6.10 16.00 P17 Middle 10/20/2014 12 Deep 3.02 6.30 16.00 P17 Middle 10/27/2014 13 Deep 1.90 6.40 21.00 P17 Middle 11/3/2014 14 Deep 1.06 6.60 19.00 P17 Middle 11/10/2014 15 Deep 0.94 6.70 13.00 P17 Middle 11/17/2014 16 Deep 0.58 6.50 8.00 P17 Middle 11/24/2014 17 Deep 1.28 6.40 3.00 P18 Middle 8/2/2014 1 Deep 10.64 5.80 -47.00 P18 Middle 8/9/2014 2 Deep 11.73 5.30 -7.00 P18 Middle 8/16/2014 3 Deep 12.10 6.50 24.00 P18 Middle 8/23/2014 4 Deep 12.33 4.80 30.00 P18 Middle 9/1/2014 5 Deep 12.21 2.90 16.00 P18 Middle 9/8/2014 6 Deep 12.00 3.20 18.00 P18 Middle 9/15/2014 7 Deep 11.68 3.60 18.00 P18 Middle 9/22/2014 8 Deep 11.53 3.50 16.00 P18 Middle 9/29/2014 9 Deep 9.21 3.90 18.00 P18 Middle 10/7/2014 10 Deep 9.92 4.30 15.00 P18 Middle 10/13/2014 11 Deep 7.56 4.40 15.00 P18 Middle 10/20/2014 12 Deep 5.02 6.00 15.00 P18 Middle 10/27/2014 13 Deep 3.54 6.00 17.00 P18 Middle 11/3/2014 14 Deep 1.76 6.30 16.00 P18 Middle 11/10/2014 15 Deep 0.99 6.30 14.00 P18 Middle 11/17/2014 16 Deep 0.91 6.20 10.00 P18 Middle 11/24/2014 17 Deep 2.22 4.30 10.00 64
+Appendix 22: Water EC, pH, and Height of shallow and deep piezometers in the Lower Site in 2014 (6) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P31 Lower 8/9/2014 2 Shallow 10.54 6.80 -18.00 P31 Lower 8/16/2014 3 Shallow 10.61 6.80 6.00 P31 Lower 8/23/2014 4 Shallow 12.18 6.00 5.00 P31 Lower 9/1/2014 5 Shallow 11.20 5.70 -5.00 P31 Lower 9/8/2014 6 Shallow 8.64 6.80 10.00 P31 Lower 9/15/2014 7 Shallow 9.50 7.70 6.50 P31 Lower 9/22/2014 8 Shallow 10.65 7.50 11.00 P31 Lower 9/29/2014 9 Shallow 6.14 8.60 6.50 P31 Lower 10/7/2014 10 Shallow 7.48 7.50 -4.00 P31 Lower 10/13/2014 11 Shallow 2.88 6.90 -2.50 P31 Lower 10/20/2014 12 Shallow 2.51 5.80 -3.00 P31 Lower 10/27/2014 13 Shallow 0.66 6.70 -4.00 P31 Lower 11/3/2014 14 Shallow 0.52 7.00 3.00 P31 Lower 11/10/2014 15 Shallow 0.52 6.80 2.00 P31 Lower 11/17/2014 16 Shallow 0.39 6.90 -5.50 P31 Lower 11/24/2014 17 Shallow 0.28 6.70 -25.00 P32 Lower 8/2/2014 1 Shallow 13.33 6.70 -7.50 P32 Lower 8/9/2014 2 Shallow 12.24 6.60 3.00 P32 Lower 8/16/2014 3 Shallow 13.27 5.70 20.00 P32 Lower 8/23/2014 4 Shallow 13.60 3.70 10.00 P32 Lower 9/1/2014 5 Shallow 13.13 3.70 -0.50 P32 Lower 9/8/2014 6 Shallow 12.48 6.10 25.00 P32 Lower 9/15/2014 7 Shallow 8.78 8.00 25.00 P32 Lower 9/22/2014 8 Shallow 10.13 7.70 14.50 P32 Lower 9/29/2014 9 Shallow 9.49 5.60 8.50 P32 Lower 10/7/2014 10 Shallow 9.01 7.50 2.00 P32 Lower 10/13/2014 11 Shallow 3.63 6.40 4.00 P32 Lower 10/20/2014 12 Shallow 4.53 5.90 4.00 P32 Lower 10/27/2014 13 Shallow 1.24 6.00 3.50 P32 Lower 11/3/2014 14 Shallow 0.88 6.50 3.50 P32 Lower 11/10/2014 15 Shallow 0.52 6.80 6.00 P32 Lower 11/17/2014 16 Shallow 0.36 6.50 0.00 P32 Lower 11/24/2014 17 Shallow 0.29 6.40 -15.50 65
+Appendix 23: Water EC, pH, and Height of shallow and deep piezometers in the Lower Site in 2014 (7) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P33 Lower 8/9/2014 2 Shallow 14.64 6.00 4.00 P33 Lower 8/16/2014 3 Shallow 14.21 6.20 30.00 P33 Lower 8/23/2014 4 Shallow 14.85 6.20 37.50 P33 Lower 9/1/2014 5 Shallow 14.10 5.80 3.00 P33 Lower 9/8/2014 6 Shallow 14.24 6.10 21.00 P33 Lower 9/15/2014 7 Shallow 14.10 6.20 20.00 P33 Lower 9/22/2014 8 Shallow 13.70 7.20 17.00 P33 Lower 9/29/2014 9 Shallow 11.98 7.80 12.00 P33 Lower 10/7/2014 10 Shallow 13.99 6.80 3.00 P33 Lower 10/13/2014 11 Shallow 11.04 6.00 -3.00 P33 Lower 10/20/2014 12 Shallow 11.05 5.20 2.00 P33 Lower 10/27/2014 13 Shallow 5.51 6.10 1.00 P33 Lower 11/3/2014 14 Shallow 3.54 6.00 -7.00 P33 Lower 11/10/2014 15 Shallow 3.20 5.90 -3.00 P33 Lower 11/17/2014 16 Shallow 2.10 5.70 -22.00 P33 Lower 11/24/2014 17 Shallow . . -35.00 P31 Lower 8/2/2014 1 Deep 11.32 6.40 82.00 P31 Lower 8/9/2014 2 Deep 12.53 6.50 9.00 P31 Lower 8/16/2014 3 Deep 13.15 6.40 42.00 P31 Lower 8/23/2014 4 Deep 13.70 6.30 18.00 P31 Lower 9/1/2014 5 Deep 12.50 6.80 2.00 P31 Lower 9/8/2014 6 Deep 11.77 6.60 29.00 P31 Lower 9/15/2014 7 Deep 8.82 7.80 29.00 P31 Lower 9/22/2014 8 Deep 7.16 7.80 31.00 P31 Lower 9/29/2014 9 Deep 5.16 8.70 24.00 P31 Lower 10/7/2014 10 Deep 8.04 7.80 15.00 P31 Lower 10/13/2014 11 Deep 3.89 6.90 8.00 P31 Lower 10/20/2014 12 Deep 3.53 5.90 6.00 P31 Lower 10/27/2014 13 Deep 0.96 6.60 5.00 P31 Lower 11/3/2014 14 Deep 0.64 6.60 11.00 P31 Lower 11/10/2014 15 Deep 0.54 6.80 8.00 P31 Lower 11/17/2014 16 Deep 0.40 6.80 2.00 P31 Lower 11/24/2014 17 Deep 0.50 6.30 -18.00 66
+Appendix 24: Water EC, pH, and Height of shallow and deep piezometers in the Lower Site in 2014 (8) Locations Sites Weekly Measurements Weeks Piezometers EC (dS m-1) pH Water Height (cm) P32 Lower 8/9/2014 2 Deep 12.87 6.00 22.00 P32 Lower 8/16/2014 3 Deep 13.25 6.30 30.00 P32 Lower 8/23/2014 4 Deep 13.63 6.10 11.00 P32 Lower 9/1/2014 5 Deep 13.27 6.00 1.00 P32 Lower 9/8/2014 6 Deep 11.24 6.30 31.00 P32 Lower 9/15/2014 7 Deep 9.72 7.80 35.00 P32 Lower 9/22/2014 8 Deep 11.13 7.50 26.00 P32 Lower 9/29/2014 9 Deep 10.06 7.10 18.00 P32 Lower 10/7/2014 10 Deep 11.29 7.30 7.00 P32 Lower 10/13/2014 11 Deep 6.35 6.40 11.00 P32 Lower 10/20/2014 12 Deep 6.56 5.60 0.00 P32 Lower 10/27/2014 13 Deep 1.45 6.70 0.00 P32 Lower 11/3/2014 14 Deep 1.02 6.40 0.00 P32 Lower 11/10/2014 15 Deep 0.75 6.40 3.00 P32 Lower 11/17/2014 16 Deep 0.53 6.20 -5.00 P32 Lower 11/24/2014 17 Deep 0.35 6.30 -11.00 P33 Lower 8/2/2014 1 Deep 12.12 6.50 -71.50 P33 Lower 8/9/2014 2 Deep 13.82 6.60 14.00 P33 Lower 8/16/2014 3 Deep 14.01 6.70 33.00 P33 Lower 8/23/2014 4 Deep 14.52 6.40 18.00 P33 Lower 9/1/2014 5 Deep 13.81 6.70 14.00 P33 Lower 9/8/2014 6 Deep 13.95 6.60 23.00 P33 Lower 9/15/2014 7 Deep 13.13 7.50 18.00 P33 Lower 9/22/2014 8 Deep 13.36 7.30 22.00 P33 Lower 9/29/2014 9 Deep 11.20 8.40 15.00 P33 Lower 10/7/2014 10 Deep 13.21 7.30 6.00 P33 Lower 10/13/2014 11 Deep 10.75 6.20 0.00 P33 Lower 10/20/2014 12 Deep 10.02 4.50 2.00 P33 Lower 10/27/2014 13 Deep 4.98 6.00 4.00 P33 Lower 11/3/2014 14 Deep 3.36 6.20 -6.00 P33 Lower 11/10/2014 15 Deep 2.88 6.30 -2.00 P33 Lower 11/17/2014 16 Deep 1.98 6.30 -21.00 P33 Lower 11/24/2014 17 Deep 5.40 5.80 -37.00 67 Appendix 25: Daily rainfall in 2009 rainy season in Djibelor, Ziguinchor/Senegal 2009 May June July August September October November 1 37 3 2 5.5 37 3 4 4 8 13 5 2 63 5 6 2 7 7 10 18 8 1 3.5 9 3 33 10 4.5 0.5 16 Décade 1-10 0 10 46.5 102 117.5 0 0 11 3 15 15 12 28 42 0.5 13 2 48 14 6 28 7 3 15 0.5 21 43 16 20 40 17 2 1.5 18 45 6 1.2 19 1 1 20 7 32 Décade 11-20 0 51.5 67 146 103.5 50.7 0 21 5 7 22 1 7 23 1 100.4 24 30 22 12 25 1 42 26 6 1 4.3 7 27 6 28 T 55 2 29 1 28 2.3 30 4 4 31 10 80 Décade 21-30-31 0 1 88 195 136 19 0 Monthly 0 62.5 201.5 443 357 69.7 0 Season 0 62.5 264 707 1064 1133.7 1133.7 # Days/month 0 5 17 26 19 5 0 68 Appendix 26: Daily rainfall in 2010 rainy season in Djibelor, Ziguinchor/Senegal 2010 May June July August September October November 1 4 18 12 2 39 30 18.5 3 32 7.5 4 4 25 11.5 15 5 28 111 6 119 7 6 10 2 8 12 3.5 2.5 5.5 9 10 15 Décade 1-10 0 0 114 94.5 290 32.5 0 11 37 54 16 12 5 1.5 9 13 4 26 18 0.5 14 4.5 T 0.5 15 20 4 1 11 16 11.5 1.5 13 17 1.5 15 1 18 11 20 83 19 13 40 13 20 32 9 38 Décade 11-20 0 0 122 76.5 252 64 0 21 2 42 0.5 22 6 1 18 23 32 29 24 7 3.2 9 25 16 26 62 26 26 2.5 18 27 11 21 28 12 8 56 29 30 36 30 31 25 61 Décade 21-30-31 0 90 121 192.7 156 0.5 0 Monthly 0 90 357 363.7 698 97 0 Season 0 90 447 810.7 1508.7 1605.7 1605.7 # Days/month 0 4 20 21 23 12 0 69 Appendix 27: Daily rainfall in 2011 rainy season in Djibelor, Ziguinchor/Senegal 2011 May June July August September October November 1 18 2.5 15 56 2 44 24 8 16 3 6 7.5 4 0.5 9 2.5 5 5 6 10 100 7 8 155 9 6 10 22 Décade 1-10 0 0 77 310 39.5 80.5 0 11 0.5 12 30 13 20 14 1 1 100 1 3.5 15 3.5 18 16 9 4.5 2 17 5 T 5 0.5 16 18 1 24 19 55 37 18 20 14 3 Décade 11-20 0 6 86 188 73 19.5 0 21 15 37 22 2 12 10 1.5 23 15 24 15 6.5 2 25 13 12 26 35 21 27 32 28 2 9 0.5 29 4 2.5 20 30 21 1.5 31 6 Décade 21-30-31 0 67 36 130 59.5 3 0 Monthly 0 73 199 628 172 103 0 Season 0 73 272 900 1072 1175 1175 # Days/month 0 6 13 22 18 8 0 70 Appendix 28: Daily rainfall in 2012 rainy season in Djibelor, Ziguinchor/Senegal 2012 May June July August September October November 1 1 9 36 2 21 5 17 3 20 50 12 4 4 55 13 5 50 27 13 6 38 17 7 41 3 3 11 8 1.5 20 9 5 30 10 1.5 12 7 Décade 1-10 0 0 131.5 143.5 205 43 0 11 1.5 83 2 2 12 33 6 13 29 7 2 14 37 3 15 6 8 16 15 41 17 8.5 30 T 21 18 33 40 5 19 20 4.5 45 20 36 18 0.5 Décade 11-20 0 0 190 262.5 59 25.5 0 21 12 14 21 22 47 20 23 0.5 37 0.5 13 12 24 10.5 10 0.5 T 25 25 26 8 26 10.5 30 20 14 27 8 25 10 62 28 4 14 29 11 4 30 3.5 2 31 2.5 17 9 Décade 21-30-31 0 65.5 124 125 147 42 0 Monthly 0 65.5 445.5 531 411 110.5 0 Season 0 65.5 511 1042 1453 1563.5 1563.5 # Days/month 0 6 25 25 21 11 0 71 Appendix 29: Daily rainfall in 2013 rainy season in Djibelor, Ziguinchor/Senegal 2013 May June July August September October November 1 20 25 12 2 87 3 40 8 6 12 4 2 10 5 1.5 2.5 6 9 27 24 7 10 24 3 8 10 5 23 1 9 50 7 24 10 10 32 Décade 1-10 0 10 135 196 69 64 12 11 0.5 26 T 28 12 90 18 3 13 1 21 41 14 3 0.5 33 15 64 19 16 3 11 26 17 4.5 18 22 37 11 19 46 3 20 28 Décade 11-20 0 0.5 39.5 280.5 110 109 0 21 27 40 22 37 15 56 16 23 24 15 25 4.5 26 57 21 37 27 40 3 22 0.2 28 29 6 3 40 18 30 2 15 31 59 Décade 21-30-31 0 6 229.5 149 115 34.2 0 Monthly 0 16.5 404 625 294 206.7 12 Season 0 16.5 420.5 1045.5 1339.5 1546.2 1558.2 # Days/month 0 3 19 24 13 13 1 72 Appendix 30: Daily rainfall in 2014 rainy season in Djibelor, Ziguinchor/Senegal 2014 May June July August September October November 1 7 11 2 25 0.5 3 22 45 35 4 4 9 9 5 36 8 6 1.9 7 7 42 10 8 4 3 8 9 1.5 10 53 4 10 11 7 10 Décade 1-10 0 27 75 97 143 42 0 11 3 23 100 20 12 4 13 51 25 14 3.5 46 15 10 15 21 0.5 12 60 16 0.5 7 15 5 17 33 3 18 88 25 19 5 3 40 20 2 3 5 Décade 11-20 0 29.5 29 344 206 20 0 21 46 17 22 60 23 11 12 24 8 12 25 25 37 7 26 22 1 19 27 40 28 0.5 29 30 27 2 31 6 Décade 21-30- 31 0 8 66 185.5 67 26 0 Monthly 0 64.4 170 626.5 416 88 0 Season 0 64.4 234.4 860.9 1276.9 1364.9 1364.9 # Days/month 0 7 14 24 18 10 0 73 Appendix 31: Daily rainfall in 2015 rainy season in Djibelor, Ziguinchor/Senegal 2015 May June July August September October November 1 27 8 34 19 2 2 2.5 12 3 36 40 10 4 25 5 11 6 16 98 6 7 3 19 8 75 9 11 2.5 29 10 1.5 Décade 1-10 0 0 105 93 198 61 31 11 0.5 19 2 12 4 22 51 16 13 2 25 33 14 16 25 15 1 14 1 16 12 40 3 8 17 32 18 27 14 6 19 1.5 17 20 0.5 28 Décade 11-20 0 13 66 167.5 59 99 16 21 7 22 3 4 23 41 74 39 24 6 12 27 25 95 21 26 23 27 44 28 28 4 9 10 29 2 0.5 10 30 0.5 3.5 5 31 66 Décade 21-30-31 0 5.5 242 90 124 73 0 Monthly 0 18.5 413 350 381 233 47 Season 0 18.5 431.5 781.5 1162.5 1395.5 1442.5 # Days/month 0 6 16 21 15 12 3 74

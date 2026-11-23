@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.soberana-salinization-monitor-venv/
+soberana-salinization-monitor-venv/
+.venv/
+.python-version
+
+# Secrets and local config
+.env
+.env.*
+*.key
+
+# Data contents, folders stay tracked via their READMEs
+data/raw/*
+!data/raw/README.md
+!data/raw/REGISTRY.csv
+data/interim/*
+!data/interim/README.md
+data/derived/*
+!data/derived/README.md
+
+# AOI boundaries are tracked
+!data/aoi/
+
+# Literature PDFs stay local; they are third-party and not redistributed.
+# Extracted text under docs/literature/txt/ is tracked.
+docs/literature/pdf/
+
+# Notebook outputs
+*.nbconvert.ipynb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

@@ -1,0 +1,30 @@
+# Core
+numpy
+pandas
+pyyaml
+requests
+
+# Geospatial
+geopandas
+shapely
+pyproj
+rasterio
+rioxarray
+xarray
+h5netcdf
+scipy
+scikit-learn
+pydeck
+
+# Discovery and fetch
+pystac-client
+planetary-computer
+remotezip
+
+# Dashboard
+streamlit
+
+# Notebooks
+jupyterlab
+ipywidgets
+matplotlib
